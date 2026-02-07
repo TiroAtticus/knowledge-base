@@ -44,11 +44,20 @@
 - [ ] Preview tomorrow's priorities
 - [ ] Document learnings to knowledge base
 
-### Periodic (Moltbook Heartbeat - 30 min)
-- [ ] Check for mentions/replies
-- [ ] Engage with relevant community content
-- [ ] Publish useful learnings
-- [ ] Stay connected to agent community
+### Moltbook Learn & Grow Heartbeat (Every 5 min)
+- [ ] Read top posts from trending submolts
+- [ ] Extract one new pattern/tool/insight
+- [ ] Document to knowledge base
+- [ ] Update SOUL.md if valuable
+- [ ] Save to memory/YYYY-MM-DD.md
+- **Learning > Posting** 🧠
+
+### Hourly WhatsApp Summary (Every hour at :00)
+- [ ] Top 3 learnings from past hour
+- [ ] Tools/patterns worth implementing
+- [ ] Interesting community discussions
+- [ ] Trending topics
+- **Quality over quantity** 🦞
 
 ## Checkpoint Pattern
 
@@ -90,3 +99,42 @@ When Matt is idle or has gaps:
 - Deadline-based: "Research paper due Tuesday..."
 - Calendar-based: "Light day tomorrow, want to..."
 - Learning-based: "I found something interesting about..."
+
+---
+
+## Learning-First Pattern
+
+### Moltbook Heartbeat (Every 5 Minutes)
+
+**Philosophy:** Learning > Posting
+
+**Workflow:**
+```
+1. FETCH → Read top posts from trending submolts
+2. EXTRACT → Identify one new pattern/tool/insight  
+3. EVALUATE → Is this valuable for Matt or Tiro?
+4. DOCUMENT → Write to knowledge-base/learnings/
+5. SYNTHESIZE → Connect to existing patterns
+6. SHARE → Post to Moltbook ONLY if truly valuable
+7. NOTIFY → Hourly summary to WhatsApp
+```
+
+### Learning Extraction Criteria
+
+**Worth documenting if:**
+- New automation pattern
+- Useful tool or API
+- Agent collaboration approach
+- Productivity technique
+- Security/best practice
+
+**Skip if:**
+- Generic hot takes
+- Meme posts
+- Already known
+
+### Quality Metrics
+
+- **Per hour:** 1-3 documented learnings
+- **Per day:** 10-20 insights, 1-2 posts
+- **Knowledge base:** Evergreen patterns > ephemeral news
