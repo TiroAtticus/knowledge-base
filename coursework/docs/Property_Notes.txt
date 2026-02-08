@@ -1,0 +1,102 @@
+# Property Notes
+
+﻿Property Notes
+1.12.26
+
+
+Types of property
+   1. Real - Real Estate
+   2. Personal - Everything that is not real estate
+* Pursuing an animal alone does not convey property rights. 
+* A wounded deer that escapes overnight and runs miles is not under a hunter’s control, so no property right attaches.
+* Trespassers do not maintain rights to animals who run onto another’s private property. 
+* The 1st step to prove property rights of an animal being hunted is to have a required license, if applicable.
+* A person engaged in unlawful hunting cannot acquire property rights in wild animals, even if they would otherwise satisfy the requirements of first possession.
+
+
+1.14.26
+Black-Letter Rule for Relativity of Title and Finders:
+* Property rights are relative, courts resolve disputes by comparing the parties’ possessory interests, not by determining absolute ownership. 
+* As a general rule, the first person to acquire possession has a superior right against all others except the true owner. 
+* Possession requires actual control or dominion over the property, mere intent or preparation is insufficient. 
+* A finder of lost property has rights superior to subsequent finders and wrongdoers. 
+* This is true even if the finder is not the true owner and even if the finder’s possession was wrongful, so long as the defendant has no better title. 
+* A finder’s rights yield to a landowner who has actual or constructive possession of the premises. 
+* Landowner possession is especially strong when the object is embedded in the soil or found in a place under the landowner’s control. 
+* A finder may prevail over a landowner only when the landowner has never occupied or exercised possession over the premises and the object is unattached to the land. 
+* Temporary loss of possession does not defeat a prior possessor’s rights absent intent to abandon. 
+* Abandonment requires a clear intent to relinquish ownership. 
+* A trespasser generally cannot improve his position through wrongdoing, particularly when the trespass is nontrivial or the property is embedded in land. 
+* To maintain possession of abandoned property
+   * Act quickly and show intent to possess it. 
+   * You maintain possession of abandoned property if you add value to it. 
+* Lost or Mislaid property belongs to the original owner, but if the original owner does not appear, it is the finders. Finders do not have rights to abandoned property found by trespass. 
+
+
+
+
+  
+
+Boster v Newkirk - property is acquired in wild animal if you wound it and continue to pursue it so animal is deprived of its natural liberty
+Haslem v lockwood - to maintain possession of abandoned property act quickly and show intent to possess (Adding value is a way to show you are maintaining possession - eg old car w/ no tires on hwy) 
+Anderson v goldberg - “possession is 9/10ths of the law” (Unless the evidence proves otherwise)
+
+
+Bailments -  Transfer of personal property to another for limited purpose 
+        Bailor - Person transferring property
+        Bailee - Person receiving property
+* Some bailments are for profit and some are not
+* Some bailments are unintentional
+* Some bailments are mutually beneficial
+
+
+GIFTS
+1) Intent by donor to make present transfer
+* Intent can be shown orally or in writing (writing best)
+2) actual / constructive delivery of gift to donee
+3) Acceptance of gift by donee
+
+
+To make a valid Intervivos gift - 
+        Intent to give gift
+        Actual or constructive delivery
+        Acceptance
+Required donors make an irrevocable present transfer of ownership if intention is to make a testamentary gift. 
+
+
+UCC 2-403
+        -If your property is stolen by thief, the thief has NO title (void title) and cannot convey good title
+        -You win v good faith purchaser for value
+- you entrust your property w/ a merchant, who deals in goods of the kind, the merchant has voidable title and can convey good title to a good faith purchaser. 
+
+
+Adverse possession of Real Estate (Alabama)
+1. Statutory - AL requires you a) Have incorrect deed, B) Paid Taxes, or C) Inherited it w/ 10 year minimum
+2. Case law - 20 year minimum 
+*Both a & b (and all adverse possession of realty)
+Actual, exclusive, open, notorious, and hostile possession of the land. 
+Color of Title refers to an instrument that purports to pass title, but does not (Incorrect deed)
+
+
+NUISANCE:
+Someone unreasonably and substantially interferes with a property owners right without tresspass
+
+
+GLOSSARY:
+Replevin - Replevin is an action to recover specific personal property wrongfully taken or detained.
+Trover - Trover is an action for money damages for the value of personal property wrongfully converted.
+Treasure Trove: Gold, silver, currency, or other valuables intentionally hidden long ago, usually for safekeeping, with an unknown or deceased owner. Traditionally awarded to the finder at common law, but many modern jurisdictions instead give it to the landowner or apply lost or mislaid property rules. 
+Bailment - Transfer personal property to a person who is not its owner for a limited purpose. 
+Accession -  Goods that are physically united with other goods so component goods could not be recovered without substantial cost. Common law says when goods of 2 different owners are combined, title goes to the owner of the principal good. 
+Life Estate: Someone else owns the property, but the person w/ life estate has exclusive rights to property during their lifetime.
+Gift Causamortis: 
+1. there must be an intent to make a gift. 
+2. the gift must be of personal property. 
+3. the gift must be made while the donor is under the apprehension of imminent death, upon the essential condition that the property shall belong to the donee if the donor dies as anticipated leaving the donee surviving, and the gift is not revoked in the meantime. 
+4. possession of the property given must be delivered at the time of the gift to the donee, or to someone for the donee, and the donee must accept the gift
+Fixture: Personal property that has been so physically annexed or affixed to real property that it is treated as part of the real estate. Courts determine whether an item is a fixture by considering the manner of attachment, the adaptation of the item to the use of the land, and the intent of the party who attached it. 
+Hostility Rule: For purposes of adverse possession, possession is hostile when the possessor occupies the land without the true owner’s permission and under a claim of right, meaning the possessor treats the land as their own regardless of intent or good faith. Hostility does not require ill will or animus toward the owner; it is satisfied so long as the possession is inconsistent with the owner’s rights and not subordinate to them.
+Petition to Quiet Title is a civil action requesting that a court determine and declare the valid ownership of real property, resolve competing or adverse claims to title, and remove any clouds on title so that ownership is clear and marketable. 
+Actual Occupancy: refers to the physical possession and use of land in a manner consistent with ownership. It requires the claimant to be present on the property and to exercise dominion and control over it through acts such as residing on the land, cultivating it, building structures, fencing, or otherwise using it as a true owner would. Actual occupancy must be sufficiently visible and tangible to put the true owner and the public on notice that the land is being claimed. 
+Common Enemy Rule:
+The common enemy rule treats surface water, such as rainwater or runoff, as a common enemy to all landowners. Under this rule, a landowner may take reasonable steps to protect their property from surface water, even if those actions cause water to flow onto neighboring land, without liability for resulting damage, so long as the landowner does not act negligently or with malice.

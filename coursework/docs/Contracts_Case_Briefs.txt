@@ -1,0 +1,336 @@
+# Contracts Case Briefs
+
+﻿Contracts Case Briefs
+How to Brief Cases
+1. Who is suing whom for what? 
+2. Procedural background & disposition
+3. Issues / Questions & Story (Facts narrative)
+Hawkins v. McGee
+84 N.H. 114, 146 A. 641 (N.H. 1929)
+Court & Date
+New Hampshire Supreme Court, 1929
+Procedural History
+Hawkins sued Dr. McGee in assumpsit for breach of contract based on an alleged warranty of surgical success. The jury returned a verdict for Hawkins. The trial court set aside the verdict as excessive unless Hawkins remitted damages. Hawkins refused and appealed.
+Question Presented (Issue)
+What is the proper measure of damages when a physician breaches a promise to achieve a specific surgical result?
+Trigger (Legally Relevant) Facts
+* Hawkins suffered a burn on his hand years earlier, leaving scar tissue.
+
+* Dr. McGee proposed surgery and stated he would guarantee a “100 percent perfect hand” or a “100 percent good hand.”
+
+* Hawkins consented to surgery based on this promise.
+
+* The operation involved removing scar tissue and grafting skin from Hawkins’ chest.
+
+* The surgery failed and left Hawkins’ hand worse than before, including severe scarring and hair growth on the hand.
+
+* Hawkins endured pain and suffering from the operation.
+
+* Hawkins sued for breach of the alleged warranty.
+
+Holding
+The proper measure of damages is the difference between the value of the hand as promised and the value of the hand as it actually turned out, not damages for pain and suffering incident to the operation.
+Rule (Law Applied)
+Contract damages are measured by the plaintiff’s expectation interest, meaning the value of what was promised minus the value of what was received.
+Reasoning (Court’s Explanation)
+   * Contract damages aim to put the plaintiff in the position he would have been in had the contract been performed.
+
+   * Pain and suffering from the operation would have occurred even if the surgery had been successful and thus cannot be attributed to the breach.
+
+   * The jury instruction allowing recovery for pain and suffering and worsening of condition misstated contract damages.
+
+   * The correct comparison is between the promised “perfect” hand and the actual post-operation hand.
+
+Main Takeaway (Why You’re Studying This Case)
+Hawkins is the classic expectancy-damages case. It establishes expectation damages as the default remedy for breach of contract.
+Cold-Call One-Liner
+In a contract case, damages equal the value of the promised result minus the value of what was actually received.
+________________
+
+
+Sullivan v. O’Connor
+363 Mass. 579 (Mass. 1973)
+Court & Date
+Supreme Judicial Court of Massachusetts, 1973
+Procedural History
+Sullivan sued her surgeon for breach of contract and negligence after cosmetic surgery worsened her appearance. The jury found for Sullivan on the contract claim but not on negligence. The defendant appealed the damages instructions.
+Question Presented (Issue)
+What measure of damages applies when a physician breaches a promise to achieve a specific medical result?
+Trigger (Legally Relevant) Facts
+      * Sullivan was a professional entertainer.
+
+      * Her surgeon promised to improve her appearance through cosmetic nose surgery.
+
+      * The surgeon performed multiple operations.
+
+      * The final result left Sullivan’s nose disfigured and worse than before.
+
+      * Sullivan incurred medical expenses and endured additional pain and suffering.
+
+      * The jury found breach of contract but no medical negligence
+Holding
+The plaintiff may recover reliance damages, including out-of-pocket expenses, worsening of condition, and pain and suffering from additional procedures, rather than full expectancy damages.
+Rule (Law Applied)
+In physician-patient contract cases, courts may limit recovery to reliance damages when expectancy damages would be excessive or speculative.
+Reasoning (Court’s Explanation)
+         * Medical promises are made in a non-commercial, uncertain context.
+
+         * Expectation damages may impose disproportionate liability given the nature of medical practice.
+
+         * Reliance damages restore the plaintiff to the position she occupied before the contract.
+
+         * Pain and suffering caused by the breach, beyond what was contemplated by the agreement, may be recoverable.
+Main Takeaway (Why You’re Studying This Case)
+Sullivan limits Hawkins. It shows that courts may substitute reliance damages for expectancy damages in special, non-commercial contract contexts.
+Cold-Call One-Liner
+In medical contract cases, courts may reject expectancy damages and award reliance damages instead.
+________________
+
+
+Lucy v. Zehmer
+Court & Date
+Supreme Court of Virginia, 1954
+Procedural History
+            * Lucy sued Zehmer for specific performance of a written agreement to sell Zehmer’s farm.
+            * The trial court ruled for Zehmer, finding no valid contract because the agreement was made in jest while the parties were drinking.
+            * Lucy appealed, arguing the agreement was objectively a real contract and should be enforced.
+Question Presented (Issue)
+Is a contract formed when one party subjectively claims they were joking, but their words and actions would lead a reasonable person to believe they intended to contract?
+Trigger (Legally Relevant) Facts
+            * Zehmer and Lucy discussed the sale of Zehmer’s farm while drinking at Zehmer’s restaurant.
+            * Zehmer wrote and signed a statement agreeing to sell the farm to Lucy for $50,000, later revising it to include his wife’s signature.
+            * Lucy took the agreement seriously and attempted to enforce it.
+            * Zehmer later claimed he was joking and had no intent to sell the farm.
+Plaintiff’s Arguments (Lucy)
+            * Zehmer’s written and signed agreement, including revisions and obtaining his wife’s signature, showed outward intent to contract.
+            * Lucy reasonably believed the agreement was genuine and relied on it.
+            * Subjective intent not to contract is irrelevant when objective conduct indicates assent.
+Defendant’s Arguments (Zehmer)
+            * The agreement was made in jest while drinking.
+            * Zehmer lacked subjective intent to sell his farm.
+            * Lucy knew or should have known the agreement was not serious.
+Rule (Law Applied)
+A party’s undisclosed subjective intent is irrelevant if their words and actions would lead a reasonable person to believe they intended to enter into a contract.
+Reasoning (Court’s Explanation)
+            * The court focused on objective manifestations of intent rather than Zehmer’s claimed internal mindset.
+            * Zehmer discussed terms seriously, rewrote the agreement, and obtained his wife’s signature, conduct inconsistent with joking.
+            * Lucy’s belief that the agreement was real was reasonable under the circumstances.
+            * Contract law protects reasonable reliance on outward expressions, not hidden intentions.
+Holding
+Yes. A valid contract was formed because Zehmer’s objective conduct manifested intent to contract, regardless of his claimed subjective intent.
+Main Takeaway (Why You’re Studying This Case)
+This case establishes the objective theory of contracts: courts enforce agreements based on what reasonable parties would understand from outward conduct, not secret intentions.
+It is foundational for offer, acceptance, and mutual assent analysis on exams.
+________________
+
+
+1.14.26 Reading Questions
+QFR p 30 #1, p 31 #1-2, Test Yourself p42, p52 all, p53 (1,2,4)
+P30 
+            1. Which is most accurate statement of Law?
+            1. The UCC Covers the Sale of Goods. 
+P31
+            1. Sam owns a bicycle store and sells a bicycle to Betty, a consumer, for $1000. Later Betty claims the bike was defective when Sam sold it to her. Which body of law would the court apply? 
+            1. UCC
+            2. Betty’s bike breaks down, but it is out of warranty. She goes back to Sam who sells her a service contract to repair the bike for $100. Later, Betty claims that Sam’s repairs were inadequate. Which body of law would the court apply?
+            1. Common Law
+Test Yourself p 42. 
+The evaluation of the student portion of the student handbook does not make a promise based on the three elements of a promise. First, they do not make a promise because the handbook does not establish the professor has an intention to deliver status updates, only that it is desirable that a professor share those updates. Second, the Medical student is not justified in understanding a commitment has been made because of the clear ordinary meaning of the passage. 
+P52
+            1. When trying to determine a party’s intent, a court will start by considering the ordinary meaning of the words. 
+            1. True
+            2. The meaning of a party’s manifestation of assent is judged
+            1. By the objective reasonable interpretation of his outward expression of consent and not by his subjective intent. 
+            3. Shirley and Leon are contemplating entering a contract. Shirley knows that Leon has a certain interpretation of a provision of that contract. Shirley has a different interpretation, and Leon is unaware of Shirley's interpretation. Both interpretations are reasonable. Shrley and Leon enter the contract, but there is a dispute later over the interpretation of the provision mentioned above. If a court is applying Restatement (second) of Contracts §201, whose interpretation will the court most likely follow?
+            1. Leon’s
+            4. Charlie wants to play a prank on his friend Jeremy. He knows that Jeremy wanted to purchase Charlie’s vintage 1963 Ford Thunderbird; however, Charlie refused to sell it. Additionally, Charlie was sure that Jeremy did not have the money to purchase the car. One night while drinking, Charlie taunts Jeremy and says that he is willing to sell Jeremy the car for 30k - a price that is 25% above fair market value. Jeremy agrees, and Charlie puts their agreement in writing. After sobering up the next day, Charlie was surprised to find Jermy on his doorstep with a certified check for $30k demanding possession of the car. Charlie refuses, and Jeremy sues for breach of contract. Which of the following best states the legal relationship. 
+            1. A contract exists, and Charlie is liable for breach. 
+            5. Two parties enter a contract, but they have different interpretations of an important term of the contract. Both interpretations are reasonable. Neither party knows of the other party’s interpretation. If the parties end up in litigation over the contract and a court applies Restatement (second) of Contracts §201, which of the following statements best reflects a likely outcome?
+            1. The court may conclude that a contract never formed since there was no “meeting of the minds” 
+P53
+            1. A parent requests an application from a private school to enroll their children. The school sends the parents the application, which the parent then fills out, signs, and returns. The application requires the parent to fill in personal information about the parent and the children and requires that the parent include the children’s grades from their previous school. The application also has a place for the parent to sign stating that the information on the application is truthful. 
+Based on just these facts, consider the following two questions. Justify reasoning. 
+               1. Did the school promise to enroll the children by sending the parent the application? No, by requesting and filling an application to join an association or organization the receiver of the application has no duty to accept the application unless otherwise stated. 
+               2. Did the parent make a promise that they would enroll the child when they returned the application? Not unless otherwise stated in the application for membership, some applications to certain organizations could include a commitment to join if accepted, often these applications would include some sort of application fee or deposit to show the applicants seriousness in joining. In this situation, the parent likely did not commit to enroll the student by applying to the school. 
+________________
+
+
+Case Name
+Leonard v. Pepsico, Inc.
+Court & Date
+United States District Court for the Southern District of New York, 1999
+Affirmed by the United States Court of Appeals for the Second Circuit, 2000
+Procedural History
+Leonard initially filed suit in Florida state court, seeking specific performance and damages, alleging that Pepsico breached a contract by refusing to deliver a Harrier Jet promised in a television advertisement. Pepsico removed the case to federal court in Florida based on diversity jurisdiction.
+Pepsico then moved to dismiss for lack of personal jurisdiction and improper venue, arguing that the relevant conduct, including the creation and dissemination of the advertisement and administration of the Pepsi Points program, occurred in New York. The Florida federal court agreed and dismissed the case without prejudice.
+Leonard subsequently refiled the action in the United States District Court for the Southern District of New York. Pepsico again challenged the claim, this time moving for summary judgment on the merits, arguing that no enforceable contract existed as a matter of law. The district court granted summary judgment for Pepsico, holding that the advertisement was not a valid offer.
+Leonard appealed to the Second Circuit, which affirmed the district court’s decision.
+Question Presented (Issue)
+Did Pepsico’s television advertisement offering a Harrier Jet in exchange for Pepsi Points constitute a valid offer capable of acceptance, forming an enforceable contract?
+Trigger (Legally Relevant) Facts
+Pepsico aired a nationwide television commercial promoting Pepsi Points, which could be redeemed for merchandise. The commercial depicted a Harrier Jet landing at a high school and stated that the jet could be obtained for seven million Pepsi Points. Leonard attempted to accept the alleged offer by submitting an order form, points obtained through purchase, and a check to cover the remaining balance. Pepsico refused, asserting that the jet depiction was a joke.
+Plaintiff’s Arguments (Leonard)
+Leonard argued that the commercial was clear, definite, and explicit, and therefore constituted an offer. He claimed that he accepted the offer by performing exactly as specified and that the absence of an express disclaimer made the offer enforceable.
+Defendant’s Arguments (Pepsico)
+Pepsico argued that the commercial was mere advertisement and puffery, not an offer. It contended that no reasonable person could believe a military jet was being offered in a soft drink promotion, and that the official Pepsi Points catalog, which controlled redemption, did not list the jet.
+Rule (Law Applied)
+Advertisements are generally invitations to negotiate and not offers, unless they are clear, definite, and explicit, and an offer must be interpreted according to whether a reasonable person would understand it as a serious manifestation of intent to be bound.
+Reasoning (Court’s Explanation)
+The court applied the objective theory of contracts, focusing on how a reasonable person would interpret the advertisement. It emphasized the extreme cost, military nature, and regulatory restrictions associated with a Harrier Jet, all of which made the alleged offer patently unrealistic. The court also noted that the commercial lacked essential terms and conflicted with the official redemption catalog. Leonard’s subjective belief could not override the objective absurdity of the claim.
+Holding
+No. The advertisement did not constitute a valid offer, and no enforceable contract was formed.
+Main Takeaway (Why You’re Studying This Case)
+Leonard v. Pepsico is a canonical example of the objective theory of contracts and the rule that advertisements are ordinarily not offers. It reinforces that courts assess intent through the lens of a reasonable person, not literalism or opportunism, and it frequently appears in exams testing offer, acceptance, and contractual intent.
+
+
+P 72 Test yourself:
+No offer was formed until statement 8 where Bridget made a definitive offer to complete a transaction at a certain time for a certain price under negotiated terms. At statement 9, Martin's reply constitutes an acceptance of Bridget’s terms.
+QFR pp.78–79
+               1. Juan sent a signed email message to Mary stating, “I offer you a one-year contract to work as an architect in my architecture firm starting August 1 for a salary of $105,000 a year.” Mary is B) The Offeree
+               2. Ariana is a DJ who mixes music at popular clubs worldwide. Jadyn is a promoter / agent who books gigs for DJs. Jadyn proposes that Ariana perform at a series of events at specific clubs on specific dates during the summer but that Ariana’s fee will be discussed later. Which of the following best describes Jadyn’s proposal? B or C
+               3. Why do most advertisements fail to be offered?
+               1. C there is no identified Offeree
+               4. To be an offer there 
+               1. Must be an identified offeree or offerees
+               5. A Price quote is normally construed as
+               1. D - Prospective acceptance conditioned on the buyer making an offer
+               6. One standard that courts consider in deciding whether an offer has been made is “Whether the court can determine a breach of contract and what would be the appropriate remedy.” Which element of the offer rule does this standard relate to? 
+               1. B Certain and definite terms
+               7. Parties are in preliminary negotiations if
+               1.  a) Both the offeror and the offeree have manifested the intent to enter a contract
+               8. The power of acceptance is
+               1. C Right of the offeree to form the contract
+               9. Claire asks her friend Brandon to go to the Los Angeles Angels baseball game during game 1 of the playoffs. She knows Brandon is a fan of the Angels, and she could benefit from his companionship. Clair has
+               1. C. Not made an offer because of the presumption that social engagement are not intended to be bargains. 
+________________
+
+
+Benya v. Stevens and Thompson Paper Co.
+Court & Date
+Supreme Court of Vermont, 468 A.2d 929, November 1, 1983
+
+
+Procedural History
+Benya (plaintiff) sued Stevens and Thompson Paper Co. (defendant) seeking specific performance or damages, claiming the parties had formed a binding contract for the sale of land. The trial court ruled for the defendant, finding no enforceable contract had been formed. Benya appealed to the Vermont Supreme Court.
+Question Presented (Issue)
+When parties exchange proposed terms during negotiations for the sale of land, under what circumstances does that exchange create a binding contract rather than ongoing negotiations?
+Trigger (Legally Relevant) Facts
+The parties engaged in negotiations for the sale of land. They exchanged letters and draft terms discussing price, boundaries, conditions, and contingencies. While there was agreement on some major terms, other material terms remained unresolved, and the parties contemplated execution of a formal written contract. No final contract was ever signed.
+Plaintiff’s Arguments
+Benya argued that the parties had reached agreement on all essential terms and that the correspondence showed mutual assent sufficient to form a binding contract, even though a formal document had not yet been executed.
+Defendant’s Arguments
+The defendant argued that the communications reflected ongoing negotiations, not final agreement, and that the parties intended to be bound only upon execution of a formal written contract.
+Rule (Law Applied)
+A binding contract for the sale of land is formed only when the parties mutually assent to all material terms and intend to be bound. If the parties contemplate execution of a formal written agreement and material terms remain unresolved, no enforceable contract exists.
+Reasoning (Court’s Explanation)
+The court emphasized objective intent, not subjective belief. Although the parties agreed on some terms, the correspondence showed continued negotiation and unresolved material provisions. The court also stressed that land sale contracts demand clarity and completeness. Where parties indicate that a formal writing is contemplated as a condition of agreement, preliminary negotiations do not create a binding contract.
+Holding
+No. The parties did not form an enforceable contract for the sale of land. Actual damages plus punitive damages were awarded
+Disposition
+Judgment for the defendant affirmed.
+Main Takeaway (Why You’re Studying This Case)
+This case is a classic illustration of negotiations versus contract formation, especially in land transactions. It teaches that agreement on price alone is not enough. Courts look at whether all material terms are settled and whether the parties intended to be bound immediately or only after a formal written contract. On exams, this case is key for analyzing letters of intent, draft agreements, and failed land deals.
+________________
+
+
+Cantu v. Central Education Agency (Tex. App. 1994)
+Procedural History
+               * Appellant Maria Diosel Cantu sought judicial review of a final order issued by the State Commissioner of Education, Lionel Meno.
+               * The district court affirmed the Commissioner's decision.
+               * The appellate court reviewed the trial court's judgment.
+Facts
+               * Maria Diosel Cantu was hired as a special-education teacher by the San Benito Consolidated Independent School District under a one-year contract for the 1990-91 school year.
+               * On August 18, 1990, Cantu hand-delivered a letter of resignation to her supervisor, effective August 17, 1990, and requested her final paycheck be sent to an address in McAllen, Texas, approximately fifty miles away.
+               * The superintendent of schools, the only official authorized to accept resignations, received the resignation on August 20, 1990, and mailed a letter accepting the resignation that same day.
+               * On August 21, 1990, Cantu hand-delivered a letter to the superintendent's office withdrawing her resignation.
+               * The superintendent informed Cantu that her resignation had already been accepted and could not be withdrawn.
+               * The Commissioner of Education concluded that the school district's acceptance of Cantu's resignation was effective when mailed, and the refusal to honor her contract was not unlawful.
+Issues
+               * Whether the mailbox rule under Texas law was correctly applied to determine that the school district's acceptance of Cantu's resignation was effective upon mailing, despite the absence of express authorization to accept by mail.
+Rule
+               * The mailbox rule provides that a properly addressed acceptance of an offer is effective when deposited in the mail, unless otherwise agreed or provided by law.
+               * Acceptance by mail is impliedly authorized if reasonable under the circumstances, even if the offer was not made by mail or expressly authorized for acceptance by mail.
+               * Texas courts are directed to consider whether acceptance by mail is reasonable under the circumstances in commercial transactions under Tex. Bus. & Com. Code Ann. § 2.206.
+Analysis
+               * The court noted that the mailbox rule allows acceptance by mail to be impliedly authorized if reasonable under the circumstances.
+               * The court considered the timing of Cantu's resignation, which was submitted shortly before the school year began, creating an urgent need for the school district to find a replacement.
+               * Cantu delivered her resignation on a Saturday, delaying the superintendent's ability to respond until Monday, August 20.
+               * Cantu's request to have her final paycheck sent to an address fifty miles away indicated she did not intend to return to the school premises or offices, making mail a reasonable method of acceptance.
+               * The court rejected Cantu's reliance on the 1903 case Scottish-American Mortgage Co. v. Davis, finding it inapplicable to modern circumstances and noting that more recent case law, such as McKinney v. Croan, supports considering the reasonableness of acceptance by mail under the circumstances.
+               * The court concluded that the superintendent's acceptance of Cantu's resignation by mail was reasonable and effective upon mailing.
+Conclusion
+               * The appellate court affirmed the trial court's judgment, holding that the Commissioner of Education correctly determined that the school district's acceptance of Cantu's resignation was effective upon mailing, thereby rescinding her employment contract before she attempted to withdraw her resignation.
+________________
+
+
+Lewis v. Fletcher
+        Court: Supreme Court of Idaho
+        Year: 1980
+Facts
+Lewis entered into a contract with Fletcher for the purchase of property. Lewis made payments under the agreement. The transaction ultimately failed when the contract could not be completed as contemplated, due to defects or inability to convey the promised interest. Lewis sought to rescind the contract and recover payments already made. Fletcher argued that Lewis was not entitled to restitution because the contract had been partially performed.
+Procedural History
+The trial court denied Lewis full restitution. Lewis appealed to the Idaho Supreme Court.
+Issue
+When a contract fails and is rescinded, is the purchaser entitled to restitution of payments made despite partial performance under the contract?
+Rule
+When a contract is rescinded due to failure of consideration or inability to perform, the parties should be restored to the positions they occupied before the contract, as nearly as possible. Restitution is available to prevent unjust enrichment, even where partial performance has occurred.
+Holding
+Yes. Lewis was entitled to restitution of the payments made under the contract.
+Reasoning
+The court emphasized that rescission operates to unwind the contract. Because the fundamental purpose of the agreement failed, allowing Fletcher to retain Lewis’s payments would result in unjust enrichment. Partial performance does not bar restitution where the contract cannot be completed and rescission is appropriate. Equity requires returning the parties to the status quo ante.
+Disposition
+Reversed and remanded with instructions to award restitution.
+Key Takeaway
+In contract law, rescission triggers restitution. When a contract fails due to inability to perform or failure of consideration, courts aim to restore the parties to their pre-contract positions and prevent unjust enrichment, even if partial performance occurred.
+________________
+
+
+Hamer v. Sidway
+Citation: 124 N.Y. 538, 27 N.E. 256 (1891)
+Court: New York Court of Appeals
+Procedural Posture
+Plaintiff appealed from an order of the General Term of the Supreme Court that reversed a judgment entered in plaintiff’s favor at trial and granted a new trial.
+Facts
+William E. Story Sr., the uncle, promised his nephew, William E. Story Jr., that if the nephew refrained from drinking alcohol, using tobacco, swearing, and gambling until reaching age twenty-one, the uncle would pay him $5,000.
+The nephew agreed and fully performed the conditions. Upon turning twenty-one, he demanded payment. The uncle acknowledged the agreement and performance in writing, stating the money was set aside and would accrue interest, but he did not pay it before his death.
+Plaintiff, as assignee of the nephew’s claim, sued the executor of the uncle’s estate to enforce the promise.
+Issue
+Does a promise supported by a promisee’s forbearance of legal rights constitute sufficient consideration to form an enforceable contract?
+Holding
+Yes. A promisee’s voluntary forbearance of legal rights is sufficient consideration to support a contract.
+Rule of Law
+Consideration exists when the promisee incurs a legal detriment or forgoes a legal right at the promisor’s request. The law does not inquire whether the forbearance benefits the promisor or harms the promisee.
+Reasoning
+The court rejected the argument that consideration requires a benefit to the promisor or harm to the promisee. Instead, consideration focuses on whether the promisee restricted lawful freedom of action in reliance on the promise.
+The nephew had a legal right to drink alcohol and use tobacco. By surrendering those rights for a period of years at his uncle’s request, he incurred a legal detriment. This forbearance alone was sufficient consideration, regardless of whether it improved the nephew’s health or morals.
+Because the nephew fully performed, the uncle’s promise was enforceable, and the estate was bound to honor it.
+Disposition
+Order of the General Term reversed. Judgment of the trial court in favor of the plaintiff affirmed.
+Key Takeaway (Exam Tip)
+Consideration = legal detriment, not moral benefit. Forbearance of a lawful right is sufficient consideration even if the promisee benefits and the promisor gains nothing tangible.
+Plowman v. Indian Refining Co.
+212 S.W. 469 (Ky. Ct. App. 1919)
+Court & Date
+Kentucky Court of Appeals, 1919
+Procedural History
+Former employees of Indian Refining Co. sued the company to enforce a promise of lifetime payments made after they were terminated. The trial court entered judgment for the plaintiffs. The company appealed.
+Question Presented (Issue)
+Does an employer’s promise to make lifetime payments to former employees constitute an enforceable contract when the only alleged consideration is past service or the employees’ act of coming to collect the payments?
+Trigger (Legally Relevant) Facts
+Plowman and other plaintiffs were longtime employees of Indian Refining Co. After the company ceased operations, a corporate officer told certain older employees that the company would pay them $50 per month for life. The payments were framed as a reward for loyal past service. The employees were told to come to the office periodically to pick up their checks. After some payments were made, the company stopped paying. The plaintiffs sued, arguing that the promise was supported by consideration.
+Plaintiffs’ Arguments
+The plaintiffs argued that their years of loyal service constituted consideration for the promise. Alternatively, they claimed that their inconvenience in coming to the office to collect the checks was sufficient consideration to support a binding contract.
+Defendant’s Arguments
+Indian Refining Co. argued that past services cannot serve as consideration for a new promise and that requiring employees to come pick up checks was merely a condition of receiving a gratuity, not bargained-for consideration.
+Rule (Law Applied)
+Past consideration is not valid consideration. A promise based solely on moral obligation or past services is unenforceable unless supported by new, bargained-for legal detriment or benefit.
+Reasoning (Court’s Explanation)
+The court held that the employees’ prior service could not serve as consideration because it was already completed and not bargained for in exchange for the promise. The court also rejected the argument that traveling to collect the checks was consideration, reasoning that this was merely a condition attached to a gratuitous promise, not a legal detriment bargained for by the promisor. The company did not seek the travel as the price of its promise, and it provided no benefit to the company.
+Holding
+No enforceable contract existed. The promise to make lifetime payments was gratuitous and unsupported by consideration.
+Disposition
+Judgment reversed for the defendant.
+Main Takeaway (Why You’re Studying This Case)
+Plowman is a classic consideration case. It reinforces that past service is not consideration and that mere conditions on a gift do not transform a gratuitous promise into a binding contract.
+Cold-Call One-Liner
+A promise to reward past service is a gift, not a contract, unless supported by new, bargained-for consideration.

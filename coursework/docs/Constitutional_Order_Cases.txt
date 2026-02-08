@@ -1,0 +1,306 @@
+# Constitutional Order Cases
+
+﻿Constitutional Order Cases
+Marbury v. Madison
+Court & Date
+Supreme Court of the United States, 1803
+Procedural History
+Outgoing President John Adams appointed William Marbury as a justice of the peace. Marbury’s commission was signed and sealed but not delivered before Thomas Jefferson took office. Jefferson instructed his Secretary of State, James Madison, not to deliver it. Marbury filed an original action in the Supreme Court seeking a writ of mandamus ordering Madison to deliver the commission. The Court had to determine whether it had authority to issue such a writ.
+Question Presented (Issue)
+Does the Supreme Court have original jurisdiction to issue a writ of mandamus compelling the Secretary of State to deliver a judicial commission?
+Trigger (Legally Relevant) Facts
+* Marbury’s commission was validly signed and sealed.
+
+* Delivery was withheld by the new administration.
+
+* Marbury relied on Section 13 of the Judiciary Act of 1789 for Supreme Court authority.
+
+* Article III of the Constitution defines and limits original jurisdiction.
+Plaintiff’s Arguments
+Marbury argued that he had a vested legal right to his commission and that Section 13 of the Judiciary Act of 1789 authorized the Supreme Court to issue a writ of mandamus as an exercise of its original jurisdiction.
+Defendant’s Arguments
+Madison, represented by the Jefferson administration, argued that the Court lacked authority to issue the writ and that the judiciary could not interfere with executive discretion.
+Rule (Law Applied)
+When a statute conflicts with the Constitution, the Constitution controls, and it is the duty of the judiciary to say what the law is.
+Reasoning (Court’s Explanation)
+Chief Justice Marshall reasoned in three steps. First, Marbury had a legal right to the commission once it was signed and sealed. Second, the law ordinarily provides a remedy when a legal right is violated. Third, the Supreme Court could not provide that remedy here because Section 13 of the Judiciary Act purported to expand the Court’s original jurisdiction beyond what Article III permits. Because the Constitution is supreme law, the conflicting portion of the statute was void. The Court asserted that determining constitutionality is an inherent judicial function.
+Holding
+No. The Supreme Court lacks original jurisdiction to issue the writ of mandamus because Section 13 of the Judiciary Act of 1789 is unconstitutional.
+Main Takeaway (Why You’re Studying This Case)
+Marbury v. Madison establishes judicial review, confirming that federal courts have the authority to declare acts of Congress unconstitutional. It cements the judiciary as a co-equal branch and defines the constitutional limits of judicial power, making it the cornerstone case for constitutional structure and order.
+________________
+
+
+Cooper v. Aaron
+358 U.S. 1 (1958) United States Supreme Court
+Facts
+Following Brown v. Board of Education, the Little Rock School Board adopted a gradual desegregation plan. When nine Black students attempted to integrate Little Rock Central High School, Arkansas officials, including the Governor, resisted enforcement. Violence and public opposition erupted, and the Governor used the Arkansas National Guard to block integration. The School Board sought a postponement of desegregation, arguing that state opposition and public unrest made compliance impracticable.
+Procedural History
+A federal district court granted the postponement. The Court of Appeals reversed. The case reached the U.S. Supreme Court.
+Issue
+Can state officials refuse to comply with federal court orders interpreting the Constitution on the grounds of state law, public opposition, or claimed threats to public order?
+Holding
+No. State officials are bound by the U.S. Constitution and the Supreme Court’s interpretation of it. They may not delay or refuse compliance with federal constitutional mandates.
+Rule
+The Constitution is the supreme law of the land, and the Supreme Court’s interpretations of the Constitution are binding on all states. State officials cannot nullify federal law or Supreme Court decisions through resistance, delay, or legislative action.
+Reasoning
+   * Article VI’s Supremacy Clause makes federal law superior to state law.
+   * Brown v. Board of Education was a constitutional interpretation that bound all states.
+   * Allowing states to disregard Supreme Court rulings would undermine the rule of law and create constitutional chaos.
+   * Public hostility or potential violence does not excuse noncompliance with constitutional rights.
+   * All state officials take an oath to support the U.S. Constitution, not their own interpretations of it.
+Concurrence
+All nine Justices signed the opinion, underscoring unanimity and reinforcing the authority of the Supreme Court.
+Key Takeaway
+States cannot ignore, delay, or resist Supreme Court rulings. Judicial supremacy and constitutional supremacy are absolute.
+Why This Case Matters
+   * Establishes judicial supremacy.
+   * Rejects state nullification.
+   * Reinforces federal authority during the Civil Rights Movement.
+________________
+
+
+Baker v. Carr
+U.S. Supreme Court, 1962
+Procedural Posture
+Voters challenged Tennessee’s failure to reapportion its legislature since 1901. The district court dismissed for lack of jurisdiction and nonjusticiability. Plaintiffs appealed.
+Facts
+Tennessee’s legislative districts were grossly malapportioned due to population shifts. Urban voters alleged vote dilution in violation of the Equal Protection Clause.
+Issue
+Do challenges to legislative apportionment present a justiciable controversy, or are they barred by the political question doctrine?
+Rule
+A claim is nonjusticiable only if it presents a political question, such as a textually demonstrable constitutional commitment to another branch or a lack of judicially manageable standards.
+Holding
+Yes, the claim is justiciable.
+Reasoning
+The Court held that Equal Protection challenges to vote dilution are within judicial competence. The plaintiffs alleged a concrete injury, and the Constitution does not commit apportionment questions exclusively to the political branches. Judicial standards exist to resolve the claim.
+Significance
+Established that federal courts may hear legislative apportionment cases and articulated the modern political question doctrine.
+
+
+Test
+A case presents a political question if any one of the following is present:
+   * Textually demonstrable constitutional commitment of the issue to a coordinate political department.
+   * Lack of judicially discoverable and manageable standards for resolving it.
+   * Impossibility of deciding without an initial policy determination of a kind clearly for nonjudicial discretion.
+   * Impossibility of a court’s undertaking independent resolution without expressing lack of respect due coordinate branches of government.
+   * Unusual need for unquestioning adherence to a political decision already made.
+   * Potential of embarrassment from multifarious pronouncements by various departments on one question.
+________________
+
+
+Powell v. McCormack
+U.S. Supreme Court, 1969
+Procedural Posture
+Adam Clayton Powell sued after the House refused to seat him despite his election. Lower courts dismissed. Powell appealed.
+Facts
+The House excluded Powell due to alleged misconduct, even though he met the constitutional qualifications for office.
+Issue
+May the House exclude a duly elected member who meets all constitutional qualifications?
+Rule
+Congress may judge only the qualifications expressly listed in Article I and may not add additional qualifications.
+Holding
+No. The House acted unconstitutionally.
+Reasoning
+The Constitution limits qualifications to age, citizenship, and residency. While Congress may expel a member after seating, it cannot exclude a member-elect who meets these criteria. The issue was justiciable because it required constitutional interpretation, not policy judgment.
+Significance
+Reinforced limits on congressional power and narrowed use of the political question doctrine.
+________________
+
+
+Goldwater v. Carter
+U.S. Supreme Court, 1979
+Procedural Posture
+Senators challenged President Carter’s unilateral termination of a treaty. Lower courts dismissed. Supreme Court reviewed.
+Facts
+President Carter terminated a defense treaty with Taiwan without Senate approval.
+Issue
+Is a dispute between Congress and the President over treaty termination justiciable?
+Rule
+Courts will not decide disputes constitutionally committed to the political branches, especially in foreign affairs.
+Holding
+No majority opinion. The case was dismissed as nonjusticiable.
+Reasoning
+A plurality concluded the issue involved foreign relations and lacked a clear constitutional directive. Because Congress had not taken official action opposing termination, the dispute was premature and political in nature.
+Significance
+Illustrates limits of judicial review in foreign affairs and interbranch disputes.
+________________
+
+
+Nixon v. United States
+U.S. Supreme Court, 1993
+Procedural Posture
+A federal judge challenged his impeachment conviction. Lower courts dismissed. Supreme Court granted certiorari.
+Facts
+The Senate used a committee to hear evidence during Nixon’s impeachment trial rather than the full Senate.
+Issue
+Are Senate impeachment procedures subject to judicial review?
+Rule
+When the Constitution commits a function exclusively to another branch, courts lack authority to review it.
+Holding
+No. The claim is nonjusticiable.
+Reasoning
+The Impeachment Trial Clause grants the Senate the “sole power” to try impeachments. Judicial review would violate separation of powers and undermine finality.
+Significance
+Confirms impeachment trials are political questions beyond judicial review.
+________________
+
+
+Bush v. Gore
+U.S. Supreme Court, 2000
+Procedural Posture
+Bush appealed a Florida Supreme Court order requiring a statewide recount.
+Facts
+Florida counties used different standards to count ballots during the 2000 presidential election recount.
+Issue
+Did the recount violate the Equal Protection Clause?
+Rule
+Equal Protection requires uniform standards when valuing and counting votes.
+Holding
+Yes. The recount violated Equal Protection, and no constitutional remedy was feasible before the deadline.
+Reasoning
+Different counting standards treated voters unequally. Because the statutory safe-harbor deadline was imminent, the Court halted the recount.
+Significance
+Resolved the 2000 election and remains controversial due to its limited precedential language.
+________________
+
+
+Zivotofsky v. Clinton
+U.S. Supreme Court, 2012
+Procedural Posture
+ Lower courts dismissed the case as a political question. Plaintiff appealed.
+Facts
+ Congress required passports of U.S. citizens born in Jerusalem to list “Israel.” The State Department refused.
+Issue
+ Does the political question doctrine bar courts from deciding the constitutionality of the statute?
+Rule
+ Courts may decide constitutional disputes even when they touch foreign policy, so long as they require legal interpretation rather than policy judgment.
+Holding
+ No. The case is justiciable.
+Reasoning
+ Determining whether Congress exceeded its authority is a legal question. The case did not require the Court to decide foreign recognition policy, only statutory validity.
+Significance
+ Clarified limits of the political question doctrine. Led to the 2015 decision recognizing exclusive presidential recognition power.
+________________
+
+
+Rucho v. Common Cause
+U.S. Supreme Court, 2019
+Procedural Posture
+Voters challenged congressional maps as partisan gerrymanders. Lower courts ruled for plaintiffs. The state appealed.
+Facts
+North Carolina and Maryland enacted maps favoring one political party.
+Issue
+Are partisan gerrymandering claims justiciable in federal court?
+Rule
+Claims are nonjusticiable when there are no judicially manageable standards to resolve them.
+Holding
+No. Partisan gerrymandering claims are political questions.
+Reasoning
+The Constitution provides no standard for determining how much partisanship is excessive. Courts cannot craft a principled rule without engaging in political judgments.
+Significance
+Removed partisan gerrymandering claims from federal courts and left remedies to state courts and legislatures.
+________________
+
+
+Martin v. Hunter’s Lessee
+Procedural History
+The case originated in the district court of Winchester, Virginia, where a judgment was rendered for the defendant.
+The court of appeals of Virginia reversed this judgment and ruled in favor of the plaintiff.
+A writ of error was brought to the Supreme Court of the United States, which reversed the Virginia court's decision and remanded the case.
+The Virginia court of appeals refused to obey the Supreme Court's mandate, leading to the current writ of error before the Supreme Court.
+Facts
+The case involved a dispute over land in the Northern Neck, formerly owned by Lord Fairfax.
+The plaintiff claimed the land under a patent granted by the state of Virginia in 1789, based on an alleged escheat or forfeiture of Lord Fairfax's title.
+The defendant claimed the land as devisee under Lord Fairfax's will.
+The case also implicated the Treaty of Peace of 1783 and the Treaty of 1794, which were argued to protect the defendant's title.
+Issues
+Does the appellate jurisdiction of the Supreme Court of the United States extend to cases decided by state courts, particularly when the validity of a federal treaty or statute is in question?
+Can the Supreme Court review and reverse a state court's decision that refuses to comply with its mandate?
+Does the Supreme Court have the authority to examine the validity of a title in relation to a treaty?
+Rule
+The judicial power of the United States extends to all cases arising under the Constitution, laws, and treaties of the United States, as stated in Article III, Section 2 of the Constitution.
+The 25th section of the Judiciary Act authorizes the Supreme Court to review final judgments of state courts where the validity of a federal treaty, statute, or authority is questioned, and the decision is against the federal claim.
+The Constitution and laws of the United States are the supreme law of the land, binding on state courts under Article VI.
+Analysis
+The Supreme Court held that its appellate jurisdiction extends to cases decided by state courts when federal treaties, statutes, or constitutional provisions are implicated.
+The Court reasoned that the Constitution mandates the judicial power to extend to all cases arising under federal law, and this includes appellate review of state court decisions.
+The Court emphasized the necessity of uniformity in the interpretation of federal law, which would be jeopardized if state courts could render final decisions on such matters without review.
+The Court rejected the argument that its jurisdiction was limited to abstract treaty construction, holding that it could examine the validity of a title in relation to a treaty.
+The Court found that the Virginia court's refusal to comply with its mandate was improper and reaffirmed its authority to enforce its judgments.
+Conclusion
+The Supreme Court reversed the judgment of the Virginia court of appeals.
+The Court affirmed the judgment of the district court of Winchester in favor of the defendant.
+The Court upheld its appellate jurisdiction over state court decisions involving federal questions and its authority to enforce its mandates.
+Separate Opinions
+Justice Johnson concurred in the judgment but expressed reservations about the reasoning of the majority opinion.
+He emphasized the importance of maintaining the independence of state courts while acknowledging the necessity of the Supreme Court's appellate jurisdiction to preserve the Union.
+Justice Johnson criticized the Virginia court's broad assertion of authority in declaring the Supreme Court's prior decision coram non judice and warned against the dangers of such judicial overreach.
+________________
+
+
+
+
+
+
+
+
+McCulloch v. Maryland  
+4 Wheat. (17 U.S.) 316, 4 L. Ed. 579 (1819)
+Facts:  
+The state of Maryland imposed a tax on the Baltimore branch of the Second Bank of the United States. James McCulloch, the bank's cashier, refused to pay the tax, leading to a lawsuit. Maryland argued that the bank was unconstitutional since the Constitution did not explicitly grant Congress the power to create a bank.
+Issue:  
+1. Does Congress have the authority to establish a national bank under the Necessary and Proper Clause?
+2. Can a state tax a federal institution?
+Holding:  
+1. Yes, Congress has the power to create a national bank.
+2. No, Maryland cannot tax the bank.
+Reasoning:  
+Chief Justice Marshall held that the Necessary and Proper Clause allows Congress to employ means that are appropriate to execute its enumerated powers. He emphasized that the federal government is supreme, and allowing states to tax federal entities would undermine this authority. 
+Significance:  
+This decision reinforced the principles of federal supremacy and implied powers, shaping the balance of power between state and federal governments in the U.S. legal framework.
+________________
+
+
+Gibbons v. Ogden (1824)
+U.S. Supreme Court 22 U.S. 1 (1824) March 2, 1824
+Chief Justice - John Marshall
+
+
+Facts
+•⁠  ⁠New York (1798) granted Fulton & Livingston a monopoly on steamboat navigation in state waters
+•⁠  ⁠Fulton satisfied the condition in 1807 (built a steamboat doing 4 mph upstream)
+•⁠  ⁠Aaron Ogden purchased rights from F&L to operate NY ↔️ NJ steamboats
+•⁠  ⁠Thomas Gibbons operated competing steamboats WITHOUT F&L authorization
+•⁠  ⁠Ogden sued Gibbons (1820) — Won in NY Court of Chancery
+•⁠  ⁠Gibbons appealed to SCOTUS
+Issue
+Can states grant exclusive navigation monopolies that interfere with Congress's power to regulate commerce?
+ Holding
+New York cannot grant monopolies on steamboat navigation. Congress's power to regulate commerce preempts state law.
+Key Quotes
+"The power to regulate commerce... is complete in itself, may be exercised to its utmost extent, and acknowledges no limitations, other than are prescribed in the constitution."
+On "commerce":
+Commerce "undoubtedly" includes navigation — "The power over commerce... includes navigation."
+Key Holdings
+1.⁠ ⁠Commerce Clause is PLENARY — Congress's power is complete and supreme
+2.⁠ ⁠Navigation IS commerce — falls under federal regulatory power
+3.⁠ ⁠States CANNOT interfere with Congress's commerce power
+4.⁠ ⁠Federal licenses protect interstate commerce operators
+ Significance
+•⁠  ⁠Foundation of federal commerce power jurisprudence
+•⁠  ⁠Established preemption doctrine
+•⁠  ⁠Freed navigation from state monopolies
+•⁠  ⁠Facilitated Westward Expansion by dismantling navigational monopolies
+•⁠  ⁠Daniel Webster argued for Gibbons
+For Your Con Law Outline
+•⁠  ⁠Commerce Clause = broad federal power
+•⁠  ⁠Navigation = commerce
+•⁠  ⁠Federal law preempts conflicting state law
+•⁠  ⁠Marshall's broad interpretation still governs today
+Ogden Argues (St of NY)
+   * Commerce never means navigation
+   * Congress’ power to regulate Interstate Commerce cannot result in keeping the state from regulating intrastate commerce.
+Gibbons Argues (Fed)
+   * Preemption argument: Congress licensing law is a valid Regulation of Interstate commerce. Any state law inconsistent with that must be null and void. (supremacy clause)
+   * Even if congress had not acted at all, NY law is still void.

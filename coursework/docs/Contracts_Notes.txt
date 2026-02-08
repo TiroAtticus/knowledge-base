@@ -1,0 +1,271 @@
+# Contracts Notes
+
+﻿Contracts Notes
+
+
+1.12.26
+What is a contract?
+A promise (or set of promises) the law will enforce. Does not need to be a document. 
+
+
+Why & How contract law matters
+        -Personal Experience:
+                -Leases, Employment, usage of service
+        -Professional Future:
+                - Crim Law: Plea Bargains
+                -Personal Injury Law - Settlements, insurance
+-Family Law - Marriage & Divorce, Caretaking arrangements
+
+
+Life cycle of contract - Formation, performance, breach/enforcement
+
+
+Formation
+        Mutual Assent, Offer & Acceptance, consideration, statute of frauds
+Alternative Bases for Liability
+        Promissory Estoppel, Restitution
+Defenses & Excuses
+Defenses are defenses to formation, whereas excuses come up later due to impossibility to perform the duty agreed in the contract.
+Interpretation & Performance
+        Parol Evidence Rule, Implied Terms
+Breach, Repudiation, Remedies 
+        Conditions
+
+
+Layers of Legal knowledge
+        Basic rules
+        Doctrinal principles and categories
+        Understanding Of Institutions and interpretations of relevant facts
+        Theory
+
+
+Policy Positions: 
+1) freedom of K
+2) equity and fairness
+1. social welfare 
+2. corrective justice.
+
+
+Restatement §1 - contract
+        A contract is a promise for the breach of which the law gives a remedy, or the performance of which the law in some way recognizes a duty. 
+
+
+Restatement §3 - agreement defined
+An agreement is a manifestation of mutual assent on the part of two or more persons. 
+
+
+*Agreement is broader than contract - some agreements are not contracts
+
+
+Restatement (2D) §2 - Promise
+A promise is a manifestation or intention to act or refrain from acting in a specified way, so made as to justify a promisee in understanding that a commitment has been made. 
+
+
+Two parties 
+        Promisor - Made the promise (manifests the intention)
+        Promisee - Receives the promise
+
+
+Promises create justified expectations. 
+
+
+What is a Warranty?
+        -Type of promise to guarantee a particular outcome
+-Express or implied promise that something in furtherance of the contract is guaranteed by one of the contracting parties; esp., a seller’s promise that the thing being sold is as represented and promised. 
+
+
+Pain and suffering is not usually a part of remedy for a contracts case
+
+
+Restatement §344- purposes of Remedies
+Judicial remedies under the rules stated in this restatement serve to protect one or more of the following interests of a promisee;
+1. His expectation interest, which is his interest in having the benefit of this bargain by being put in as good a position as he would have been in had the contract been performed,
+2. His restitution interest which is his interest in having restored to him any benefit that he has conferred on the other party. 
+
+
+Contemporary sources of law
+
+
+Common law & equity
+	restatements
+	Statutes & Treaties
+	Judicial development of remedies for breach of contract
+	The american law institute (ALI)
+
+
+	The Statute of Frauds - 1677
+	Assumpsit - common law form of action
+	First restatement (1932)
+	The UCC - Uniform Commercial code
+	Grows out of trespass (trespass on the case)
+	Second Restatement (1979)
+	UN Convention on international sales of Goods 
+	Other common law forms of actions - eg. covenant, ebt, detinue
+	The reporters & Commentators - Samuel Williston & arthur Corbin
+	
+
+	Major contributions from “equity”
+	The Scholars & Professors
+	
+
+	
+
+
+
+UCC
+ Article 2 applies to sale of goods (§2-102)
+        -Goods are movable things, other than money, including growing crops, unborn young of animals, and other things attached to realty
+        -includes minerals, oil & Gas IF they are to be severed by the seller
+        - Common law rules (not UCC) still apply to: Contracts for services, real estate, employment
+- What about “hybrid” contracts involving goods and services, eg computer + repair service contract
+- A common approach is to apply UCC if “predominant purpose / factor” of the contract is sale of goods.
+
+
+Requirement of a bargain - Restatement §17 
+1. Except as stated in subsection 2) the formation of a contract requires a bargain in which there is a manifestation of mutual assent to the exchange and a consideration
+2. Whether or not there is a bargain a contract may be formed under special rules applicable to formal contracts or under the rules stated in §§82-94
+
+
+Objective Theory of mutual assent: When an objective person in the circumstances of the promisee or promisor would understand there to be an agreement being made, then the contract is legally binding. Outward expression, not subjective intent matters. Party’s Manifestation of assent is judged by objective reasonable interpretation of outward expression of consent NOT subjective intent. 
+
+
+Determining Intent: Basic Rules of interpretation
+* Ordinary Meaning: Objective ordinary meaning
+* Technical Meaning - Terms of art or trade terminology
+* Surrounding Circumstances
+
+
+Resolving Disputes: Whose meaning prevails
+1. Both parties have the same subjective meaning
+   1. courts allow parties to define their terms
+2. One party has one understanding and knows the other party has a different understanding.
+   1. Party who knows is bound by other party’s interpretation
+   2. Case- Bull motor v murphy
+3. Each party has a different reasonable interpretation
+   1. No meeting of the minds - no contract
+   2. Raffles v Wichelhaus
+
+
+Restatement § 24: Offer defined
+An offer is the manifestation of willingness to enter into a bargain, so made as to justify another person in understanding that his assent to that bargain is invited and will conclude it. 
+
+
+Offeror: Master of the offer - the offeror controls the terms of the offer and the manner in which it is to be accepted. 
+Offeree: Once the offer is made, the offeree has the “power of acceptance” 
+
+
+Four Elements of an offer
+An offer requires:
+1. Manifestation of present intent to enter a bargain
+2. Stated in certain and definite terms
+3. Communicated to identified person(s)
+4. The offeree is able to reasonably understand a contract would result if accepted. 
+
+
+Restatement (second) §33
+1. Even though a manifestation of intention is intended to be understood as an offer, it cannot be accepted as to form a contract unless the terms of the contract are reasonably certain. 
+2. Terms of contract are reasonably certain if they provide a basis for determining the existence of a breach and for giving an appropriate remedy
+3. The fact that one or more terms of a proposed bargain are left open or uncertain may show that a manifestation of intention is not intended to be understood an offer or as an acceptance
+Comment A - action of the parties may show they intended to conclude a binding agreement event through one or more terms are left missing or to be agreed upon. 
+
+
+Certain and definite terms:
+* Essential terms and implied terms:
+   * Times of performance
+   * Price to be paid 
+   * Scope of work / Property transferred. 
+* Agreements to agree are not enforceable - no defined terms, not a binding contract
+   * Traditionally, an agreement to agree on an essential term was unenforceable
+
+
+Acceptance:
+Form of acceptance invited: Offeror does not care about the mode of acceptance
+Offeror Can specify a mode or manner of acceptance without making that method exclusive. 
+Offeror can require notice of acceptance in any form he pleases. He may require notice be given by a nod of the head, by flags, by wig-wag, by a smoke signal on a high hill
+He may require that it be by letter, radio, etc
+
+
+IF NOT:
+The law requires no more than that the mode adopted be in accord with usage and custom of men in similar cases
+
+
+Rule: Invitation of promise or performance:
+* In case of doubt, an offer is interpreted as inviting the offeree to accept either by promising to perform what the offer requests or by rendering the performance, as the offeree chooses. 
+
+
+* If the offeree chooses performance, then the beginning of performance is deemed the acceptance and the offeree is contractually bound to complete performance. (Rest. 2d. S. 62)
+
+
+1.23.26
+Mirror image and last shot rules
+Acceptance that adds qualifications or coditions operates as rejection and counter offer. 
+        Acceptance must be a mirror image of the offer
+
+
+Acceptance must be “positive, unconditional, unequivocal, and unambiguous, and must not change, add to, or qualify the terms of the offer”
+
+
+The common law principle has been criticized as unrealistic, given modern conditions of business. 
+
+
+The battle of the forms - each side offers their standard form with legalese drafted by the lawyers (that no one reads)
+
+
+4 ways to kill an offer 
+        -experation
+        -death
+        –revocation
+        -rejection / counter offer
+
+
+1.26.26
+Mailbox Rule:
+* An acceptance is effective when dispatched, not when received, if it is sent in an authorized or reasonable manner.
+* A contract is formed at the moment the acceptance is properly sent, even if the acceptance is delayed, lost, or never received.
+* The mailbox rule applies only to acceptances, not to offers, revocations, or rejections.
+* A revocation is effective only upon receipt by the offeree.
+* A rejection is effective only upon receipt by the offeror.
+* If an acceptance is sent using an unauthorized or unreasonable method, it is effective only upon receipt.
+* If the offeree sends both a rejection and an acceptance, whichever arrives first controls.
+* Exception: if the offeree sends a rejection first and then an acceptance, the acceptance is effective only if it arrives before the rejection.
+* The offeror can avoid the mailbox rule by clearly requiring receipt of acceptance as a condition of contract formation.
+Shrink-wrap acceptance - terms enclosed in packaging, not able to be read until purchased, needs to be returned to reject offer. 
+Click-Wrap agreements - Contracts online were validated in same logic as shrink-wrap acceptance.  
+Option Contract
+        -Offers are made irrevocable:
+1. By consideration;
+2. By certain Statutes;
+3. Under Restatement (second) of contracts §87 if A) signed writing B) stating consideration, C) proposing fair exchange within reasonable time
+4. Under Restatement (Second) §45, when an offeree begins the invited performance in response to an offer for a unilateral contract, an option contract is created, the offeror’s duty is conditional on completion of performance, and the offer becomes temporarily irrevocable while the offeree is given a reasonable opportunity to finish performance.
+Options as a bargain for Time 
+        Option - Promise to keep an offer open that requires consideration to make the offer irrevocable
+        When option is exercised underlying contract forms
+        Recitation of consideration, not paid 
+Restatement (Second) §87(1)(A): An option offer is valid if it is in writing and signed by the offeror, recites a purported consideration for the making of the offer, and proposes an exchange on fair terms within a reasonable time. 
+        *Read the restatement of contracts - posted on canva
+
+
+Part performance of Unilateral K
+        -When Offeree begins to perform, the offer has been accepted and is no longer revocable by the offerer.
+        -where an offer invites an offeree to accept by rendering a performance and does not invite a promissory acceptance, an option contract is created when the offeree tenders or begins the invited performance in accordance with the terms of the offer. 
+        - The offerer’s duty of performance under any option contract so created is conditional on completion or tender of the invited performance in accordance with the terms of the offer. 
+Tender: an unconditional offer to perform a contractual duty, coupled with the present ability and willingness to perform it. A valid tender, if refused, can discharge the tendering party’s duty and place the other party in breach. 
+Consideration elements:
+        Legal value:
+1. A detriment to the promise or
+2. A benefit to the promisor
+        Bargained for exchange
+* To establish a bargained for exchange, the promise must induce the detriment and the detriment must induce the promise. 
+When looking for consideration - 
+1. Look for a promise
+2. Look for a promisor
+3. Look for promisee
+4. Look at party that is promisee and look to see if there is a detriment. 
+Restatement §71 Requirement of exchange types of exchanges:
+1. To constitute consideration, a performance or a return promise must be bargained for
+2. A performance or return promise is bargained for if it is sought by the promisor in exchange for his promise and is given by the promisee in exchange for that promise. 
+Moral consideration refers to a promise made out of a sense of moral obligation or past benefit, which by itself is not legally sufficient consideration to support a contract, because it is not bargained for as part of an exchange. 
+Past Consideration:
+Something given or done before the promise is made. It does not count as valid consideration because it was not bargained for in exchange for the promise, so it cannot support a contract. 
+Moral Obligation:
+A promise made out of a sense of moral duty or gratitude for a past benefit. Standing alone, a moral obligation is not sufficient consideration and is generally unenforceable in contract law because it lacks a bargained-for exchange.

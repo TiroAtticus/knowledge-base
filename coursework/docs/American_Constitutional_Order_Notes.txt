@@ -1,0 +1,181 @@
+# American Constitutional Order Notes
+
+﻿American Constitutional Order Notes
+
+
+1.13.26
+   1. Con Law 1 = Constitutional Order (25% of book)
+   2. Con Law 2 = Individual Rights & 1st amendment (75% of book)
+Most people think of American Rights when they think of the Constitution
+
+What does Constitutional order mean? The way the government is organized and structured. 
+        Scalia - “The Real Constitutional Law” 
+
+
+Prominent Main Features of Course / Constitution
+
+
+1. Judicial Review - Power of Fed Court System
+2. Federalism - The distribution of power between Fed gov and States’ gov
+3. Separation of Powers - refers to the powers of Fed Gov
+
+
+
+
+Notes on constitution:
+        Supremacy clause in Article 6
+        Constitution is shorter, less detailed, and older than all other Constitutions in world
+
+
+History of the constitution - 
+1775 - Beginnings of the Revolutionary war
+1776 - Delegates from the colonies meet in Philadelphia during the summer to declare independence. Not a joint declaration by a central government, 13 separate states declaring independence. States begin to write constitutions for themselves, many of these contained a Bill of Rights.
+1781 - Defeat of Cornwallis at Battle of Yorktown (Kinda the end of the war)
+1781 - Articles of confederation ratified - States want to unite and have a central government so that they can defend themselves together against Britain and other invaders. Cedes very little sovereignty to the central government.
+1787 - Constitutional Convention - Presented proposals for government between New Jersey and Virginia. Settle on the draft which eventually gets ratified and goes into effect after 9 states ratified. (Was it a Coo?)
+1788 - Goes into effect after 9th state ratified. Many states were requesting a Bill of Rights before ratification to limit the power of the government. 
+1789 - First Congress Meets, proposes 12 and passes 10 amendments that become the Bill of Rights 
+1790 - All 13 states ratified
+1791 - 3/4ths of states ratify the Bill Of Rights
+
+
+
+
+
+
+
+
+1.15.26
+American Thought about characteristics of Constitutions
+* Creates a government
+* Written, official, published Document
+* Contract between people and the government
+* Organizes the government with rules to hold office and for the offices
+* Empowers government officials and offices with their powers and duties
+* Limits the powers of the government
+
+
+Why make a constitution in writing that's hard to change?
+* Colonial Experience w/ charters
+* Wanted to make it hard for Gov’t to violate rights / transgress limits on its power
+* Resist the popular whims of public opinion
+
+
+Doctrine of Enumerated Powers
+* Spelled out in 9th and 10th amendments
+* 9th - this is not a list of all the peoples rights
+* 10th - every power not explicitly given to the federal government is given to the states
+* Presumption - “Silence forbids government power”
+
+
+1.20.2026
+Constitution or Marbury v Madison never actually state judicial review
+The Supreme Court has original jurisdiction in cases involving:
+1. Ambassadors and Other Public Ministers: Cases involving foreign diplomats.
+2. States: Disputes between two or more states.
+
+
+Constitutional law is not just the constitutional text, it's also the courts opinions and the interpretations. 
+
+
+Originalism: Meaning of the document at the time it was written
+Modern Needs / Good Government: Prioritize values like democracy or self government. Decide what the government needs and deliver rulings to support that value. 
+American Traditions Since Ratification: What I care about is how we have acted like the constitution means. Look to history of actions by statesmen / courts previous
+
+
+1.22.26
+
+
+Challenges to judicial review power
+Strongest:  Even if my names on a court order saying this is illegal, I'll  do it anyway, because I say it’s not unconstitutional. 
+Strong: Even if courts say some gov law or act is unconstitutional, I say it is ok and continue to do it or something like it. This is an unconstitutional challenge to the courts power.
+Weak: Even if courts say gov’t law/act is ok, i say it’s unconstitutional, and won't enforce it / do it. More a direct challenge to the gov actor that was doing the thing the court refused to check. This is a constitutional challenge to the power of the judiciary. 
+
+
+1.27.26
+How do courts limit the exercise of their own judicial review power?
+“To qualify as a case or controversy, a matter must be concrete and non-hypothetical, as affirmed by longstanding federal practice barring issuance of merely advisory opinions. It must also involve parties claiming an actual injury that is personal and concrete to them, as expressed in the law of standing, which has both constitutional and prudential elements. And the dispute must arise neither too late nor too soon for judicial resolution, as made clear in the doctrines of mootness and ripeness. Even if a case might otherwise appear concrete, it might still involve a nonjusticiable political question-one that is committed to the unreviewable discretion of another branch, or that is best left to another branch as a matter of prudence.”
+
+
+* Judicial Restraint (vs. Judicial Activism)
+* SCOTUS can deny certiorari when circuits are split. 
+* Justiciability Doctrines:
+   * Narrow Interpretation of “cases,” “controversies” or other parts of Article III (2)(1)
+   * Narrow Understandings of Constitutional Intent / Structure Re: Judicial Power (Ex. Political Question Doctrine)
+   * Subject Matter must be covered by Art. III(2)(1)
+   * No Advisory Opinions 
+   * Plaintiff must have standing
+      * Personal Injury
+      * Causation
+      * Redressability - typically seeking declarative injunctions as remedy
+   * Case must be Ripe
+      * Case must not be moot
+         * Exception for situations involving pregnancy because of common mootness 
+   * Political Question
+      * Can't be heard. DONT THINK OF THIS LIKE A LAYPERSON
+      * The Baker v. Carr Political Question Test
+
+
+A case presents a political question if any one of the following is present:
+      * Textually demonstrable constitutional commitment of the issue to a coordinate political department.
+      * Lack of judicially discoverable and manageable standards for resolving it.
+      * Impossibility of deciding without an initial policy determination of a kind clearly for nonjudicial discretion.
+      * Impossibility of a court’s undertaking independent resolution without expressing lack of respect due coordinate branches of government.
+      * Unusual need for unquestioning adherence to a political decision already made.
+      * Potential of embarrassment from multifarious pronouncements by various departments on one question.
+
+
+1.29.26
+Current Event: Chief judge of district of Minnesota ordering ICE (Fed Gov), ordered Juan TR not to be deported for being illegal - Entered as a minor 30 years ago. Picked up in Minnesota, transported to TX, despite court orders of due process, ICE has routinely ignored orders.
+
+
+States & Congressional Arguments for Limiting Appellate Jurisdiction of the US Supreme Court. 
+-State:         Martin v Hunter’s Lease:
+                        - Martin (Foreign) v. Hunter’s Lessee (VA resident + Citizen)
+                        - Land title is traced back to different original owner
+- Marin loses all cases for land in VA state court and appeals to the SCOTUS.
+- SCOTUS establishes the ability to review decisions that could have been brought in Fed Court. 
+Cohens v. Virginia
+* Virginia prosecuting a citizen for state criminal prosecution
+* “All cases affecting….Those in which a state shall be a party”
+* Case brought in state court, appealed through state system, appeal to SCOTUS because Fed law is involved. 
+* Interprets Sect III, Para 2, first section, as it only applies to the cases in the previous paragraph. 
+* Outcome: allowed to hear appeals that are within the jurisdiction of the Federal Courts.
+-Congress:        Ex Parte McCarole 
+        - Congress tries to change appellate jurisdiction of the SCOTUS
+- Article III sec 2 Para 2 - Exceptions clause - congress can limit appellate jurisdiction.
+- Congress passes a reactionary law that limits SCOTUS power hearing Habeas appeals. 
+-SCOTUS Says that's cool by us!
+
+
+2.3.26
+FEDERALISM
+  
+
+Confederation: all sovereignty is in the States. 
+Unitary: Member states have no sovereignty, all sovereignty is in the central government. 
+Federalism: System of Dual Sovereigns based on dividing issues between certain issues depending on their level of importance or need for protection. 
+
+
+Doctrine of Enumerated powers - Silence = no power
+“Neccessary and Proper Clause” - “To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof.”
+
+
+Congress has the power to Regulate commerce among the several states
+        “Interstate Commerce” 
+
+
+GLOSSARY:
+Sovereignty: the ultimate and independent authority to govern, meaning the power to make and enforce laws without being subject to a higher authority. In the American constitutional context, sovereignty was originally held by the people and exercised by the states, then partially delegated to the federal government through the Constitution. 
+
+
+Political Question Doctrine: A justiciability doctrine holding that certain constitutional questions are not suitable for judicial resolution because the Constitution commits them to the political branches, or because there are no judicially manageable standards for deciding them. 
+
+
+Bill of Rights: Enumerate specific protections for individual liberties and limits on government power. 
+
+
+Judicial review: The power of a court to declare the actions of some other governmental actor to be illegal and therefore null and void at law. 
+
+
+Writ of Mandamus - Gov order for gov to do or stop doing something. (Injunction)

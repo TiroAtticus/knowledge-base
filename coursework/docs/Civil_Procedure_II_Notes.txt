@@ -1,0 +1,158 @@
+# Civil Procedure II Notes
+
+﻿Civil Procedure II Notes
+
+
+I. INTRODUCTION & SUBJECT MATTER JURISDICTION
+A. Diversity Jurisdiction
+* Introduction to diversity jurisdiction
+   * An individual is a citizen of the state where they are domiciled.
+* State Citizenship = US Citizenship + Domicile 
+   * Domicile requires:
+      * Physical presence in the state, and
+      * Intent to remain there indefinitely.
+   * A person has one domicile at a time.
+   * Mere residence is insufficient to establish citizenship.
+   * A person keeps their previous domicile until establishing a new one.
+   * Time to measure citizenship is time complaint is filed
+* Complete diversity (28 U.S.C. § 1332)
+   * Federal diversity jurisdiction requires complete diversity, meaning no plaintiff shares citizenship with any defendant.
+   * Citizenship is determined at the time the complaint is filed.
+      * If complete diversity is lacking at filing, the court lacks subject matter jurisdiction regardless of later changes.
+   * Domestic Relations cases - there is no diversity jurisdiction to hear domestic relations cases (divorce, probate)
+* Corporate citizenship
+   * A corporation is a citizen of:
+      * Its state of incorporation, and
+      * Its principal place of business.
+   * A corporation may have two states of citizenship.
+   * The principal place of business is determined by the nerve center test.
+      * The nerve center is the place where high-level officers direct, control, and coordinate corporate activities.
+      * The nerve center is typically, but not always, the corporate headquarters.
+   * The amount of business activity in a state is not controlling.
+   * Unincorporated Associations (LLCs, Partnerships)
+      * An unincorporated association is a citizen of every state in which its members are citizens.
+      * The entity’s place of formation or principal place of business is irrelevant.
+      * Complete diversity is destroyed if any member shares citizenship with an opposing party.
+
+   * Amount in controversy
+   * Amount in controversy > $75,000 (28 U.S.C. §1332(a))
+   * The sum claimed by the plaintiff controls if the claim is apparently made in good faith. It must appear to a legal certainty that the claim is really for less than the jurisdictional amount to justify dismissal. 
+   * Aggregation of claims:
+   * A single pltf may aggregate any separate claims she has against a single defendant. 
+   * Co-plaintiffs cannot add their claims together.
+   * Exception - “Common undivided interests”- relatively rare. Examples: Trust beneficiaries, will beneficiaries, etc. 
+   * Pltf cannot add together different amounts demanded from different defendants. 
+   * Constitutional scope versus statutory grant of diversity jurisdiction
+B. Federal Question Jurisdiction
+   * Introduction to federal question jurisdiction
+   * Article III - “Cases or Controversies”
+   * Political Questions - There is no Subject Matter Jurisdiction
+   * Will weigh in on procedural matters at times
+   * Hypothetical Problems will not be heard by the courts - No SMJ
+
+      * Constitutional versus statutory scope
+
+      * The well pleaded complaint rule provides that federal question jurisdiction exists only when a federal issue appears on the face of the plaintiff’s properly pleaded complaint. The plaintiff’s statement of their own cause of action must arise under federal law, and anticipated defenses or counterclaims based on federal law do not create federal question jurisdiction. 
+
+      * Justice Holmes’s “creation test”
+
+      * Limits beyond the creation test
+         * Grable Test: A narrow exception to the well pleaded complaint rule allowing federal question jurisdiction over a state law claim when a federal issue is necessarily raised, actually disputed, substantial to the federal system as a whole, and capable of resolution in federal court without disrupting the federal state balance approved by Congress.
+
+            * Article III and Supreme Court jurisdiction
+
+C. Removal of Cases from State to Federal Court
+               * Removal
+
+               * Removal procedure
+
+               * Remand
+
+D. Supplemental Jurisdiction
+                  * Constitutional framework of supplemental jurisdiction
+
+                  * Statutory authority for supplemental jurisdiction
+
+                  * Complex applications of supplemental jurisdiction
+
+II. PERSONAL JURISDICTION
+A. Introduction & Evolution of Personal Jurisdiction
+                     * Traditional territorial approach
+
+                     * Historical foundations of personal jurisdiction
+
+B. Specific In Personam Jurisdiction
+                        * Minimum contacts
+
+                        * Purposeful availment
+
+                        * Foreseeability and fairness
+
+                        * Contracts and personal jurisdiction
+
+                        * Stream of commerce theories
+
+                        * “Arises out of” and relatedness requirement
+
+                        * Personal jurisdiction and the internet
+
+C. Other Constitutional Bases for Personal Jurisdiction
+                           * General in personam jurisdiction
+
+                           * In rem jurisdiction
+
+                           * Quasi in rem jurisdiction
+
+                           * Transient presence jurisdiction
+
+                           * Consent and waiver
+
+D. Long Arm Statutes, Notice & Service of Process
+                              * Long arm statutes
+
+                              * Constitutional limits on notice
+
+                              * Service of process requirements
+
+III. VENUE
+                                 * Basic venue principles
+
+                                 * Proper venue determination
+
+                                 * Challenges to venue
+
+                                 * Transfer of venue
+
+                                 * Dismissal for improper venue
+IV. CHOICE OF LAW: THE ERIE DOCTRINE
+A. State Law in Federal Courts
+                                    * Historical background before Erie
+
+                                    * The Erie decision
+
+                                    * Federal common law after Erie
+
+B. Substance & Procedure Under the Erie Doctrine
+                                       * Substance versus procedure distinction
+
+                                       * Outcome-determinative test
+
+                                       * Balancing federal and state interests
+
+                                       * The role of the Federal Rules of Civil Procedure
+
+                                       * The two Erie “tracks”
+
+                                       * Choosing the correct Erie framework
+
+
+V. GLOSSARY
+Subject Matter Jurisdiction
+Personal Jurisdiction
+Original Jurisdiction
+Appellate Jurisdiction 
+Limited Jurisdiction
+General Jurisdiction
+Concurrent Jurisdiction
+Exclusive Jurisdiction
+Animo Merandi

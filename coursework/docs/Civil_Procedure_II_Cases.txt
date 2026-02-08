@@ -1,0 +1,188 @@
+# Civil Procedure II Cases
+
+﻿Tab 1
+Civil Procedure II Cases
+Gordon v Steele
+
+
+Court: United States District Court for the Western District of Pennsylvania
+
+
+Citation: 376 F. Supp. 575 (W.D. Pa. 1974)
+
+
+Facts:
+- Susan Gordon, a Pennsylvania citizen, enrolled at Ricks College in Idaho and rented an apartment.
+- She filed a malpractice suit against Pennsylvania doctors while claiming diversity jurisdiction.
+- Defendants argued there was no diversity since Gordon was still a citizen of Pennsylvania.
+
+
+Issue:
+- Was Susan Gordon a citizen of Idaho for the purposes of diversity jurisdiction under 28 U.S.C. § 1332?
+
+
+Holding:
+- Yes, the court found that Gordon had acquired her domicile in Idaho.
+
+
+Reasoning:
+- The court applied the domicile test, which requires both physical presence and intent to remain indefinitely.
+- Although Gordon had connections to Pennsylvania, her expressed intention to stay in Idaho and her living arrangements supported her claim of domicile there.
+- The court emphasized that mere residence does not equal domicile; intent is crucial.
+
+
+Conclusion:
+- The court denied the motion to dismiss for lack of diversity, affirming that Gordon was a citizen of Idaho at the time of filing.
+
+
+________________
+Mas v. Perry 
+Court: United States Court of Appeals for the Fifth Circuit, 1974
+Procedural History
+William Mas and his wife, Catherine Mas, filed suit in federal district court in Louisiana against their landlord, Perry, asserting tort claims. Perry challenged subject matter jurisdiction, arguing that diversity jurisdiction did not exist. The district court held that diversity jurisdiction was proper and denied the challenge. Perry appealed on the jurisdictional issue.
+Question Presented (Issue)
+For purposes of federal diversity jurisdiction, what is a married person’s state citizenship when the spouses live temporarily in a state but lack intent to remain there indefinitely?
+Trigger (Legally Relevant) Facts
+William Mas was a citizen of France. Catherine Mas was a United States citizen who had lived in Mississippi before marriage. After marrying, the couple lived temporarily in Louisiana while William pursued graduate studies. They had no intent to remain in Louisiana permanently and had not established a new domicile there. Perry was a citizen of Louisiana.
+Plaintiff’s Arguments
+The Mases argued that diversity jurisdiction existed because William was a citizen of France and Catherine was a citizen of Mississippi, making the suit between citizens of different states and a foreign citizen versus a Louisiana defendant. They contended that temporary residence in Louisiana did not change domicile.
+Defendant’s Arguments
+Perry argued that Catherine Mas became a citizen of Louisiana by virtue of living there with her husband, or alternatively that her domicile was indeterminate, thereby destroying diversity jurisdiction.
+Rule (Law Applied)
+For diversity jurisdiction purposes, citizenship is determined by domicile, which requires physical presence in a state plus intent to remain there indefinitely; temporary residence alone does not establish domicile, and marriage does not automatically change a spouse’s domicile.
+Reasoning (Court’s Explanation)
+The court explained that domicile is a stable concept that persists until a new one is affirmatively established. Catherine Mas did not intend to remain in Louisiana indefinitely, and her presence there was tied to her husband’s temporary educational pursuits. The court rejected the outdated notion that a wife’s domicile automatically follows her husband’s. Because Catherine had not formed intent to remain in Louisiana, her Mississippi domicile continued. As a result, complete diversity existed between the parties.
+Holding
+Yes, diversity jurisdiction existed. Catherine Mas remained a citizen of Mississippi, William Mas was a citizen of France, and the defendant was a citizen of Louisiana.
+Main Takeaway (Why You’re Studying This Case)
+Mas v. Perry is the foundational domicile case for diversity jurisdiction. It teaches three exam-critical rules:
+1. domicile controls citizenship, not residence,
+
+2. domicile requires physical presence plus intent to remain indefinitely, and
+
+3. marriage does not automatically alter a spouse’s domicile.
+
+If you see facts involving students, temporary moves, marriage, or uncertainty about intent, this is the case you cite.
+________________
+Hertz Corp. v. Friend
+Court & Date
+Supreme Court of the United States, 2010
+Procedural History
+   * California plaintiffs filed a state-law class action against Hertz in California state court.
+   * Hertz removed the case to federal court based on diversity jurisdiction.
+   * The district court denied plaintiffs’ motion to remand.
+   * The Ninth Circuit reversed, holding Hertz was a citizen of California under a business-activity test.
+   * Hertz appealed to the Supreme Court.
+Question Presented (Issue)
+For purposes of diversity jurisdiction, where is a corporation’s “principal place of business” under 28 U.S.C. § 1332(c)(1)?
+Trigger (Legally Relevant) Facts
+   * Hertz was incorporated in Delaware.
+   * Hertz’s corporate headquarters and high-level officers were located in New Jersey.
+   * Hertz conducted a large amount of business activity in California.
+   * Plaintiffs were California citizens and argued Hertz should also be treated as a California citizen.
+Plaintiff’s Arguments (Friend)
+   * Hertz’s principal place of business should be determined by the state where it conducts the most business activity.
+   * Because Hertz had significant operations and revenue in California, it should be deemed a California citizen.
+   * This approach better reflects economic reality.
+Defendant’s Arguments (Hertz)
+   * A single, uniform test is needed to promote predictability and judicial efficiency.
+   * The principal place of business should be the corporation’s “nerve center,” where officers direct and control the company.
+   * Hertz’s nerve center was New Jersey, not California.
+Rule (Law Applied)
+A corporation’s “principal place of business” is its nerve center, meaning the place where its officers direct, control, and coordinate the corporation’s activities, typically its headquarters.
+Reasoning (Court’s Explanation)
+   * The Court rejected multifactor and business-activity tests as unpredictable and inconsistent.
+   * Congress intended a simple jurisdictional rule that courts could apply uniformly.
+   * The nerve-center test reduces litigation over jurisdictional facts and prevents forum manipulation.
+   * Although imperfect in some cases, a clear rule is preferable to complex balancing tests.
+   * Applying this test, Hertz’s principal place of business was New Jersey.
+Holding
+Hertz’s principal place of business was New Jersey, and diversity jurisdiction existed. The Ninth Circuit was reversed.
+Main Takeaway (Why You’re Studying This Case)
+   * This case establishes the bright-line nerve center test for corporate citizenship in diversity jurisdiction.
+   * It is foundational for removal, subject matter jurisdiction analysis, and exam answers involving corporate defendants.
+________________
+Diefenthal v. C.A.B.
+Court & Date
+United States Court of Appeals for the Fifth Circuit 1982
+681 F.2d 1039
+Procedural History
+The Diefenthals (plaintiffs) sued C.A.B. and Eastern Airlines (defendants) after being denied seating in the non-smoking section on a flight. The district court dismissed the claim for failure to state recoverable damages. The plaintiffs appealed to the Fifth Circuit.
+Question Presented (Issue)
+Are damages for mental anguish and emotional distress recoverable when plaintiffs suffer inconvenience and annoyance, but no physical injury or extreme conduct?
+Trigger (Legally Relevant) Facts
+The plaintiffs purchased airline tickets specifically requesting non-smoking seating. Despite their request, they were required to sit in the smoking section for part of the flight. They alleged humiliation, embarrassment, and emotional distress, but suffered no physical injury, illness, or financial loss.
+Plaintiff’s Arguments
+The plaintiffs argued that the airline breached its contractual obligation and that the resulting inconvenience and humiliation entitled them to damages for mental anguish.
+Defendant’s Arguments
+The defendants argued that emotional distress damages are not recoverable absent physical injury, willful misconduct, or particularly egregious circumstances, none of which were present.
+Rule (Law Applied)
+Damages for mental anguish or emotional distress are not recoverable for mere inconvenience, annoyance, or breach of contract absent physical injury, willful or wanton conduct, or circumstances likely to result in serious emotional harm.
+Reasoning (Court’s Explanation)
+The court emphasized that allowing recovery for minor indignities or inconveniences would open the floodgates to trivial claims. Emotional distress damages are reserved for serious wrongs, not everyday frustrations. The plaintiffs’ allegations amounted to discomfort and annoyance, which are insufficient as a matter of law to justify recovery.
+Holding
+No. Emotional distress damages were not recoverable under the facts alleged.
+Disposition
+Dismissal affirmed.
+Main Takeaway (Why You’re Studying This Case)
+Diefenthal is a foundational case limiting emotional distress damages. It draws a bright line between serious emotional harm and ordinary inconvenience. On exams, this case is crucial for rejecting claims based solely on embarrassment, frustration, or minor indignities, especially in breach-of-contract or negligence contexts.
+________________
+
+
+
+
+Louisville & Nashville Railroad Co. v. Mottley
+Citation: 211 U.S. 149 (1908)
+Court: Supreme Court of the United States
+Decided: 1908
+Procedural History
+The Mottleys filed suit in federal circuit court seeking specific performance of a lifetime free-pass contract with the railroad. The railroad argued the passes were invalid under a federal statute. The federal court exercised jurisdiction and ruled for the Mottleys. The railroad appealed to the Supreme Court on jurisdictional grounds.
+Question Presented (Issue)
+Does a case arise under federal law for purposes of federal question jurisdiction when the plaintiff’s complaint is based on state contract law, but the defendant is expected to raise a federal statute as a defense?
+Trigger (Legally Relevant) Facts
+The Mottleys were injured in a railroad accident and settled with the Louisville & Nashville Railroad, receiving lifetime free passes as part of the settlement. Years later, Congress passed a federal statute prohibiting free railroad passes. When the railroad refused to honor the passes, the Mottleys sued for breach of contract. Their complaint anticipated the railroad’s federal statutory defense and argued the statute did not apply to them.
+Plaintiff’s Arguments
+The Mottleys argued federal jurisdiction was proper because the validity and interpretation of a federal statute would necessarily be decided in the case. They asserted that the federal issue was central to resolving the dispute.
+Defendant’s Arguments
+The railroad contended that federal question jurisdiction did not exist because the Mottleys’ claim arose under state contract law, and the federal statute appeared only as a defense.
+Rule (Law Applied)
+Under the well-pleaded complaint rule, federal question jurisdiction exists only when a federal question appears on the face of the plaintiff’s properly pleaded complaint. Anticipated federal defenses do not create federal question jurisdiction.
+Reasoning (Court’s Explanation)
+The Court emphasized that jurisdiction depends on the plaintiff’s cause of action, not on defenses the defendant may raise. The Mottleys’ claim was purely contractual and based on state law. The fact that a federal statute would be raised as a defense, even if dispositive, was insufficient to confer federal jurisdiction. Allowing jurisdiction based on anticipated defenses would improperly expand federal court power.
+Holding
+No. The case did not arise under federal law, and the federal courts lacked subject matter jurisdiction.
+Disposition
+Dismissed for lack of federal question jurisdiction.
+Main Takeaway (Why You’re Studying This Case)
+Mottley is the foundational federal question jurisdiction case. It establishes the well-pleaded complaint rule: a federal issue must be part of the plaintiff’s claim itself, not merely a defense. On exams, this case is the go-to authority for rejecting federal jurisdiction when federal law appears only as an anticipated defense.
+________________
+Gunn v. Minton
+Citation: 568 U.S. 251 (2013)
+Court: Supreme Court of the United States
+Decided: February 20, 2013
+Facts
+Minton owned a patent and sued a competitor for infringement in federal court. During that litigation, the patent was held invalid because Minton’s attorney failed to raise an experimental-use argument in response to an on-sale bar defense.
+After losing the patent case, Minton sued his attorney, Gunn, in Texas state court for legal malpractice. Gunn argued that the malpractice claim belonged exclusively in federal court because it required resolving a substantial question of federal patent law.
+Procedural History
+   * Texas state court: Minton filed legal malpractice claim
+   * Texas Supreme Court: Held federal courts had exclusive jurisdiction because the case turned on patent law
+   * U.S. Supreme Court: Granted certiorari
+Issue
+Does a state law legal malpractice claim based on underlying patent litigation arise under federal patent law, giving federal courts exclusive jurisdiction?
+Rule
+Federal jurisdiction over a state law claim exists only if a federal issue is:
+   1. Necessarily raised
+   2. Actually disputed
+   3. Substantial to the federal system as a whole
+   4. Capable of resolution in federal court without disrupting the federal-state balance
+Holding
+No. The legal malpractice claim does not arise under federal patent law. State courts have jurisdiction.
+Reasoning
+   * Although the malpractice claim necessarily involved a patent law question, the issue was not substantial to the federal system as a whole.
+   * The patent issue was hypothetical and backward-looking, resolving it would not affect future patent law or bind federal courts.
+   * Allowing state courts to decide such cases does not threaten the uniformity of patent law.
+   * Legal malpractice claims are traditionally governed by state law, and shifting them to federal court would upset the federal-state balance.
+Disposition
+Reversed. Case remanded to state court.
+Key Takeaway
+A state law claim does not automatically create federal jurisdiction simply because it involves a federal issue. The federal issue must be substantial to the federal system, not just important to the parties.

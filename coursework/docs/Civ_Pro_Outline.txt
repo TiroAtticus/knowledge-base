@@ -1,0 +1,522 @@
+# Civ Pro Outline
+
+﻿COLOR CODE TABS ACCORDING TO CATAGORY
+
+I. INTRODUCTION
+Introduction to American Courts; 
+Litigation Process & Sources of Procedural Law
+
+
+Article 3 section 2 - Judicial power shall extend to all cases of law and equity. 
+
+
+28USC § 1331 & § 1332 - federal Question jurisdiction and diversity of Citizenship 
+
+
+Federal court - Federal question / diversity jurisdiction / Supplemental Jurisdiction
+
+
+28USC §1441, 1446, 1447 - Removal and removal procedure
+
+
+II. PLEADING
+A. Basic Pleading
+The Complaint, “Notice” Pleading & Pleading “With Particularity” Fed. R. Civ. P. 8, 9
+Rule 3 - 
+Rule 8(a) - must state a claim for relief - short and plain statement
+1. Courts subject matter jurisdiction
+2. Why pleader is entitled to relief
+3. What is demanded for relief 
+   1. Twombly + Iqbal - there must be plausibility
+4. Old standard - Notice standard
+                
+                
+9(b) - Fraud & mistake - a party must state with particularity - the circumstances constituting fraud or mistake - Who what when where
+
+
+“Plausible” Pleading
+Elementary Pleading
+B. Responding to the Complaint (or Not?)
+Default, Moving to Dismiss & Answering the Complaint Fed. R. Civ. P. 55, 12, 8(b) & 8(c)
+Rule 55 - do nothing 
+        Entry Default 55a
+Rule 8b: Defenses; admissions and denials
+1. In General a party must:
+   1. Answer - Admit / Deny
+   2. Don't answer
+                Rule 8c: Affirmative defenses
+        Rule 12 pre-trial motion to dismiss
+12b1 is never waived other defenses can be waived if not used (this will be in the essay)
+12b motions - how to present defenses
+**12b6 failure to state a claim
+
+
+Rule 12b(2-5) defenses are waived if not asserted in D’s first response to complaint
+12g - omnibus motion rule - bring all rule 12 defenses and objections in a single pre-answer motion. 
+6-7 are not waived but are not proper for second pre-answer
+SLIDE: Waivable vs not waivable according to 12 h 
+
+
+Rule 12a - ANSWER
+* Must admit, deny, or state lack of knowledge for each factual allegation in the complaint. 
+* General Denial (Rare)
+* Affirmative defense
+        Rule 15 Amended Pleadings
+* Corrections and amendments
+* Liberal amendment policy
+* Amendment as of right 15a1
+* 15c1C
+   * Proper parties added because case related back based on:
+Same conduct, transaction, or occurrence as the original pleading
+   * New party had notice of the action within rule 4m and
+   * New party knew or should have known that they were the liable party
+   * Relation back: Same conduct, transaction, or occurrence as the original pleading. 
+   * 15d - supplemental pleading
+   * New facts or claims based on events
+                
+        Rule 16: amendments at trial - court issues a final pretrial order that ids issues
+Richard Freer Videos 
+
+
+C. Care and Candor in Pleading
+Reasonable Inquiry, Good Faith Arguments for Changes in the Law, Proper Purpose & Procedure for Rule 11 Sanctions
+Sussman v. Bank of Israel, 5  Fed. R. Civ. P. 11
+
+
+
+
+Rule 11: Signatures, affirmations and sanctions (DOES NOT APPLY TO DISCOVERY)
+11a - Sign and attest:
+        -All docs
+        -Requires the attorney to sign these docs
+                -you made a reasonable inquiry
+11b) - not for improper purpose
+11c) - Sanctions
+D. Amending Pleadings
+Amending Before, During & After Trial; After the Limitations Period Fed. R. Civ. P. 15
+III. JOINDER
+A. Joinder of Claims & Parties
+Joinder of Claims & Parties; Counterclaims, Crossclaims, Impleader & Additional Claims Under Rule 14
+Fed. R. Civ. P. 18, 20, 13, 14
+Rule 18 - Party may bring as many claims as it has against an opposing party Claims may be combined into a single case
+Rule 42b allows a judge to bifurcate the trials to avoid prejudice and confusion
+Adding a claim triggers an answer rule 7a
+Rule 13 - Governs 2 claims - 
+        I. Counterclaims - Claims that the defendant has back against the plaintiff
+   1. Complusory
+   1. Arises out of the same transaction or occurrence as the plaintiff’s claim
+   2. Does not require adding a party over whom the court cannot exercise jurisdiction
+   3. Defendants must assert all compulsory counterclaims or they are waived. 
+
+
+
+
+II. Permissive - Defendant may assert or reserved food a later action without risking wavier. 
+Arise out of a different T/O
+Optional - may be raised in the answer or left for a separate suit
+If omitted -> Not barred
+Still requires an independent basis for SMJ
+
+
+Crossclaims - 13g
+        -Always permissive
+        - must arise out of the same T/O as the original action. 
+
+
+
+
+Rule 14 - Third party practice (impleader) 
+A1- Timing of the summons and complaint
+        The defending party may bring a 3rd party into the suit for Indemnification. Same rule 12 +8 applications apply to third party defendants. 
+
+
+Rule 15 - Amended and supplemental pleadings
+        A - amendments before trial
+   1. Party may amend pleading
+        B- amendments during and after trial
+
+
+Rule 18 - Joinder of claims
+        -General notion that a party may assert as many claims, counterclaims crossclaims, third party claims
+        -Contingent claims are permissible for joinder
+
+
+B. Complex Joinder
+Required Parties, Intervention, Interpleader Fed. R. Civ. P. 19, 24, 22; 28 U.S.C. § 1335
+19 - required joinder of parties
+A- a  person who needs to be a part of the case to reach resolution must be joined
+B - when someone needs to be joined but can't be added, court must determine if the action should proceed among the existing parties
+
+
+20 - Permissive joinder of parties  - May join  together multiple defendants if the purpose / accident is the same
+
+
+Interpleader / statutory interpleader
+   * FRE rule 22
+   * Complete  diversity
+   * >$75,000
+   * May be joined  by  defendants and  required to interplead
+   * 28 USC  §1335
+   * $500  moore
+   * 2  or more adverse claimants
+   * Giving  up the value food the court to decide
+   * Minimal  diversity
+Rule 24 - Intervention
+   * Outside  party shows interest in the outcome of the case
+   * 24a  - must be included,  has  a right, transaction  at hand would impair interest
+   * 24b - Permissive intervention may  intervene if there is a right and they share a common question of law or fact. 
+        
+C. Class Actions
+Class Actions Fed. R. Civ. P. 23 (ESSAY)
+
+
+Rule 23b(1-3)
+B1 - Risk of inconsistent results
+B2 - Injunctive / declaratory relief
+B3 - monetary damages sought
+
+
+A: Prerequisites
+   * One  or more members of a class may sue or be sued on behalf of all members only if:
+   * Numerosity - would regular joinder work instead
+   * Commonality- is there a common question of law or fact
+   * Typicality - are the representatives “Typical”
+   * Adequacy of representation - Will they fairly represent the needs of all parties (attorney and representative parties themselves)
+   * Due process clause  prohibits one from being bound by a  judgement if you  are  not a party
+   * Due process clause is violated  if class  rep’s interest  are not the same as class
+   * Steps to  file a class action
+
+
+IV. DISCOVERY
+A. Informal Investigation & Scope of Discovery
+Introduction, Informal Investigation & Scope of Discovery Fed. R. Civ. P. 11 & 26
+B. Discovery Tools, Control & Abuse
+Discovery Tools Fed. R. Civ. P. 26, 30–36
+26 - duty to disclose
+        -Know (a)(1)(a)(i-iv)  - what a party must disclose. Just cause its given doesnt mean its admissible
+Rule 30 - Deposition and Subpoenas
+Rule 33 - Written interrogatories
+Rule 34 - Request for production
+Rule 35 - Medical  exam  rule
+Rule 36 - request for Admission 
+Rule 37 - Sanctions and responsibilities
+Discovery Control & Abuse Fed. R. Civ. P. 26, 29 & 37
+
+
+Rule 26-37 Generally
+   * Decide what questions go to trial
+   * Prevent trial by ambush
+   * Promote fairness
+                Rule 26(f) and (a)
+                        26f - Discovery conference
+                                -parties meet and confer 
+                        26a - initial disclosures
+                                -14 days after conference
+V. TRIAL & PRETRIAL
+A. Pretrial Case Management & Dispositions Without Trial
+Pretrial Case Management & Dismissal Fed. R. Civ. P. 16 & 41
+                Rule 41 - Dismissal of actions
+   * With prejudice - cannot refile
+   * Without prejudice - can refile
+   * 41b - Involuntary Dismissal (Plaintiff Doesnt show up for trial)
+
+
+Rule 16 - Scheduling order as soon as practicable, after discovery plan / scheduling conference and no later than the earlier of 60/ 90 days
+-Can be delayed for “good cause”
+-Judge sets a date through a scheduling order
+-Per 16(f) a party who is unprepared may be sanctioned
+        -16e order 
+Rule 56 - Summary  Judgement
+   * The party may move for summary judgment. The court shall grant a summary  judgment if the movant shows that  there  is no genuine dispute as to  any material fact and the movant is entitled to judgment as a matter of law
+   * 30 days to file after close of discovery
+   *    * Pg  959
+
+
+
+
+B. The Right to Jury Trial
+The Seventh Amendment & the Right to Jury Trial in Civil Cases
+U.S. Const. amend. VII; Fed. R. Civ. P. 38, 39, 47, 48
+Rule 47 - Selecting jurors
+Rule 48 - number of jurors, at least 6 no more than 12
+C. Judgment as a Matter of Law (Directed Verdict & JNOV)
+Introduction & “Legally Sufficient Evidentiary Basis” & Procedural Technicalities
+Fed. R. Civ. P. 50
+   1. Rule 50 -  judgement as a matter of law
+D. Jury Instructions & Verdicts
+Admissibility of Evidence, Jury Instructions & Jury Verdicts Fed. R. Civ. P. 51, 49
+
+
+   1. Runaway Jury - Moved by emotion, hatred, fear, etc. 
+   1. Jury does not get all information about a case, Rules of evidence protects jury from rumor and unreliable information. 
+   2. Jury Instructions: FRCP 51
+   1. Allows parties to request jury instructions
+   2. After close of evidence: 
+   1. Ask for jury instructions or ask for one timely request for instructions on any issue
+   3. May object to instructions for inaccuracy or bias
+   1. In order to challenge Jury instructions you must have objected at the proper time
+   4. Jury instructions must be:
+   1. Accurate on law
+   1. Court of appeals owes no deference and should correct
+   1. Was anyone hurt by mistake?
+   2. Not misleading on the law
+   1. Court give more leeway as long as accurate on the law and not overwhelmingly confusing, misleading, or direct a verdict
+   3. For reversal, error must prejudice the case and injure one party in the case
+   5. Assigning error - may assign error if property objected, or if instruction was not given and it was requested and objected to
+   1. If you don't properly object, then the court will only review for plain error (51(D)(2))
+   1. Plain error must be plain, obvious, and clearly threaten a miscarriage of justice. 
+   3. Rule 61 - Harmless error - Unless justice requires otherwise, at every stage of proceeding the court must disregard all errors and defects that do not affect any party’s substantial rights.
+**Pattern Jury Instructions are GREAT simplified definitions of all sorts of law
+
+
+Rule 49a - Special Verdict
+49b - General verdict with answers to written questions
+
+
+E. New Trial & Relief from Judgment
+New Trial & Relief from Judgment Fed. R. Civ. P. 59, 60
+   1. Grounds for new trial - 59a
+   1. Weight-of-evidence errors - used sparingly when jury is clearly wrong on their conclusion based  on the facts
+   2. Process errors - granted for process errors that (likely) prejudice the jury
+   3. New Evidence - (exceedingly rare) Time line for the motion is 28 days. Requires showing that the evidence was unavailable before trial. 
+   2. 59d - New trial on the court’s initiative or for reasons not in the motion
+   3. 59e - motion to alter or amend a judgment (motion to reconsider)
+   4. Rule 60 - 
+   1. Rule for minor adjustments
+   2. Grounds for relief from a final judgement
+   1. Mistake, surprise or inexcusable neglect
+   2. Newly discovered negligence
+   3. Fraud
+   4. Judgment is void
+
+
+VI. AFTER FINAL JUDGMENT
+A. Appeals
+Appeals Fed. R. Civ. P. 54; Fed. R. App. P. 4(a); 28 U.S.C. §§ 1291, 1292, 1651
+   1. Notice of appeal is filed with the district court clerk within 30 days of the judgement or order
+   2. 3 p’s of appeal
+   1. Prejudicial Error
+   2. Preserved Error in the court below (Typically through objection)
+   3. Presented Above (Didn't argue on appeal? - Forfeited)
+   3. MacArthur v. University of Texas Health Center at Tyler
+   1. Claim for Retaliation under Title VII
+   2. Sex Discrimination
+   3. Intentional Infliction of Emotional Distress
+   4. Finality - 28 USC §1291
+   1. Courts of appeals has jurisdiction of appeals from all final decisions of the district courts of the united states
+   2. Final Decisions are different than final Judgements
+   5. Exceptions to finality Principle:
+   1. Cohen Collateral order Doctrine 
+   1. Collateral 
+   2. Important
+   3. Conclusive
+   4. Now-or-Never
+   2. Judgement on multiple claims or involving multiple parties Rule 54(b)
+   1. May direct entry for one or more but fewer than all claims or parties 
+   3. §1292(a)
+   1. Appeals as of right
+   1. Injunctions
+   2. Receiverships
+   4. §1292(b)
+   1. Discretionary appeals
+   1. Order must involve a controlling question of law as to which there is substantial ground for changing the outcome of the order
+   2. Order must be appealed within ten days
+   3. Case continues
+   6. Four Horsemen of Appeals:
+   1. Congestion
+   2. Duplication
+   3. Delay
+   4. Added expense
+   7. The Extraordinary Exception: Mandamus - A court order compelling a public official or body to perform a clear, non-discretionary legal duty when the petitioner has a right to it and no other remedy exists
+   1. All Writs Act, 28 USC §1651(a)
+   1. Drastic
+   2. Extraordinary
+   3. Sparingly
+   4. Usurpation of power
+   5. Clear and indisputable
+   6. Clear entitlement to the relief requested
+   8. Standards for Appellate review
+   1. De Novo Standard of Review
+   2. Clearly Erroneous Standard of Review
+   3. Abuse of Discretion Standard (Reasonable jury Standard) 
+   4. Applying the Spectrum 
+
+
+B. Claim Preclusion: “One fair shot”
+   1. Prohibits a second case about the same issue
+   2. Does not apply to lateral judgements
+   1. Preclusion (res Judicata)
+   1. Claim Preclusion - res Judicata, Direct Estoppel (the thing stands adjudicated)
+   2. Issue Preclusion - Collateral Estoppel
+Defining a Claim & Valid, Final Judgment on the Merits
+   1. In order to apply: 
+   1. Same claim in case 1 and case 2 (trend toward transactional definition)
+   2. Case 1 resulted in valid  (but can include judgments where court lacked SMJ or PJ if the parties litigated and failed to raise in Case 1), Final (including on appeal) judgement on the merits (including Rule 12 (b)(6) dismissals, Rule 12(c) judgements on the pleading, Rule 56 summary judgements, Rule 50 JMLs, Rule 37 & 42 disciplinary dismissals & Rule 55 default judgements, but not lack of SMJ or PJ or improper venue, Rule 12(b)(1), (2), (3) 
+   3. Same Parties (and their Privies) 
+   4. Claim preclusion bars matters that were decided in Case 1 AND matters that could have been decided in Case 1
+   2. Virtual Representation is dead
+   1. Taylor v Sturgell (FAA)
+   1. Herrick is an  antique aircraft enthusiast   seeking to  restore  a  Fairchild  engineer  and Airplane Corp F-45
+   2. Files a FOIA claim for plans and loses
+   3. Taylor (close associate of  Herrick) Sues FAA
+   4. FAA claims Res Judicata  / Claim proclusion as an affirmative defense (Rule 8c)
+   5. It is a principle  that one is not bound to a decision of cases that he is not a party 
+   1. Stare Decisis - precedent is binding                                        
+Restatement (Second) of Judgments §§ 17, 24–26 (1982)
+Non-Party Preclusion & Exceptions to Claim Preclusion
+Restatement (Second) of Judgments §§ 17, 24–26 (1982)
+VII. Issue Preclusion
+   1. Claim Preclusion
+   1. §27: Issue of fact or law is actually litigated and determined by a valid and final judgement, and the determination is essential to the judgement, the determination is conclusive in a subsequent action between the parties
+   2. §28: mentions exceptions
+
+
+   2. Elements of Issue Preclusion
+   1. Same issue in case 1 and case 2
+   2. Issue was actually litigated in case 1 [new]
+   3. Issue was necessarily decided in case 1[new]
+   4. Case 1 ended with valid, final judgment [more lenient than in CP]
+   5. Party against whom preclusion sought was a party, or in privity with a party in case 1 [new]
+   6. Party against whom preclusion sought had full and fair opportunity to litigate in case 1 [new]
+   3. Exceptions
+   1. “Judicial findings must not be conflated with absolute truths”
+
+
+Restatement (Second) of Judgments §§ 27–28 (1982)
+Non-Mutual Issue Preclusion, Restatement (Second) of Judgments §§ 27–28 (1982) Inter-System Preclusion & Review
+Restatement (Second) of Judgments § 29 (1982); U.S. Const. art. IV, § 1; 28 U.S.C. § 1738
+Under issue preclusion (collateral estoppel), a party cannot relitigate an issue that:
+   1. Was actually litigated and determined by a court of competent jurisdiction,
+
+   2. Was essential to the prior judgment, and
+
+   3. The party against whom preclusion is applied had a full and fair opportunity to litigate.
+(Restatement (Second) of Judgments §27)
+4. Non-mutual issue preclusion
+      1. Blonder-tongue labs v. Univ. of Ill. Fdn (US 1971)
+      1. Case 1 - (univ of ill fdn v winegard co)
+      1. Pltf - Univ of Ill Fdn v. Winegard co.
+      2. Isbell Patent (Color TV antenna)
+      3. Winegard defends- patent invalid
+      4. Judge finds patent invalid
+      5. Foundation loses, Ct. of App. affirms, Supp. Ct. denies cert.
+      2. Case 2 - (Univ of Ill. Fdn v Blonder-tongue labs)
+      1. Pltf - Univ of Ill Fdn 
+      2. Def - Blonder-tongue labs
+      3. Claim: Blonder-tongue is infringing on isbell patent
+      1. B-T seeks issue preclusion on the validity of the Isbell Patent
+      3. Supreme court approves this use of “non-mutual defensive issue preclusion” 
+      2. Parklane Hosiery v Shore (1979)
+      1. Case 1: SEC v Parklane
+      1. False and misleading proxy statement
+      2. Seeking: injunction - no jury trial, bench trial
+      3. Goes to trial first  - Judge issues ruling "declaratory judgement” that proxy statement was false and misleading. Does not issue an injunction. Requires Parklane to issue a correction
+      2. Case 2: Shore v Parklane
+      1. False and misleading proxy statement
+      2. Seeking: Damages, rescission, costs
+      3. After SEC judgment, Shore moves for partial summary judgment on the issue that the Proxy statement was false or misleading. 
+      3. Offensive use of collateral estoppel does not create judicial efficiency the same way defensive estoppel does. 
+      4. Unfair to apply Offensive estoppel where def may have more resources to litigate than previous defendant
+      5. Supreme Court Rules: Not an across the board bar on offensive issue preclusion and give discretion to the district courts. 
+      1. If OIP would be unfair to the defendant then don't allow it. 
+      2. If pltf is using a wait and see approach, dont allow OIP.
+      3. § 29 issue preclusion in subsequent litigation of others
+      1. Case 1 court that has made the judgement is called “Rendering Court”
+      2. Case 2 in a different state that wants to use preclusion is “Enforcing court’
+      1. Follow the preclusion rule that the rendering court would use. 
+      2. Full faith and  credit clause in Article 4 of US Constitution. And enforced by  statute (Pg 59 of Supp.)
+      3. A  full analysis of Issue preclusion or  claim proclusion  should take a few paragraphs to a few pages
+      1. Points correlate with length required  
+
+
+Review Session
+Syllabus + Table of contents = outline
+We did not cover subject matter jurisdiction or Personal Jurisdiction or venue
+Amending the complaint after statute of limitations has expired and seeking “Relation back” 
+        -Costa Crociere
+No Supplemental Jurisdiction
+Joinder of claims + Parties
+Voluntary and permissive Joinder
+Counter / Cross claims
+Impleader
+Intervention as of right
+Class actions
+      * Prereqs and different types of class action
+      * Hansberry v. Lee - Due process requirements
+      * Floyd - Example of certification
+      * B1 - Prejudice Class
+      * B2 - Injunctive Relief Class
+      * B3 -  Damages Relief Class - As part of settlement, a second notice may be required along with a second opportunity to opt out of the class. 
+
+
+Discovery - 
+        - Scope
+      * Devices
+      * Rule 26 & 37
+      * 26a - gives disclosure obligations
+      * 26b makes discoverable all nonprivileged relevant and proportionate
+      * Pay attention to which can be used by only parties, and which can be used on non-parties
+      * 33 - Interrogatories - Only for another party. Cannot send interrogatories to non-parties
+      * Production can be used with either parties or non-parties 
+      * Medical examination - Requires a court order
+      * Rule 36 - Req for admissions are only valid for the party at hand
+      * 37 - Enforcement for discovery: motion to compel, sanctions. If you are resisting discovery, at a minimum you object, can move for protective order, and sanctions
+      * 37c - tailored to failure to disclose, supplement, or admit
+Trial / Pre-trial
+      * Pretrial case management. Courts are getting more involved in standard litigation especially when parties show they are not good working professionals
+      * Conferences, Forms of Alt Dispute Resolution
+Dispositions without trial 
+      * Voluntary dismissal - settled out of court = vol with prejudice
+      * Involuntary Dismissal
+      * Summary Judgement
+Judgment as a matter of Law (directed verdict and JNOV)
+      * Motions under rule 50a (Directed Verdict)
+      * 50b (JNOV)
+      * You cannot succeed on 50b motion if you did not argue that on a 50a motion
+      * Must file and raise the same argument from 50a.50b
+      * New Trial motion - Rule 59
+      * Remitteter
+Trial by jury and right to jury trial 
+        - 7th amendment
+        - New cause of action > Historical Test to find if most analogous to law or equity. Second prong of test is “Damages or Injunction”
+
+
+Jury instructions and Verdict forms:
+        -Harmless error rule and preservation req
+      1. Error was made
+      2. Harmed client
+      3. Objection was preserved for Appeal
+
+
+Appeals - 
+-Write of last resort
+      * Collateral order doctrine
+      * Exceptions to finality precipice
+      * Standards of appellate review
+
+
+Claim / Issue proclusion
+      * Look at hypotheticals on issue proclusion. Which findings are essential on the judgement
+
+
+Basics of Jurisdiction
+      * Diversity
+
+
+
+
+30 MC questions worth 2 points / no more than 60 min
+3 essays - 1 long essay - 60-80 min
+        -medium - 20-30 min
+        - Short - 10 minutes
+
+
+2010 exam is out there 
+
+
+Twombly 
+Iqbal
+Coste Crocieri
+
+
+Review session @1pm  on Dec 5

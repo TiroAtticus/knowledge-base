@@ -1,0 +1,1502 @@
+# Property Cases
+
+﻿Property Cases
+
+
+CASES 1.12.26
+Pierson v. Post
+Court & Date
+ Supreme Court of New York, 1805
+Trigger (Legally Relevant) Facts
+* Post was actively hunting a fox with hounds on unowned land.
+
+* Pierson knew Post was in pursuit.
+
+* Pierson intercepted, killed the fox, and carried it away.
+
+* Post had not wounded, trapped, or physically controlled the fox at any point.
+Holding
+No property right exists in a wild animal based on pursuit alone. Post had no legal claim to the fox because he never captured or mortally wounded it.
+Rule
+Property rights in wild animals arise only through actual possession, meaning capture or certain control.
+Main Takeaway
+Mere effort, intent, or pursuit does not create property rights. The law favors clear, objective possession rules.
+________________
+
+
+Buster v. Newkirk
+Court & Date
+New York Supreme Court, 1822
+20 Johns. 75
+Procedural History
+Newkirk brought an action of trover against Buster for a deer skin. A justice’s court entered judgment for Newkirk, awarding damages of seventy-five cents. Buster sought review by certiorari to the New York Supreme Court.
+Question Presented (Issue)
+Did Newkirk acquire a property right in the deer by wounding and pursuing it, sufficient to maintain an action of trover against Buster for the deer skin?
+Trigger (Legally Relevant) Facts
+   * On December 31, 1819, Newkirk wounded a deer approximately six miles from Buster’s house.
+
+   * Newkirk pursued the wounded deer with his dogs and followed its blood trail until nightfall.
+
+   * Newkirk abandoned the chase for the night.
+
+   * The next morning, he resumed pursuit and discovered that the deer had been killed the previous evening near Buster’s house.
+
+   * Another person had fired at the deer shortly before it reached Buster’s property.
+
+   * The deer fell, rose again, and continued running while being chased by dogs.
+
+   * Newkirk’s dog seized the deer at about the same time Buster cut the deer’s throat and killed it.
+
+   * Newkirk demanded both the venison and the skin.
+
+   * Buster gave Newkirk the venison but refused to give him the skin.
+
+Plaintiff’s Arguments (Newkirk)
+      * Wounding and continuous pursuit deprived the deer of its natural liberty.
+
+      * This constituted occupancy sufficient to establish property rights.
+
+      * As owner, Newkirk was entitled to both the venison and the skin.
+
+Defendant’s Arguments (Buster)
+         * The deer was never under Newkirk’s power or control.
+
+         * The deer ran six miles and escaped overnight.
+
+         * Property in wild animals requires capture or control, not mere wounding and pursuit.
+
+Rule (Law Applied)
+Property in wild animals (ferae naturae) may be acquired only by occupancy, meaning the animal must be deprived of its natural liberty and brought within the power and control of the pursuer.
+Reasoning (Court’s Explanation)
+            * The court relied explicitly on Pierson v. Post.
+
+            * Although wounding may constitute occupancy if it brings the animal within control, that did not occur here.
+
+            * The deer ran six miles and escaped overnight.
+
+            * Newkirk abandoned the chase for a substantial period.
+
+            * The deer was never deprived of its natural liberty so as to be under Newkirk’s control.
+
+            * Without such control, no property interest arose.
+
+Holding
+No. Newkirk did not acquire a property right in the deer. The judgment in his favor must be reversed.
+Main Takeaway (Why You’re Studying This Case)
+Wounding alone is not enough to establish property rights in a wild animal unless the animal is deprived of its natural liberty and brought under the hunter’s control. This case reinforces and clarifies Pierson v. Post.
+________________
+Keeble v. Hickeringill
+Court & Date
+ Queen’s Bench, England, 1707
+Trigger Facts
+               * Keeble operated a lawful duck decoy pond for commercial profit.
+
+               * Hickeringill repeatedly fired guns near the pond.
+
+               * His sole purpose was to scare away ducks, not to capture them himself.
+
+               * Ducks were driven away, harming Keeble’s livelihood.
+Holding
+Keeble may recover damages for malicious interference with his lawful use of land.
+Rule
+Malicious interference with another’s lawful and productive activity is actionable, even when wild animals are involved.
+Main Takeaway
+Property law protects productive labor and competition, but not spiteful interference.
+________________
+
+
+Ghen v. Rich
+Court & Date
+ U.S. District Court, District of Massachusetts, 1881
+Trigger Facts
+                  * Ghen killed a whale using a bomb-lance marked with his identifying insignia.
+
+                  * The whale sank and later washed ashore.
+
+                  * A third party found the whale and sold it to Rich.
+
+                  * Whaling industry custom treated the killer as the owner once identified.
+
+Holding
+Ghen owned the whale under established industry custom.
+Rule
+Industry custom may define possession when necessary to sustain a productive enterprise.
+Main Takeaway
+Custom can substitute for physical possession when strict capture rules would undermine an entire industry.
+________________
+
+
+Popov v. Hayashi
+Court & Date
+ California Court of Appeal, 2002
+Trigger Facts
+                     * Popov caught Barry Bonds’ record-breaking home run ball in the air.
+
+                     * He was immediately attacked by a mob and lost control of the ball.
+
+                     * Hayashi later picked the ball up off the ground and retained it.
+
+                     * Neither party acted wrongfully toward the other directly.
+
+Holding
+Neither party had superior title. The ball must be sold and the proceeds divided equally.
+Rule
+A person may acquire a pre-possessory interest if he takes significant steps toward possession and is unlawfully interrupted.
+Main Takeaway
+Property law may recognize equitable interests when strict possession rules produce unfair results.
+________________
+
+
+Armory v. Delamirie
+Court & Date
+ King’s Bench, England, 1722
+Trigger Facts
+                        * A chimney sweep’s boy found a jewel.
+
+                        * He took it to a goldsmith for appraisal.
+
+                        * The goldsmith’s apprentice removed the stones and refused to return them.
+Holding
+The finder has rights superior to everyone except the true owner.
+Rule
+Prior possession alone is sufficient to maintain an action against a subsequent possessor.
+Main Takeaway
+Possession creates enforceable property rights, even without ownership.
+________________
+
+
+Hannah v. Peel
+Court & Date
+ King’s Bench, England, 1945
+Trigger Facts
+                           * Hannah, a soldier, was quartered in a house owned by Peel.
+
+                           * Peel had never lived in or occupied the house.
+
+                           * Hannah found a brooch lying loose on a window ledge.
+Holding
+The finder, not the landowner, has the superior right to the item.
+Rule
+A landowner must have possession or control of the premises to claim found property.
+Main Takeaway
+Ownership of land does not automatically confer possession of items found on it.
+________________
+
+
+McAvoy v. Medina
+Court & Date
+ Supreme Judicial Court of Massachusetts, 1866
+Trigger Facts
+                              * McAvoy found a wallet placed on a barber shop counter.
+
+                              * Wallet was intentionally set down, not dropped.
+
+                              * True owner did not return.
+Holding
+The shopkeeper has the superior right to mislaid property.
+Rule
+Mislaid property belongs to the owner of the premises where it was left.
+Main Takeaway
+Courts prioritize returning property to the true owner over rewarding finders
+________________
+
+
+South Staffordshire Water Co. v. Sharman
+Court & Date
+ Queen’s Bench, England, 1896
+Trigger Facts
+                                 * Sharman found gold rings while cleaning a pool on employer’s land.
+
+                                 * Rings were embedded in the mud at the bottom of the pool.
+Holding
+The landowner owns items embedded in the land.
+Rule
+Objects embedded in land belong to the landowner, not the finder.
+Main Takeaway
+Embedded objects follow ownership of the soil.
+________________
+
+
+Elwes v. Brigg Gas Co.
+Court & Date
+ Queen’s Bench, England, 1886
+Trigger Facts
+                                    * Tenant found a prehistoric boat embedded in the soil during a lease.
+
+                                    * Landowner had no prior knowledge of the boat.
+
+Holding
+The landowner, not the tenant, owned the boat.
+Rule
+Embedded objects belong to the fee owner regardless of knowledge.
+Main Takeaway
+Possession of land includes ownership of things permanently attached to it.
+________________
+Eads v. Brazelton 
+Court & Date
+Supreme Court of Arkansas, 1861
+Procedural History
+Brazelton sued Eads, claiming ownership rights to cargo salvaged from a sunken steamboat.
+The trial court ruled in favor of Eads.
+Brazelton appealed, arguing he had already taken possession of the wreck and acquired superior rights.
+Question Presented (Issue)
+Does marking, surveying, and intending to salvage abandoned property constitute possession sufficient to establish ownership rights against a later salvager?
+Trigger (Legally Relevant) Facts
+                                       * The steamboat America sank in the Mississippi River with valuable cargo.
+                                       * Brazelton located the wreck, marked trees on shore, placed buoys over the site, and planned to return with salvage equipment.
+                                       * Before Brazelton returned, Eads located the wreck independently, physically raised the cargo, and took possession.
+                                       * Ship sank 37 years ago. 
+                                       * Brazelton claimed prior possession based on discovery and preparatory acts.
+Plaintiff’s Arguments (Brazelton)
+                                       * He discovered and identified the wreck first.
+                                       * By marking the site and intending to return, he exercised control sufficient to establish possession.
+                                       * Eads knowingly interfered with Brazelton’s salvage rights.
+Defendant’s Arguments (Eads)
+                                       * Discovery and intent alone do not establish possession.
+                                       * Only actual physical control or occupancy creates legal possession of abandoned property.
+                                       * Eads was the first to physically take and secure the cargo, giving him superior rights.
+Rule (Law Applied)
+To acquire rights in abandoned property, a claimant must take actual possession or exercise physical control, not merely discover or intend to possess it.
+Reasoning (Court’s Explanation)
+                                       * The court emphasized that possession requires a present ability to control the property.
+                                       * Brazelton’s actions showed intent but did not amount to physical dominion over the wreck or cargo.
+                                       * Marking trees and placing buoys did not exclude others or secure the property.
+                                       * Eads, by raising and controlling the cargo, was the first to establish true possession.
+                                       * The law favors certainty and rewards actual control rather than speculative claims.
+Holding
+No. Brazelton did not acquire possession because he never exercised physical control over the wreck or cargo; Eads’ later did but actual possession prevailed.
+Main Takeaway (Why You’re Studying This Case)
+                                       * This case illustrates that possession requires actual control, not mere discovery or intent.
+                                       * It is a foundational property case for first possession, abandonment, and the distinction between intent to possess and legal possession.
+________________
+
+
+Haslem v. Lockwood
+Court & Date: Supreme Court of Connecticut, 1871
+Procedural History
+                                       * Haslem sued Lockwood after Lockwood removed and took manure that Haslem had raked into piles on a public highway.
+                                       * The trial court ruled in favor of Lockwood.
+                                       * Haslem appealed, arguing that he had acquired a possessory property interest in the manure.
+Question Presented (Issue)
+Does a person acquire a possessory property right in abandoned material by collecting and laboring over it, even if it remains on public land?
+Trigger (Legally Relevant) Facts
+                                       * Manure from horses accumulated naturally on a public road.
+                                       * Haslem raked the manure into distinct piles, intending to return later to remove it.
+                                       * Before Haslem returned, Lockwood came along and hauled away the manure.
+                                       * The manure was considered abandoned prior to Haslem’s actions.
+Plaintiff’s Arguments (Haslem)
+                                       * By raking the manure into piles, he exercised labor and control over abandoned property.
+                                       * His actions converted the manure from unowned material into personal property.
+                                       * Lockwood wrongfully interfered with his possessory rights.
+Defendant’s Arguments (Lockwood)
+                                       * The manure was on a public highway and available to anyone.
+                                       * Haslem never removed the manure from the road, so he lacked possession.
+                                       * Because the manure remained in a public place, no exclusive property right could arise.
+Rule (Law Applied)
+A person acquires a possessory property interest in abandoned property by exercising labor and control sufficient to appropriate it, even if it remains temporarily on public land.
+Reasoning (Court’s Explanation)
+                                       * The court focused on Haslem’s affirmative acts of labor in gathering and piling the manure.
+                                       * These actions clearly manifested intent to appropriate and exercised dominion over the material.
+                                       * Leaving the manure temporarily on the highway did not defeat possession because removal within a reasonable time was contemplated.
+                                       * To hold otherwise would discourage productive labor and reward opportunistic takers.
+                                       * Property law favors rewarding those who add value and reduce waste.
+Holding
+Yes. Haslem acquired a possessory property interest by raking the manure into piles, and Lockwood wrongfully took Haslem’s property.
+Main Takeaway (Why You’re Studying This Case)
+This case shows that labor plus control can establish possession, even without immediate removal.
+It is a key contrast case to Eads v. Brazelton and pairs well with Pierson v. Post for analyzing when possession begins.
+________________
+
+
+Armory v. Delamirie
+Court & Date
+King’s Bench, 1722
+Procedural History
+                                       * Armory brought an action in trover against Delamirie, a goldsmith, for conversion of a jewel.
+                                       * At trial, the court ruled in favor of Armory and instructed the jury on damages.
+                                       * Delamirie challenged the measure of damages, arguing the value of the jewel was uncertain.
+Question Presented (Issue)
+Does a finder of lost property have a possessory right superior to all others except the true owner, and how are damages measured when the wrongdoer withholds evidence of value?
+Trigger (Legally Relevant) Facts
+                                       * Armory, a chimney sweep’s boy, found a jewel.
+                                       * He took it to Delamirie’s shop to learn its value.
+                                       * Delamirie’s apprentice removed the stones and refused to return them.
+                                       * Delamirie did not produce the jewel at trial.
+Plaintiff’s Arguments (Armory)
+As the finder, he acquired a possessory property right in the jewel.
+Delamirie wrongfully converted the jewel by refusing to return it.
+Damages should reflect the full value of the jewel.
+Defendant’s Arguments (Delamirie)
+Armory, as a finder, had no ownership rights.
+The jewel’s true value was unknown and could not be proven.
+Damages should be minimal or speculative.
+Rule (Law Applied)
+The finder of lost property has a property interest superior to all but the true owner, and when a wrongdoer wrongfully withholds evidence of value, the court presumes the highest reasonable value in favor of the injured party.
+Reasoning (Court’s Explanation)
+                                       * The court recognized that possession alone creates a legally protected property interest.
+                                       * Allowing converters to escape liability by concealing evidence would incentivize wrongdoing.
+                                       * Because Delamirie failed to produce the jewel, the law presumes it to be of the highest quality consistent with the description.
+                                       * This allocation of risk properly falls on the wrongdoer.
+Holding
+Yes. Armory, as the finder, had a superior possessory right, and damages were properly measured by presuming the jewel was of the highest value unless the defendant proved otherwise.
+Main Takeaway (Why You’re Studying This Case)
+                                       * This case establishes the foundational rule that a finder has enforceable property rights against subsequent possessors and introduces an important evidentiary principle that ambiguity is resolved against the wrongdoer.
+                                       * It is central to first possession, finders law, and trover on exams.
+________________
+
+
+Clark v. Maloney
+Court & Date
+Delaware Superior Court, 1840
+Procedural History
+Clark sued Maloney in trover for conversion of logs recovered from a river.
+The trial court ruled for Clark.
+Maloney challenged Clark’s possessory claim, arguing Clark had abandoned the logs.
+Question Presented (Issue)
+Does a prior possessor of lost or abandoned property retain superior rights against a subsequent possessor when the property is temporarily lost but not abandoned?
+Trigger (Legally Relevant) Facts
+Clark discovered logs floating in a river and took possession of them.
+Clark temporarily left the logs unattended.
+Maloney later found the logs and took possession of them.
+Clark returned and demanded the logs back, but Maloney refused.
+Plaintiff’s Arguments (Clark)
+He was the first possessor of the logs.
+Temporary loss of control did not amount to abandonment.
+As prior possessor, his rights were superior to those of a later taker.
+Defendant’s Arguments (Maloney)
+Clark lost possession and control of the logs.
+The logs were abandoned or free for anyone to take.
+Maloney’s later possession gave him superior rights.
+Rule (Law Applied)
+A prior possessor of property retains superior rights over a subsequent possessor unless the property is intentionally abandoned.
+Reasoning (Court’s Explanation)
+The court distinguished between loss and abandonment.
+Clark did not intend to abandon the logs, but merely lost them temporarily.
+Allowing later takers to gain superior rights would undermine stability of possession.
+Property law protects the first possessor against all but the true owner.
+Holding
+Yes. Clark retained superior possessory rights, and Maloney wrongfully converted the logs.
+Main Takeaway (Why You’re Studying This Case)
+This case reinforces that prior possession prevails over subsequent possession absent abandonment.
+
+________________
+Barker v. Bates
+Court & Date
+Supreme Judicial Court of Massachusetts, 1832
+Procedural History
+Barker brought an action against Bates for taking timber that Barker claimed as his own.
+The trial court ruled in favor of Bates.
+Barker appealed, arguing that he had acquired a possessory property right through prior acts of control and appropriation.
+Question Presented (Issue)
+Does preparatory labor and intent to appropriate natural resources establish possession, or is actual physical control required to acquire a property right?
+Trigger (Legally Relevant) Facts
+Trees were cut down on unenclosed land and left where they fell.
+Barker claimed rights based on having marked, identified, or intended to appropriate the timber.
+Bates later took and removed the timber.
+The dispute centered on whether Barker’s actions amounted to possession before Bates acted.
+Plaintiff’s Arguments (Barker)
+His preparatory acts demonstrated intent to appropriate the timber.
+These acts should be sufficient to establish possession.
+Allowing Bates to prevail would reward opportunistic takers.
+Defendant’s Arguments (Bates)
+Intent and preparation alone do not constitute possession.
+Barker never exercised actual physical control over the timber.
+Bates was the first to take physical possession and therefore acquired superior rights.
+Rule (Law Applied)
+To acquire a property right in previously unowned or abandoned resources, a claimant must take actual possession or exercise physical dominion, not merely show intent or preparatory acts.
+Reasoning (Court’s Explanation)
+The court emphasized the need for clear, objective acts establishing control.
+Preparatory steps or subjective intent do not provide notice to others or stabilize property expectations.
+Requiring actual possession prevents uncertainty and disputes over speculative claims.
+Bates’ physical taking of the timber constituted the first legally cognizable possession.
+Holding
+No. Barker did not acquire a possessory property interest because he never exercised actual physical control; Bates’ later but actual possession prevailed.
+Main Takeaway (Why You’re Studying This Case)
+This case reinforces that intent and preparation are insufficient without control.
+It aligns with Eads v. Brazelton and contrasts with Haslem v. Lockwood, helping define the line between mere preparation and legally effective possession.
+________________
+
+
+South Staffordshire Water Co. v. Sharman
+Court & Date
+Queen’s Bench Division (England), 1896
+Procedural History
+South Staffordshire Water Co. brought an action against Sharman for the return of rings found while cleaning a pool on the company’s land.
+The trial court ruled in favor of the Water Company.
+Sharman appealed, claiming rights as the finder.
+Question Presented (Issue)
+Does the owner of land have superior rights to objects found on or in the land over the finder, even if the owner was unaware of the objects’ existence?
+Trigger (Legally Relevant) Facts
+The Water Company owned land containing a pool.
+Sharman was hired to clean the pool.
+While cleaning, Sharman found two gold rings embedded in the mud at the bottom of the pool.
+Sharman turned the rings over to his employer, but later claimed ownership as the finder.
+Plaintiff’s Arguments (South Staffordshire Water Co.)
+As landowner, it had constructive possession of everything in or under the land.
+Objects found embedded in the soil belong to the landowner, not the finder.
+Sharman was acting as an employee or agent while on the land.
+Defendant’s Arguments (Sharman)
+He was the first to discover and physically possess the rings.
+The company had no prior knowledge of the rings.
+As finder, he should have superior rights.
+Rule (Law Applied)
+The owner of land has superior rights to objects found on or embedded in the land, even if the owner was unaware of their existence, and such rights prevail over those of the finder.
+Reasoning (Court’s Explanation)
+The court emphasized the concept of constructive possession.
+Ownership of land carries possession of everything attached to or under the land.
+Allowing finders to prevail would undermine landowners’ rights and create instability.
+Because the rings were embedded in the soil, they were deemed part of the land until removed by the landowner or its agent.
+Holding
+Yes. The landowner had superior rights to the rings, and Sharman, as finder, had no claim against the landowner.
+Main Takeaway (Why You’re Studying This Case)
+This case establishes the landowner-over-finder rule for objects embedded in land.
+It limits Armory v. Delamirie by showing that a finder’s rights yield when property is found in or under land owned by another, making it a cornerstone case for finders and locus-based possession analysis.
+________________
+
+
+Hannah v. Peel
+Court & Date
+King’s Bench Division (England), 1945
+Procedural History
+Hannah brought an action against Peel for recovery of a brooch he found in a house owned by Peel.
+The trial court ruled in favor of Hannah.
+Peel appealed, claiming ownership as the landowner.
+Question Presented (Issue)
+Does a finder of lost property have superior rights over a landowner who never occupied the land and had no prior possession or knowledge of the item?
+Trigger (Legally Relevant) Facts
+Peel owned a house but had never lived in or occupied it.
+During World War II, Hannah was stationed in the house by the military.
+Hannah found a valuable brooch lying loose on a window ledge.
+Hannah turned the brooch over to the police, but no true owner was found.
+Peel claimed the brooch as the landowner.
+Plaintiff’s Arguments (Hannah)
+As finder, he acquired a possessory right in the brooch.
+The brooch was not embedded in the land but merely lying on the surface.
+Peel never exercised possession or control over the house or its contents.
+Defendant’s Arguments (Peel)
+Ownership of land carries rights to items found on the land.
+As landowner, he had constructive possession of the brooch.
+Finder’s rights should yield to the owner of the premises.
+Rule (Law Applied)
+A finder of lost property has superior rights over a landowner who has never occupied or exercised control over the premises, particularly where the item is found unattached to the land.
+Reasoning (Court’s Explanation)
+The court distinguished cases involving landowners who had prior possession or control.
+Peel never occupied the house and had no knowledge of the brooch.
+The brooch was found loose on the surface, not embedded in the land.
+Awarding the brooch to Hannah best aligned with principles of possession and fairness.
+Finders’ rights prevail unless displaced by a landowner’s actual or constructive possession.
+Holding
+Yes. Hannah, as the finder, had a superior possessory right to the brooch over Peel, the non-occupying landowner.
+Main Takeaway (Why You’re Studying This Case)
+This case limits South Staffordshire Water Co. v. Sharman and clarifies that finder beats landowner when the landowner lacks possession or control.
+It completes the modern finders framework by showing how occupation, control, and location of the object determine priority.
+________________
+
+
+Favorite v. Miller
+Court & Date: Supreme Court of Connecticut, decision released December 12, 1978
+Procedural History:
+ Plaintiffs (landowners) sued to recover a statue fragment removed from their land. The case was submitted on a stipulation of facts. Trial court found for plaintiffs. Defendant appealed, arguing his rights as “finder” were superior.
+Question Presented (Issue):
+ Does a person who trespasses onto another’s land and finds property there have a superior right to the property over the landowner?
+Trigger (Legally Relevant) Facts:
+                                       * In 1972, Louis Miller entered plaintiffs’ privately owned property (Davis Swamp area in Wilton, Connecticut) knowing it was private.
+
+                                       * Using a metal detector, he found a fragment of the King George III statue, embedded about ten inches below the soil, excavated it, and removed it.
+
+                                       * Plaintiffs learned of the discovery later through a newspaper. The fragment ended up with the Museum of the City of New York under a sale agreement, pending the lawsuit.
+Plaintiff’s Arguments:
+ As owners of the land where the fragment was found, plaintiffs had the superior claim to it (including under the “mislaid” property approach used by the trial court).
+Defendant’s Arguments:
+ Defendant claimed the law traditionally favors the finder against everyone except the true owner, and he should be rewarded for bringing the object to light. He also challenged the trial court’s “mislaid” classification as speculative given the age of the events.
+Rule (Law Applied):
+ A finder who is a nontrivial trespasser, and who recovers property embedded in the earth, has no superior claim as against the landowner; the landowner’s right prevails.
+Reasoning (Court’s Explanation):
+                                          * The lost, abandoned, mislaid labels require guessing the intent of unknown owners, and here any conclusion about intent from events 200 years earlier would be conjectural.
+
+                                          * One line of authority denies a trespassing finder the usual preference because a wrongdoer should not profit from wrongdoing (especially when the trespass is not trivial).
+
+                                          * Another line of cases treats items embedded in the soil as presumptively possessed by the landowner, so the finder acquires no rights.
+
+                                          * Miller knowingly trespassed and intended to remove the fragment if found, and the fragment was embedded and required excavation, so those facts defeated any finder claim.
+
+Holding:
+ No. The landowners had the superior right. The court affirmed the judgment for plaintiffs, even though it relied on different reasoning than the trial court’s mislaid-property analysis.
+Main Takeaway (Why You’re Studying This Case):
+ This case is a property finder classic for two exam points: (1) a trespasser generally cannot improve his position by wrongdoing, and (2) objects embedded in the soil are strongly presumed to belong to the landowner, which can bypass messy “lost vs. mislaid vs. abandoned” debates. 
+________________
+
+
+Anderson v. Gouldberg
+Court & Date
+Supreme Court of Minnesota, 1892
+Procedural History
+Anderson sued Gouldberg in replevin for logs that Gouldberg had taken from Anderson’s possession.
+The trial court ruled for Anderson.
+Gouldberg appealed, arguing Anderson had no right to possession because Anderson himself had wrongfully cut the logs.
+Question Presented (Issue)
+Can a prior possessor who obtained property wrongfully still recover it from a subsequent wrongdoer who has no better title?
+Trigger (Legally Relevant) Facts
+Anderson wrongfully cut logs from land that did not belong to him.
+After Anderson had possession of the logs, Gouldberg seized them without right.
+Neither party was the true owner of the land or logs.
+The dispute was between two wrongdoers, neither with title.
+Plaintiff’s Arguments (Anderson)
+He had prior actual possession of the logs.
+Possession alone gives a legally protected interest against later takers.
+Gouldberg had no superior title or justification for taking the logs.
+Defendant’s Arguments (Gouldberg)
+Anderson acquired the logs wrongfully and therefore had no right to recover them.
+A trespasser or thief should not be protected by the courts.
+Gouldberg’s possession should prevail because Anderson’s was unlawful.
+Rule (Law Applied)
+Prior possession gives a superior right against a subsequent possessor who has no better title, even if the prior possession was wrongful.
+Reasoning (Court’s Explanation)
+The court emphasized the relativity of title principle.
+Property disputes are resolved by comparing the parties’ rights against each other, not against the true owner.
+Protecting prior possession preserves order and discourages self-help and force.
+The true owner remains free to recover the property from either party.
+Between two wrongdoers, the law favors the one with prior possession.
+Holding
+Yes. Anderson, as the prior possessor, had superior rights over Gouldberg, and could recover the logs.
+Main Takeaway (Why You’re Studying This Case)
+This case cements the rule that prior possession prevails even when possession was wrongful, so long as the opponent has no better title.
+It is the strongest statement of relativity of title, pairing directly with Armory v. Delamirie and completing the possession doctrine for exams.
+________________
+
+
+Anderson v. Gouldberg
+Court & Date
+Supreme Court of Minnesota, 1892
+Procedural History
+Anderson brought an action in replevin to recover logs that Gouldberg had taken from him. The trial court ruled in favor of Anderson, recognizing his right to possession. Gouldberg appealed, arguing that Anderson could not recover because Anderson himself had wrongfully taken the logs in the first place.
+Question Presented (Issue)
+Can a person who is in wrongful possession of personal property maintain an action against a subsequent wrongdoer who interferes with that possession?
+Trigger (Legally Relevant) Facts
+Anderson wrongfully cut and took logs from land he did not own. While Anderson had physical possession of the logs, Gouldberg forcibly took them from Anderson without legal justification. The dispute was not between the true owner and Anderson, but between two successive wrongdoers.
+Plaintiff’s Arguments (Anderson)
+Anderson argued that actual possession alone gives a sufficient right to maintain an action for replevin against anyone except the true owner. He contended that Gouldberg was a stranger to the title and had no legal justification to take the logs by force.
+Defendant’s Arguments (Gouldberg)
+Gouldberg argued that Anderson’s possession was wrongful and illegal, therefore Anderson had no rights the law should protect. He claimed that because Anderson was a trespasser, he could not recover property taken from him.
+Rule (Law Applied)
+One who has actual possession of personal property may maintain an action against a mere wrongdoer who interferes with that possession, even if the possessor’s original acquisition was wrongful, unless the defendant can show superior title or right to possession.
+Reasoning (Court’s Explanation)
+The court reasoned that possession itself is a legally protected interest. The law does not permit individuals to resolve disputes through force or self help simply because another’s possession is wrongful. Allowing Gouldberg to prevail would encourage violence and disorder by permitting anyone to seize property from a possessor without legal process. The true owner remains free to assert superior title, but a stranger cannot justify his own wrongdoing by pointing to the plaintiff’s earlier wrongdoing.
+Holding
+Yes. A wrongful possessor may recover against a subsequent wrongdoer who has no superior right to possession.
+Main Takeaway (Why You’re Studying This Case)
+This case establishes that possession alone is a protected interest in property law and tort law. Even a thief or trespasser has enforceable rights against later wrongdoers. The case illustrates the principle that the law prioritizes order and legal process over self help, and it is foundational for understanding trespass to chattels, conversion, and relative title.
+________________
+
+
+Russell v. Hill
+Court & Date
+Supreme Court of North Carolina, 1899
+Procedural History
+Russell brought an action for trespass and conversion against Hill for interfering with timber. The trial court ruled in favor of Russell. Hill appealed, arguing that Russell’s possession was wrongful and therefore not legally protected.
+Question Presented (Issue)
+Does a person with actual possession of personal property have a sufficient legal interest to recover against a third party wrongdoer, even if the possessor’s claim to the property is defective or inferior?
+Trigger (Legally Relevant) Facts
+Russell was in actual possession of timber that was cut from land to which he did not have clear title. Hill, who also lacked superior title, took or interfered with the timber while Russell had possession. The dispute was between two parties neither of whom was the true owner.
+Plaintiff’s Arguments (Russell)
+Russell argued that actual possession gives a right to exclude others who have no better claim. He maintained that Hill could not justify his interference by pointing to Russell’s lack of title.
+Defendant’s Arguments (Hill)
+Hill argued that Russell’s possession was wrongful and that the law should not protect a possessor who did not have legal title to the timber. He contended that without ownership, Russell had no standing to sue.
+Rule (Law Applied)
+Actual possession of personal property is sufficient to maintain an action against a wrongdoer who cannot show a superior right or title, even if the possessor’s own claim is imperfect.
+Reasoning (Court’s Explanation)
+The court reasoned that possession itself is a legally recognized interest that the law will protect against unlawful interference. If possession alone were insufficient, disputes over property would devolve into force rather than legal process. The court emphasized that only the true owner or one with superior title may challenge a possessor’s rights. A mere intermeddler cannot excuse his own wrongdoing by attacking the plaintiff’s title.
+Holding
+Yes. A possessor may recover against a third party wrongdoer who lacks superior title, even if the possessor’s own title is defective.
+Main Takeaway (Why You’re Studying This Case)
+Russell v. Hill reinforces the relative title doctrine and the principle that possession is protected against all but those with better title. Together with Anderson v. Gouldberg, it forms the backbone rule that wrongful possession is still protected against subsequent wrongdoers, a concept that shows up repeatedly in trespass to chattels and conversion exams.
+________________
+
+
+Adams v. The New Jersey Steamboat Co.
+Court & Date
+New York Court of Appeals, 1896
+Procedural History
+Adams’s estate brought a wrongful death action against the New Jersey Steamboat Company. The trial court ruled in favor of the plaintiff. The defendant appealed, arguing that Adams’s own conduct barred recovery and that the company was not liable for the acts that caused his death.
+Question Presented (Issue)
+Is a common carrier liable for the death of a passenger caused by criminal acts of third parties when the carrier fails to provide reasonable protection for passengers’ safety?
+Trigger (Legally Relevant) Facts
+Adams was a passenger on a steamboat operated by the defendant. He was assigned to a stateroom. During the night, he was attacked, robbed, and killed by a third party who had access to the vessel. The steamboat company failed to provide adequate security measures to protect sleeping passengers.
+Plaintiff’s Arguments (Adams’s Estate)
+The plaintiff argued that the steamboat company, as a common carrier, owed passengers the highest degree of care, including protection from foreseeable criminal acts. The failure to guard passengers or prevent unauthorized access constituted negligence.
+Defendant’s Arguments (Steamboat Company)
+The defendant argued that it was not an insurer of passenger safety and could not be held liable for the unforeseeable criminal acts of third parties. It also contended that Adams assumed the risk or contributed to his own harm.
+Rule (Law Applied)
+A common carrier owes passengers a duty to exercise the highest degree of care reasonably practicable for their safety, including reasonable protection against foreseeable criminal acts of third parties.
+Reasoning (Court’s Explanation)
+The court reasoned that while a carrier is not an absolute insurer of safety, its duty extends beyond mere operation of the vessel. Passengers who are asleep and confined to assigned accommodations are particularly vulnerable. Given the nature of the service and the known risks, reasonable security measures were required. The criminal act did not break the chain of causation because the harm was a foreseeable consequence of the carrier’s failure to protect passengers.
+Holding
+Yes. The steamboat company was liable for Adams’s death due to its failure to exercise the high degree of care owed to passengers.
+Main Takeaway (Why You’re Studying This Case)
+This case establishes that common carriers owe an elevated duty of care that includes protecting passengers from foreseeable criminal acts by third parties. It is foundational for understanding duty, foreseeability, and the limits of third party criminal acts as superseding causes in tort law.
+________________
+
+
+Peet v. The Roth Hotel
+Court: Minnesota Supreme Court  
+Citation: 253 N.W. 546 (Minn. 1934)
+Facts:
+- The plaintiff, Peet, left a valuable engagement ring with the hotel cashier, Miss Edwards, for delivery to a guest, Ferdinand Hotz.
+- The ring was lost shortly after being handed over, with evidence suggesting it was likely stolen.
+- Peet sought to recover the ring's value from the hotel, which claimed no liability due to lack of knowledge about the ring's value.
+Issue:
+- Does a hotel, as a bailee, have liability for the loss of a guest's property when the bailee did not know the property's value?
+Holding:
+- The court held that the hotel was liable for the loss of the ring.
+Reasoning:
+- The court determined that a bailment existed when Peet delivered the ring to the hotel for safekeeping.
+- The identity and nature of the ring were clear; thus, the hotel's lack of knowledge about its value did not absolve it of liability.
+- The court emphasized that mutual assent was established through the conduct of both parties, and the hotel accepted the ring with the responsibility to safeguard it.
+Conclusion:
+- The hotel was found liable for the loss of the ring, affirming the principle that bailees have a duty of care regardless of the value of the property involved.
+- This case illustrates the obligations of bailees and reinforces the concept that the nature of the property does not diminish the duty to protect it.
+________________
+
+
+Allen v. Hyatt Regency-Nashville Hotel
+Court & Date
+Supreme Court of Tennessee, 1984
+Procedural History
+Allen brought a negligence action against the Hyatt Regency-Nashville Hotel for injuries caused by a criminal assault on hotel premises. The trial court entered judgment for the hotel. Allen appealed, and the intermediate appellate court affirmed. The Supreme Court of Tennessee granted review.
+ Question Presented (Issue)
+Does a hotel owe a duty to protect guests from criminal acts of third parties when such acts are reasonably foreseeable?
+Trigger (Legally Relevant) Facts
+Allen was a registered guest at the Hyatt Regency-Nashville Hotel. While on the hotel premises, she was assaulted by a third party. Evidence showed prior criminal incidents on or near the property and circumstances suggesting a foreseeable risk to guests.
+Plaintiff’s Arguments (Allen)
+Allen argued that the hotel owed guests a duty of reasonable care that included taking precautions against foreseeable criminal acts. She contended that prior incidents and the nature of the premises made the risk foreseeable, and that the hotel failed to provide adequate security.
+Defendant’s Arguments (Hyatt Regency-Nashville Hotel)
+The hotel argued it was not an insurer of guest safety and that criminal acts of third parties are superseding causes. It contended that the assault was unforeseeable and that it had no duty to prevent it.
+Rule (Law Applied)
+A hotel owes guests a duty to exercise reasonable care to protect them from foreseeable criminal acts of third parties, and foreseeability determines the existence and scope of that duty.
+Reasoning (Court’s Explanation)
+The court rejected a rigid no-duty rule for third party crimes and adopted a foreseeability based approach. It reasoned that special relationships, including innkeeper-guest, can give rise to a duty to protect against criminal acts when prior incidents or surrounding circumstances make such acts reasonably foreseeable. Whether the hotel breached that duty is generally a question for the jury.
+Holding
+Yes. A hotel may owe a duty to protect guests from third party criminal acts when those acts are reasonably foreseeable. The case was remanded for further proceedings.
+Main Takeaway (Why You’re Studying This Case)
+Allen v. Hyatt Regency-Nashville Hotel cements the modern foreseeability framework for premises liability involving criminal acts. It shows the shift away from blanket no-duty rules and emphasizes that innkeeper liability turns on foreseeability and reasonable precautions, making it a key case to pair with Peet v. Roth Hotel Co. and Adams v. New Jersey Steamboat Co. for duty comparisons.
+________________
+
+
+Cowen v. Pressprich
+Court: Supreme Court, Appellate Term, 1922  
+Citation: 192 N.Y.S. 242
+Facts:
+- Cowen, a stock brokerage firm, mistakenly delivered a bond of the Oregon & California R.R. Co. instead of the intended Oregon Short Line R.R. Co. bond to Pressprich, another brokerage firm.
+- Cowen demanded the return of the correct bond, but Pressprich refused, leading to a lawsuit for conversion.
+
+
+Issue:
+- Whether Pressprich, as an involuntary bailee, had an absolute obligation to return the bond to Cowen or if they could claim due diligence as a defense.
+
+
+Holding:
+- The court affirmed the lower court's ruling in favor of Cowen, stating that Pressprich had an absolute duty to return the bond, regardless of negligence.
+
+
+Reasoning:
+- The court classified Pressprich as an "involuntary bailee" due to the mistaken delivery.
+- It emphasized that a bailee must deliver the bailed property to the rightful owner and that any delivery to the wrong person cannot be excused by good faith or care.
+- The defendants could have taken steps to confirm the delivery but chose to act without verifying the messenger's identity.
+
+
+Conclusion:
+- The judgment was affirmed, holding Pressprich liable for the bond's loss despite their claims of exercising due diligence.
+________________
+
+
+Carr v. Hoosier Photo Supplies, Inc.
+Court: Indiana Court of Appeals, 1982, 441 N.E.2d 450
+Facts:
+- Carr purchased Kodak film and later submitted 18 rolls for development at Hoosier Photo Supplies.
+- Only 14 rolls were returned; the other 4 were lost.
+- Carr was aware of a limitation of liability printed on both the film packaging and the receipts given by Hoosier.
+Issue:
+- Can Hoosier and Kodak limit their liability for negligence due to the clauses on the receipts and packaging?
+
+
+Holding:
+- The court ruled that the limitation of liability clauses were valid and enforceable.
+Reasoning:
+- The court viewed the transaction as a bailment contract, where Carr accepted the terms when submitting the film.
+- Carr, being an experienced attorney, was deemed to have understood and assented to the liability limitations.
+- The court distinguished this case from others involving unconscionability due to Carr's knowledge and experience.
+Conclusion:
+- Carr was limited to recovering the cost of the lost film, affirming the enforceability of the liability limitations.
+________________
+
+
+Flower’s Case
+Court: King’s Bench                Year: 1587
+Citation: 74 Eng. Rep. 1035
+Facts
+The donor intended to make a gift of chattels to the donee. Instead of handing the item directly to the donee, the donor delivered the property to a third party, with instructions that it was for the donee’s benefit. Before the donor’s death, the donor did not reclaim the property and did nothing inconsistent with the gift.
+A dispute arose over whether the transfer was legally effective, specifically whether delivery to a third party could satisfy the delivery requirement for a valid gift.
+Issue
+Is a gift valid when the donor delivers the property to a third party for the benefit of the donee, rather than delivering it directly to the donee?
+Holding
+Yes. Delivery to a third party for the use or benefit of the donee can constitute valid delivery, making the gift effective.
+Rule
+A gift is valid when there is:
+                                             1. Donative intent,
+
+                                             2. Delivery, and
+
+                                             3. Acceptance.
+Delivery does not require physical transfer directly to the donee. Delivery to a third party as trustee or agent for the donee is sufficient, so long as the donor relinquishes dominion and control.
+Reasoning
+The court focused on intent and relinquishment of control, not rigid formalism. By delivering the property to a third party for the donee’s benefit, the donor demonstrated a clear intent to part with ownership. Once dominion passed out of the donor’s hands, the law treated the gift as complete.
+The court emphasized that delivery exists to provide objective evidence of intent, not to frustrate valid transfers through technicalities.
+Policy Rationale
+The rule prevents donors from defeating genuine gifts through overly formal delivery requirements and recognizes practical realities where third-party delivery is more reasonable or safer than direct transfer.
+Key Takeaway for Exams
+Flower’s Case supports the principle that constructive or third-party delivery can satisfy the delivery requirement for gifts, as long as the donor relinquishes control and intends the gift to be presently effective.
+________________
+Irons v. Smallpiece
+Court: King’s Bench                Year: 1819
+Citation: 106 Eng. Rep. 467
+Facts
+A father told his son that he was giving him two colts. The son claimed ownership based on the father’s statement alone. The father retained possession and control of the colts and never delivered them to the son. After the father’s death, a dispute arose over whether a valid inter vivos gift had been made.
+Issue
+Is a verbal promise to give personal property sufficient to create a valid gift without delivery?
+Holding
+No. A gift is invalid without delivery, even if donative intent is clearly expressed.
+Rule
+To make a valid inter vivos gift, there must be:
+                                                1. Donative intent,
+
+                                                2. Delivery, and
+
+                                                3. Acceptance.
+A mere promise or declaration of intent to give property, without delivery, does not transfer ownership.
+Reasoning
+The court emphasized that delivery is essential because it provides objective proof that the donor intended to make the gift immediately and irrevocably. Words alone are insufficient, especially when the donor retains possession and control of the property.
+Allowing ownership to pass without delivery would invite fraud and uncertainty, particularly after the donor’s death when intent cannot be verified.
+Policy Rationale
+The delivery requirement protects against false claims, ensures clear evidence of ownership transfer, and prevents casual or incomplete expressions of intent from having unintended legal consequences.
+Key Takeaway for Exams
+Irons v. Smallpiece stands for the strict rule that intent alone is not enough. Without delivery, no gift is made, even between close family members.
+________________
+
+
+Gruen v. Gruen
+Court & Date
+New York Court of Appeals, 1986
+496 N.E.2d 869
+Procedural History
+Michael Gruen (son and plaintiff) sued his stepmother, Ursula Gruen (defendant), seeking a declaration that he owned a painting gifted to him by his father during the father’s lifetime. The trial court found no valid gift. The Appellate Division reversed. The case reached the New York Court of Appeals.
+Question Presented 
+Can a valid inter vivos gift be made where the donor intends to transfer ownership immediately, but reserves a life estate and retains physical possession of the property?
+Trigger Facts
+The father wrote letters to his son stating that he was giving him ownership of a valuable Klimt painting, while expressly retaining possession of the painting for his lifetime. The father kept the painting until his death. Afterward, the stepmother refused to deliver it to the son.
+Plaintiff’s Arguments
+The son argued that his father intended to make a present transfer of ownership, that delivery was satisfied symbolically through the letters, and that acceptance was presumed because the gift was beneficial.
+Defendant’s Arguments
+The stepmother argued that no valid gift occurred because the father retained possession and control of the painting during his lifetime, showing no present delivery or intent to give.
+Rule 
+A valid inter vivos gift requires:
+                                                   1. Donative intent to make a present transfer of ownership
+                                                   2. Delivery, actual or symbolic, sufficient to divest the donor of dominion and control
+                                                   3. Acceptance by the donee
+Reasoning 
+The court focused on present intent, not physical possession. It held that a donor may transfer ownership immediately while retaining a life estate. The letters clearly expressed intent to give present ownership. Symbolic delivery was sufficient because actual delivery was impractical given the reserved life interest. Acceptance was presumed because the gift was valuable.
+Holding
+Yes. A valid inter vivos gift may exist even when the donor retains possession for life, so long as ownership is transferred immediately.
+Disposition
+Judgment for the plaintiff affirmed.
+Main Takeaway 
+Gruen v. Gruen is foundational for gift law. It clarifies that delivery is flexible and intent controls. Physical possession is not required if the donor clearly intends a present transfer of ownership and retains only a life estate. On exams, this case is critical for distinguishing present gifts from invalid testamentary attempts.
+________________
+
+
+Midway Auto Sales, Inc. v. Clarkson
+Court: Arkansas Court of Appeals
+Date: November 1, 2000
+Citation: 71 Ark. App. 316, 29 S.W.3d 788
+Facts
+                                                   * Jimmy Haddock obtained a 1986 Corvette from an Oklahoma seller using a computer-generated check on a nonexistent bank account, and received the car on an open title.
+
+                                                   * Haddock traded the Corvette to Larry Bowen (pickup truck, camper trailer, $1,000). Before buying, Bowen contacted the Oklahoma licensing agency and was told the title was clear, but he did not register the car.
+
+                                                   * Bowen sold to Mike Clarkson (also not registered), Clarkson sold to Midway Auto Sales, and shortly after Midway bought it, the sheriff confiscated it as stolen and it was released back to the original seller.
+
+                                                   * Midway sued Clarkson for breach of the warranty of title under Ark. Code § 4-2-312.
+Issue
+Did Clarkson breach the warranty of good title when he sold the Corvette to Midway, given it was later confiscated, or did Clarkson have power to convey good title because the chain involved voidable title and good-faith purchasers under Ark. Code § 4-2-403?
+Holding
+No breach. The court affirmed dismissal for Clarkson because Bowen and Clarkson were good-faith purchasers, and under § 4-2-403, a party with voidable title can pass good title to a good-faith purchaser for value.
+Rule
+                                                      * A purchaser with voidable title has the power to transfer good title to a good-faith purchaser for value, including when delivery was exchanged for a later dishonored check or procured through criminal fraud.
+
+                                                      * “Good faith” (in this context) means honesty in fact, and whether someone acted in good faith is generally a fact question.
+Reasoning
+                                                         * Haddock’s acquisition was treated as a voluntary transaction induced by fraud, so he had voidable, not void, title, giving him power to pass title onward until the original seller avoided the sale.
+                                                         * Evidence supported good faith: Bowen checked with the Oklahoma licensing agency, and Clarkson relied on that information. The trial judge’s finding of good faith was not clearly erroneous.
+                                                         * Midway argued no one can be a good-faith purchaser unless the seller’s name is on the title, but the court rejected that as unsupported by authority.
+Takeaway
+This is a clean illustration of UCC § 2-403 (voidable title) defeating a downstream buyer’s warranty-of-title claim when the seller in the chain qualifies as a good-faith purchaser for value, even if the car is later seized.
+If you tell me whether your professor is using this in Property (bona fide purchaser) or Contracts/UCC (warranty of title), I’ll rewrite it in the exact framing they want for exams.
+________________
+
+
+Porter v. Wertz
+Court & Date
+New York Supreme Court, Appellate Division, 1979
+Procedural History
+The plaintiff brought a replevin action seeking the return of a painting. The trial court ruled in favor of the defendants, concluding that the purchaser had obtained good title. The plaintiff appealed, arguing that no valid transfer of title occurred because the seller lacked authority to sell the painting.
+Question Presented (Issue)
+Can a purchaser obtain a good title to stolen artwork when the seller had no actual authority, and the true owner did not entrust the artwork to that seller?
+Trigger (Legally Relevant) Facts
+The plaintiff owned a valuable painting. A third party obtained possession of the painting and transferred it to Wertz, who was falsely represented as an art dealer. Wertz sold the painting to a good-faith purchaser through a gallery. The plaintiff never authorized the sale and never entrusted the painting to Wertz or to the intermediary.
+Plaintiff’s Arguments
+The plaintiff argued that title never passed because Wertz had no authority to sell the painting. Since the painting was never entrusted to Wertz by the true owner, the entrustment doctrine did not apply. Therefore, even a good-faith purchaser could not acquire valid title.
+Defendant’s Arguments
+The defendants argued that the purchaser bought the painting in good faith through normal commercial channels. They claimed the transaction should be protected under commercial law principles favoring the finality of sales and the protection of innocent buyers.
+Rule (Law Applied)
+Under UCC § 2-403, a purchaser can acquire a good title only if the true owner entrusted the goods to a merchant who deals in goods of that kind.
+Reasoning (Court’s Explanation)
+The court emphasized that entrustment requires a voluntary delivery of goods by the true owner to a merchant who regularly deals in such goods. Wertz was not an art dealer and had no authority to sell the painting. The plaintiff never entrusted the painting to Wertz or to anyone with authority to sell it. Because the chain of possession began with an unauthorized transfer, the good-faith purchaser rule did not apply. Protecting innocent buyers does not override the rights of true owners when no entrustment occurred.
+Holding
+No. The purchaser did not obtain a good title because the painting was never entrusted to a merchant with authority to sell it.
+Main Takeaway (Why You’re Studying This Case)
+This case sharply limits the entrustment doctrine. It shows that good-faith purchase alone is not enough. For title to pass, the true owner must have entrusted the goods to a merchant who deals in goods of that kind. This is a core case for understanding conversion, title transfer, and UCC § 2-403 and is highly testable.
+________________
+
+
+Bancorp Leasing & Fin. Corp. v. Stadeli Pump & Constr. Inc.
+Procedural History
+The circuit court awarded judgment to Bancorp, concluding that the replacement engine acceded to the truck and was subject to Bancorp's security interest.
+The Court of Appeals affirmed the circuit court's decision in banc by a 5-3 vote.
+The Supreme Court reversed the decisions of the circuit court and the Court of Appeals and remanded the case to the circuit court for additional findings and further proceedings.
+Facts
+Defendant Otto Stadeli purchased a replacement engine for a dump truck owned by Stadeli Pump & Construction, Inc. (SP&C), in which plaintiff Bancorp Leasing and Financial Corp. (Bancorp) had a perfected security interest.
+SP&C defaulted on its obligations to Bancorp, and Stadeli removed and sold the engine before Bancorp could take possession of the truck.
+Bancorp brought an action for conversion of the engine, claiming its security interest extended to the engine under the common-law accession doctrine.
+The truck's original engine failed in 1981, and SP&C lacked funds to repair it, leaving the truck idle.
+Stadeli purchased the replacement engine for $5,527.66 at the request of Marvin Stadeli, and it was installed in the truck, which operated until November 1983.
+After SP&C defaulted on its payments in July 1983, Stadeli removed the engine and sold it for $8,000, while Bancorp later sold the engineless truck for $8,500.
+Issues
+Whether the replacement engine acceded to the truck under the common-law doctrine of accession, thereby becoming subject to Bancorp's security interest.
+Whether ORS 79.3140 (UCC § 9-314) governs the priority of security interests in the engine.
+Rule
+Under ORS 79.3140(1)-(2), a security interest in goods that attaches before they are installed in or affixed to other goods takes priority over claims to the whole, while a security interest attaching after installation is invalid against persons with prior interests in the whole unless consent is given.
+The common-law doctrine of accession applies when goods of different owners are incorporated together, and title to the resulting product goes to the owner of the principal goods, provided the attached goods are not severable without damage to the principal goods.
+Analysis
+The court analyzed whether Stadeli had an ownership interest or only a security interest in the engine, as this would determine whether ORS 79.3140 applied.
+If Stadeli had only a security interest, it would not have attached under ORS 79.2030(1) because there was no signed writing or possession, making Bancorp's security interest superior upon installation.
+If Stadeli owned the engine, Bancorp's security agreement would not bind him unless the engine acceded to the truck under the common-law doctrine of accession.
+The court rejected the 'functional' test for accession, which focused on the truck's usefulness, and instead applied the 'readily removable without damage' test, finding that the engine was severable without damage to the truck.
+The court noted that Bancorp did not detrimentally rely on the engine's installation and that the installation was a windfall to Bancorp, as it improved SP&C's ability to meet its obligations.
+Conclusion
+The Supreme Court held that the engine did not accede to the truck under the common-law doctrine of accession because it was readily severable without damage to the truck.
+The decisions of the circuit court and the Court of Appeals were reversed.
+The case was remanded to the circuit court for additional findings regarding whether Stadeli had only a security interest in the engine or owned it outright
+Ballard V. Wetzel
+1997 Tenn. App. LEXIS 699 
+Procedural History
+                                                         * The case was tried by the Trial Judge sitting without a jury.
+                                                         * The Trial Judge ruled in favor of the defendant, Johnny Wetzel, determining he was entitled to possession of the vehicle.
+                                                         * The appellate court reviewed the case de novo upon the record, accompanied by a presumption of correctness, as per Tenn. R. App. P. 13(d).
+Facts
+                                                         * The plaintiff's Corvette was stored in her garage after being substantially damaged in a prior accident.
+                                                         * The vehicle was removed from the garage without the plaintiff's authorization, and her son assured her he was having it restored for her.
+                                                         * The defendant, Johnny Wetzel, purchased the vehicle's hull from Lambert Auto Parts for $900 and spent approximately $5,000 and 100 hours restoring it, resulting in a market value of $7,950.
+                                                         * The defendant took steps to verify the parts were not stolen, including checking the VIN numbers through the County Clerk's Office.
+                                                         * The plaintiff's son, Tyrone Ballard, sold the vehicle's hull to George Martin, who then sold it to Lambert Auto Parts, from whom the defendant purchased it.
+Issues
+                                                         * Whether the defendant, Johnny Wetzel, was a good faith purchaser for value under Tennessee law.
+                                                         * Whether the defendant acquired good title to the vehicle through accession, given the significant restoration work performed.
+Rule
+                                                         * A good faith purchaser for value is defined under Tenn. Code Ann. S 47-1-201(32) as one who takes by purchase with sufficient consideration and acts honestly in the transaction.
+                                                         * Under Tenn. Code Ann. S 47-2-403, a purchaser of goods acquires all title the transferor had or had the power to transfer, but only voidable title can confer good title to a good faith purchaser.
+                                                         * Title may pass to an innocent purchaser through accession if there is a significant disparity in value between the original article and the new product resulting from the purchaser's labor or materials.
+Analysis
+                                                         * The court determined that the defendant qualified as a good faith purchaser for value because he purchased the hull for $900, received a receipt, and verified the VIN numbers through the County Clerk's Office.
+                                                         * The court found no evidence that the defendant had notice of facts that would put a reasonably prudent person on inquiry regarding the vehicle's ownership.
+                                                         * The court held that the plaintiff's son, Tyrone Ballard, had no authority to sell the vehicle, and thus, the title transferred was void, not voidable.
+                                                         * Despite the void title, the court concluded that the defendant acquired good title through accession because his labor and investment significantly increased the vehicle's value, creating a disparity between the original hull's value and the restored vehicle's value.
+                                                         * The court rejected the plaintiff's argument that there was insufficient disparity in value, noting that the proper comparison was between the value of the hull and the value created by the defendant's restoration efforts.
+Conclusion
+                                                         * The appellate court affirmed the Trial Court's judgment in favor of the defendant, Johnny Wetzel.
+                                                         * The court held that the defendant acquired good title to the vehicle through accession due to the significant increase in value resulting from his labor and investment.
+                                                         * The case was remanded at the plaintiff's cost.
+________________
+
+
+
+
+
+
+
+
+First Trust & Savings Bank of Moville v. Guthridge
+        Court: Iowa Court of Appeals
+        Year: 1989
+Facts
+The Guthridges executed a promissory note in favor of First Trust & Savings Bank of Moville. The note was secured by collateral. After default, the bank repossessed and sold the collateral but did not strictly comply with the notice and commercial reasonableness requirements of Article 9 of the Uniform Commercial Code. The bank then sued the Guthridges for a deficiency judgment, seeking the remaining balance owed after the sale.
+Procedural History
+The trial court denied the bank’s request for a deficiency judgment, finding that the bank failed to comply with UCC requirements governing disposition of collateral. The bank appealed.
+Issue
+When a secured creditor fails to comply with UCC requirements for the disposition of collateral, may the creditor recover a deficiency judgment from the debtor?
+Rule
+Under the UCC, a secured creditor who disposes of collateral in a manner that is not commercially reasonable or fails to provide proper notice is barred from recovering a deficiency judgment unless the creditor can prove that the collateral’s value was less than the debt owed, independent of the defective sale.
+Holding
+No. A secured creditor who fails to comply with the UCC’s notice and commercial reasonableness requirements is not entitled to a deficiency judgment unless it affirmatively proves the amount by which the debt exceeded the collateral’s fair market value.
+Reasoning
+The court emphasized that Article 9 is designed to protect debtors from unfair disposition of collateral. Allowing an automatic deficiency judgment after a defective sale would undermine those protections. Because the bank failed to conduct a commercially reasonable sale and did not establish the collateral’s fair market value, it could not prove that a deficiency actually existed. The burden of proof rested with the bank, and it failed to meet that burden.
+Disposition
+Affirmed.
+Key Takeaway
+A secured creditor’s failure to strictly comply with UCC Article 9 requirements can bar recovery of a deficiency judgment. The creditor bears the burden of proving that the debt exceeded the collateral’s fair market value, not merely that a balance remains after sale.
+________________
+
+
+ Chapin v. Freeland
+        Court: Supreme Judicial Court of Massachusetts
+        Year: 1886
+Facts
+Freeland found a quantity of lost money and delivered it to Chapin for safekeeping. Chapin agreed to hold the money until the true owner could be identified. When the true owner did not come forward, Freeland demanded return of the money. Chapin refused, claiming he was entitled to retain it or dispose of it himself.
+Procedural History
+Freeland sued to recover the money. The trial court ruled in Freeland’s favor. Chapin appealed.
+Issue
+Does a finder of lost property retain superior rights to the property over a third party bailee when the true owner has not appeared?
+Rule
+A finder of lost property has a possessory interest that is superior to everyone except the true owner. A bailee who receives the property for safekeeping acquires no greater rights than the finder.
+Holding
+Yes. The finder’s rights are superior to those of the bailee, and the bailee must return the property upon demand if the true owner has not been identified.
+Reasoning
+The court explained that when Freeland found the lost money, he acquired lawful possession and a right to keep it against all except the true owner. Chapin received the money only as a bailee, meaning his possession was subordinate to Freeland’s rights. Allowing Chapin to retain the property would improperly elevate the bailee’s interest above that of the finder, contrary to settled property principles governing possession and bailment.
+Disposition
+Judgment affirmed for Freeland.
+Key Takeaway
+In property law, finders have enforceable possessory rights. A bailee who holds lost property for safekeeping cannot assert ownership or refuse to return it to the finder absent a claim by the true owner.
+
+
+________________
+
+
+Solomon R. Guggenheim Foundation v. Lubell
+        Court: New York Court of Appeals
+        Year: 1991
+Facts
+The Solomon R. Guggenheim Foundation owned a painting by Marc Chagall that was stolen from the museum in the late 1960s. Years later, Lubell purchased the painting in good faith from an art dealer, unaware that it was stolen. The Guggenheim eventually learned of Lubell’s possession and demanded the return of the painting. Lubell refused, arguing that the statute of limitations barred the museum’s claim because too much time had passed since the theft.
+Procedural History
+The Guggenheim sued to recover the painting. Lubell moved to dismiss, claiming the statute of limitations had run. The trial court granted Dismissal, The lower courts ruled on appeal in favor of the Guggenheim. Lubell appealed to the New York Court of Appeals.
+Issue
+When does the statute of limitations begin to run for an owner’s action to recover stolen personal property from a good-faith purchaser?
+Rule
+Under New York law, the statute of limitations for replevin of stolen property does not begin to run until the true owner makes a demand for return and the possessor refuses.
+Holding
+The statute of limitations had not run. Guggenheim's claim was timely.
+Reasoning
+The court rejected the discovery rule, which would start the statute of limitations when the owner knew or should have known the location of the property. Instead, New York follows the demand-and-refusal rule, placing the burden on the possessor to justify continued possession once a demand is made. The court emphasized protecting true owners of stolen property, even against innocent purchasers, and declined to impose a duty of reasonable diligence on owners to search for stolen art.
+Disposition
+Affirmed. The Guggenheim was entitled to pursue recovery of the painting.
+Key Takeaway
+In New York, a good-faith purchaser of stolen property does not acquire good title, and the statute of limitations for replevin begins only upon demand and refusal, not upon theft or discovery.
+
+
+
+
+Fleming v. Griswold
+Citation: 3 Hill 85 (N.Y. Sup. Ct. Judicature 1842)
+Court: Supreme Court of Judicature of New York
+Procedural Posture:
+Plaintiffs brought an ejectment action to recover land. After a jury verdict for the defendant based on adverse possession, plaintiffs moved for a new trial, arguing that the statute of limitations should not run against an heir under disability.
+Facts
+                                                         * Peter Tallman acquired a valid title to the land in 1795.
+                                                         * In 1805, Edward Griswold began holding the land adversely under a deed from Earll.
+                                                         * In 1811, Edward conveyed the land to Abraham Griswold, who remained in possession continuously until suit was filed in 1840.
+                                                         * Tallman died in 1815. His daughter, Mrs. Fleming, was his heir.
+                                                         * Mrs. Fleming was under disabilities of infancy and coverture when her right of entry accrued.
+                                                         * Defendant established more than 25 years of continuous adverse possession.
+Issue
+Does the statute of limitations for adverse possession continue to run against an heir who is under a legal disability when the right of entry accrues, if the statute had already begun running against the ancestor?
+Holding
+Yes. Once the statute of limitations begins running against the ancestor, it continues to run against the heir, even if the heir is under a legal disability when the right accrues.
+Rule
+Where the statute of limitations has begun to run against an ancestor or prior owner, it continues to run against the heir, notwithstanding any disability of the heir at the time the right of entry accrues.
+Reasoning
+The court emphasized that the rule was long settled at common law and was not altered by the Revised Statutes. Disabilities such as infancy or coverture do not interrupt the running of the statute once it has already commenced. Allowing disabilities of heirs to toll the statute would undermine the stability and certainty that statutes of limitation are designed to promote in land titles.
+Disposition
+Motion for a new trial denied. Judgment for defendant affirmed.
+Key Takeaway 
+This case illustrates a core adverse possession principle: disabilities of heirs do not stop the clock once adverse possession has begun. Statutes of limitation protect long-standing possessors and promote certainty in land ownership.
+________________
+
+
+Anderson v. Cold Spring Tungsten, Inc.
+Citation: 170 Colo. 7, 458 P.2d 756 (Colo. 1969)
+Court: Supreme Court of Colorado
+Procedural Posture:
+Defendants appealed from a district court judgment that denied their adverse possession claim and quieted title in the plaintiff landowner.
+Facts
+                                                         * Cold Spring Tungsten, Inc. held record title to a parcel of land in Boulder County.
+                                                         * In 1930, William Doherty purchased a cabin located on the property from the Boulder Rotary Club.
+                                                         * From 1930 onward, Doherty and his family used the cabin regularly as a summer residence, sometimes staying for weeks or months.
+                                                         * Defendants maintained and improved the cabin, locked it when not in use, posted signs warning trespassers, paid property taxes, and used surrounding land for trash and toilet facilities.
+                                                         * Members of the public occasionally picnicked on other parts of the property.
+                                                         * Plaintiff filed a quiet title action. Defendants counterclaimed, alleging title by adverse possession.
+
+
+
+
+Issue
+                                                         1. Does a “peaceable” entry negate the hostility requirement for adverse possession?
+                                                         2. Does intermittent public use defeat the exclusivity element of adverse possession?
+                                                         3. What is the proper method for determining the boundaries of land acquired by adverse possession?
+Holding
+                                                         1. No. Peaceable entry does not negate hostility.
+                                                         2. No. Casual public use does not defeat exclusivity.
+                                                         3. Boundaries must be limited to land actually occupied and used in a manner consistent with ownership.
+Rule
+                                                         * Hostility requires intent to claim exclusive ownership, not force, dispute, or intent to dispossess a known owner.
+                                                         * Exclusive possession does not require preventing all public use, only use consistent with how a true owner would treat the land.
+                                                         * Actual occupancy is determined by the ordinary use of the land and visible acts that provide notice of dominion.
+Reasoning
+The trial court incorrectly equated peaceable entry with non-hostile possession. Hostility depends on the possessor’s intent to claim ownership, which was clearly demonstrated by defendants’ conduct over decades.
+The court also rejected the idea that occasional picnicking defeated exclusivity, noting that exclusivity does not require absolute exclusion of the public. However, because the land was unfenced and undefined, defendants could not claim the entire parcel. Only land actually used and appurtenant to the cabin could be acquired by adverse possession. 
+Disposition
+Judgment reversed and remanded. Trial court instructed to determine the boundaries of the land acquired by defendants through adverse possession.
+Key Exam Takeaways
+                                                         * Hostility ≠ aggression. Peaceable entry can still be hostile.
+                                                         * Exclusivity allows incidental public use.
+                                                         * Adverse possession without enclosure is limited to actual, visible, ordinary use of the land.
+________________
+
+
+Grace v. Koch
+Citation: 81 Ohio St. 3d 577, 692 N.E.2d 1009 (Ohio 1998)
+Court: Supreme Court of Ohio
+Procedural Posture:
+The property owner (Grace) filed a trespass action against neighbors (the Kochs). The trial court found that the Kochs had acquired title to a strip of land by adverse possession. The court of appeals reversed. The Ohio Supreme Court granted discretionary review.
+Facts
+                                                         * Grace originally owned a large tract of land (Parcel 43) and conveyed an adjoining parcel (Parcel 44) to the Kochs in 1970.
+                                                         * A fence built decades earlier did not follow the true property line, leaving a 34-foot strip of land between the driveway and the fence that legally belonged to Grace.
+                                                         * At the time of purchase, the Kochs knew they did not own the strip.
+                                                         * The Kochs used the strip as a side yard for over 20 years, mowing grass, parking cars, placing a swing set, storing items, and later installing a carport.
+                                                         * Early on, Mr. Koch asked Grace’s parents for permission to mow the strip and received it.
+                                                         * No ownership dispute arose until 1992, when Grace objected to further use and filed suit.
+Issue
+What burden of proof applies to adverse possession claims in Ohio, and did the Kochs meet that burden by showing hostile and adverse possession for the statutory period?
+Holding
+Adverse possession must be proven by clear and convincing evidence, and the Kochs failed to establish hostile and adverse possession for the full statutory period.
+Rule
+To acquire title by adverse possession in Ohio, a claimant must prove by clear and convincing evidence that possession was:
+                                                         * open and notorious,
+                                                         * exclusive,
+                                                         * continuous, and
+                                                         * adverse and hostile
+for twenty-one years.
+Hostility requires conduct clearly manifesting an intent to claim ownership, not possession by permission.
+Reasoning
+                                                            * Adverse possession results in forfeiture of legal title without compensation and is therefore disfavored, justifying a heightened burden of proof.
+                                                            * Although the Kochs clearly used the strip, their initial use was permissive, which negates hostility.
+                                                            * The record did not show clear and convincing evidence that Grace or his predecessors were on notice that the Kochs were asserting a hostile claim for the entire statutory period.
+                                                            * Mere use, even long-term, is insufficient without conduct that unmistakably signals ownership.
+Disposition
+Judgment of the court of appeals affirmed. Case remanded to restore title to Grace and determine damages for trespass.
+Exam Takeaways
+                                                            * Ohio requires clear and convincing evidence for adverse possession.
+                                                            * Permission destroys hostility, even if later use becomes more assertive.
+                                                            * Long use alone ≠ adverse possession without clear notice of an ownership claim.
+________________
+
+
+
+
+Noone v. Price
+Citation
+171 W. Va. 185, 298 S.E.2d 218 (W. Va. 1982)
+Court
+Supreme Court of Appeals of West Virginia
+Procedural Posture
+Plaintiffs appealed from a partial summary judgment of the Circuit Court of Fayette County, which held that the defendant owed no duty of lateral support to plaintiffs’ dwelling and limited potential recovery to damage to land only.
+Facts
+Plaintiffs owned a house built on a hillside. Defendant owned the adjoining downhill property. A retaining wall, constructed decades earlier by defendant’s predecessor in title and located entirely on defendant’s land, provided lateral support to the hillside.
+The wall had fallen into disrepair prior to defendant’s purchase of the property. Over time, plaintiffs’ land began to subside, causing structural damage to their house. Plaintiffs alleged that deterioration of the retaining wall caused withdrawal of lateral support, leading to subsidence and damage to both their land and dwelling.
+Defendant denied liability and argued she owed no duty to support plaintiffs’ structures, only the land in its natural condition.
+Issues
+                                                            1. Whether an adjoining landowner is strictly liable for withdrawal of lateral support to neighboring land in its natural condition.
+                                                            2. Whether an adjoining landowner may be liable for damage to structures if the land in its natural state would have subsided due to withdrawal of lateral support.
+                                                            3. Whether summary judgment was appropriate where factual questions existed regarding the cause of subsidence.
+Holding
+Yes, an adjoining landowner is strictly liable for withdrawal of lateral support to neighboring land in its natural condition.
+If land in its natural state would have subsided due to withdrawal of support, the adjoining landowner may also be liable for damage to structures on that land.
+Summary judgment was improper.
+Rule of Law
+An adjoining landowner has an absolute right to lateral support for land in its natural condition. An adjacent landowner is strictly liable for acts or omissions that withdraw such support.
+Strict liability does not extend to damage caused solely by the added weight of buildings unless the land in its natural condition would have subsided. Negligence liability may arise if lateral support is withdrawn in an unreasonable or careless manner.
+Reasoning
+The trial court correctly stated that the duty of lateral support applies only to land in its natural condition but incorrectly applied the rule by granting summary judgment. Plaintiffs should have been allowed to prove that their land would have subsided even without the weight of the house.
+If plaintiffs establish that the deterioration of the retaining wall caused subsidence of the land itself, strict liability applies and damages may include injury to structures. The existence of unresolved factual questions regarding causation made summary judgment inappropriate.
+Disposition
+Reversed and remanded for further proceedings.
+Key Takeaway
+Lateral support is a property right. Strict liability protects land in its natural state, but buildings are recoverable only if the land itself would have failed absent the structure’s weight. Summary judgment is improper where causation of subsidence is disputed.
+
+
+Island Creek Coal Co. v. Rodgers
+Citation
+644 S.W.2d 339 (Ky. Ct. App. 1982)
+Court
+Kentucky Court of Appeals
+Procedural Posture
+Plaintiff homeowners obtained a jury verdict against two defendants, Island Creek Coal Company and Cimarron Coal Corporation, for damage to their home caused by subsidence and blasting. The jury awarded compensatory damages against both defendants and punitive damages against Cimarron only. Defendants appealed.
+Facts
+Plaintiffs owned a home in a subdivision located above abandoned underground coal mines originally operated by Island Creek. Island Creek had severed and mined the coal decades earlier and later abandoned the mine.
+Cimarron later engaged in surface strip mining nearby and used explosives. After a major blast, plaintiffs experienced severe shaking and discovered structural damage to their home. Expert testimony conflicted as to whether the damage was caused by inadequate underground support left by Island Creek, Cimarron’s blasting, or a combination of both.
+Plaintiffs also presented valuation testimony asserting that the home was effectively worthless after the damage and required extensive repairs.
+Issues
+                                                            1. Whether an underground mine operator is strictly liable for damage caused by withdrawal of subjacent support to the surface in its “natural state.”
+                                                            2. How “natural state” of the surface is defined for purposes of subjacent support liability.
+                                                            3. Whether the plaintiffs’ expert valuation testimony was competent to support the damages award.
+                                                            4. Whether punitive damages could be awarded against Cimarron but not Island Creek.
+
+
+Holdings
+                                                            1. Yes. An underground mine operator is strictly liable for failure to provide naturally necessary subjacent support.
+                                                            2. The “natural state” of the surface includes reasonable and foreseeable improvements existing at the time the coal is severed from the earth.
+                                                            3. No. The valuation testimony was incompetent and could not support the damages award.
+                                                            4. Yes. Punitive damages were properly submitted against Cimarron alone.
+Rules of Law
+                                                            * An underground mine operator has an absolute duty to provide naturally necessary subjacent support for the surface, independent of negligence.
+                                                            * Strict liability applies to subsidence affecting land in its natural condition, but not to additional weight from artificial structures unless the land itself would have subsided.
+                                                            * Permanent damages to real property are measured by the difference in fair market value before and after the injury, and repair costs are recoverable only if reasonable and not exceeding that difference.
+                                                            * Punitive damages require proof of willful, wanton, or reckless disregard for the rights of others.
+Reasoning
+The court rejected Island Creek’s argument that liability should be fixed based on conditions existing at the time of mineral severance decades earlier. Instead, it defined “natural state” as the condition of the surface, including foreseeable improvements, at the time the coal was removed from the earth.
+However, the court found that plaintiffs’ valuation expert relied improperly on a “cost to cure” method without sufficient market analysis, rendering the damages evidence unreliable.
+As to punitive damages, the evidence showed Cimarron continued blasting after complaints, supporting a finding of reckless disregard, while no similar conduct was shown as to Island Creek.
+Disposition
+Judgment affirmed as to liability, including allocation of fault and availability of punitive damages.
+Judgment reversed as to damages, and case remanded for a new trial on compensatory and punitive damages.
+Key Takeaway (Exam Tip)
+This case combines strict liability for subjacent support with blasting liability and cleanly separates compensatory damages analysis from punitive damages. Know the distinction between natural state of land and added structural weight, and remember that bad valuation evidence can sink an otherwise valid verdict.
+________________
+
+
+Village of Peoria Heights v. Keithley
+132 N.E. 532 (Ill. 1921)
+Court & Date
+        Supreme Court of Illinois, 1921
+Procedural History
+Village of Peoria Heights brought an action to quiet title after the original grantor’s successor claimed ownership of land previously conveyed to the Village. Trial court ruled for the Village. Defendant appealed.
+Issue
+Did the original deed create a fee simple determinable with a possibility of reverter, or a fee simple subject to condition subsequent with a right of entry, and if so, was the future interest properly exercised?
+Trigger (Legally Relevant) Facts
+The land was conveyed to the Village for use as a public park.
+The deed included language limiting the use of the land to park purposes.
+The Village later ceased using the land as a park.
+The grantor’s successor claimed title had reverted or could be reclaimed due to the change in use.
+Rule (Law Applied)
+Words of duration such as “so long as,” “while,” or “during” create a fee simple determinable with a possibility of reverter retained by the grantor.
+Words of condition such as “on condition that,” “provided that,” or “but if” create a fee simple subject to condition subsequent with a right of entry, which requires affirmative action to reclaim the land.
+
+
+Reasoning (Court’s Explanation)
+The court focused on the language of the deed rather than the grantor’s subjective intent.
+The deed used limiting language tied directly to the duration of the estate, not language reserving a right to reenter.
+Because the estate was determinable, termination occurred automatically upon cessation of park use.
+No affirmative act was required by the grantor or successor for the estate to end.
+Holding
+The deed created a fee simple determinable. Upon abandonment of park use, title automatically reverted to the grantor’s successor through a possibility of reverter.
+Main Takeaway (Exam Focus)
+This case cleanly distinguishes possibility of reverter from right of entry.
+Determinable estates end automatically when the condition fails.
+Condition subsequent estates do not terminate unless the holder of the right of entry acts.
+Always analyze the exact deed language first, then match it to the correct future interest.
+________________
+
+
+Trustees of Calvary Presbyterian Church v. Putnam
+162 N.E. 601 (N.Y. 1928)
+Court & Date
+New York Court of Appeals, 1928 1: Property Cases.md
+Procedural History
+The Trustees of Calvary Presbyterian Church sued Putnam to recover money that had been given to the church. The lower court ruled in favor of the church. Putnam appealed.
+Question Presented (Issue)
+Can a charitable or religious organization retain funds that were transferred to it when the donor claims the transfer was procured by fraud or undue influence?
+Trigger (Legally Relevant) Facts
+Putnam transferred money to Calvary Presbyterian Church.
+After the transfer, Putnam claimed the funds were obtained through improper influence or misrepresentation.
+The church received and retained the funds in good faith and used them for church purposes.
+Putnam sought restitution of the money.
+Plaintiff’s Arguments (Trustees)
+The transfer was a valid completed gift.
+The church accepted the funds in good faith and relied on the transfer.
+Once a charitable gift is completed, it cannot be revoked absent clear fraud attributable to the donee.
+Defendant’s Arguments (Putnam)
+The transfer was induced by fraud or undue influence.
+Because the consent was defective, no valid gift occurred.
+Equity required return of the funds.
+Rule (Law Applied)
+A completed gift to a charitable or religious organization will not be set aside unless there is clear proof of fraud, undue influence, or wrongdoing attributable to the donee.
+Reasoning (Court’s Explanation)
+The court emphasized the strong policy favoring stability of completed charitable gifts.
+There was no sufficient evidence that the church itself engaged in fraud or improper conduct.
+Equity does not permit rescission merely because the donor later regrets the transfer or alleges influence without clear proof.
+Allowing recovery would undermine reliance interests of charitable institutions.
+Holding
+No. The donor could not recover the funds. The charitable gift was valid and enforceable.
+Main Takeaway (Why You’re Studying This Case)
+Once a charitable gift is completed, courts are reluctant to undo it absent clear misconduct by the charity itself. This case reinforces the protection of completed gifts and the importance of donor intent at the time of transfer, not later regret.
+________________
+
+
+Richardson v. Holman
+33 So. 2d 641 (Fla. 1948)
+Court & Date
+Supreme Court of Florida, 1948
+Procedural History
+Holman brought an action to determine ownership of certain items attached to real property after a conveyance. The trial court ruled in favor of Holman. Richardson appealed.
+Question Presented (Issue)
+When personal property is annexed to land, under what circumstances does it become a fixture that passes with the conveyance of the real property?
+Trigger (Legally Relevant) Facts
+Richardson owned real property on which various items had been attached for use with the land.
+The items were physically annexed and adapted to the use of the property.
+The property was conveyed to Holman.
+A dispute arose over whether the attached items remained personal property or became part of the realty.
+Plaintiff’s Arguments (Holman)
+The items were affixed to the land in a manner indicating permanence.
+They were adapted to the ordinary use of the property.
+They were intended to be part of the realty and therefore passed with the conveyance.
+Defendant’s Arguments (Richardson)
+The items were personal property and were not intended to become part of the land.
+They could be removed without substantial damage.
+Ownership should not transfer absent explicit agreement.
+Rule (Law Applied)
+Whether an item is a fixture depends on three factors:
+                                                            1. Actual or constructive annexation to the realty.
+                                                            2. Adaptation of the item to the use or purpose of the realty.
+                                                            3. Intent that the item become a permanent accession to the land, with intent being the controlling factor.
+Reasoning (Court’s Explanation)
+The court emphasized that intent governs fixture analysis, inferred from the nature of the article, the manner of annexation, and its relationship to the use of the land.
+The items were annexed and adapted for the ordinary and permanent use of the property.
+The surrounding circumstances indicated an objective intent that the items remain with the land upon conveyance.
+Allowing removal would undermine reasonable expectations in real property transfers.
+Holding
+Yes. The items were fixtures and passed with the conveyance of the real property.
+Main Takeaway (Why You’re Studying This Case)
+This case reinforces the classic three-part fixture test and highlights that intent, viewed objectively, is the dominant factor. On exams, focus less on removability and more on annexation, adaptation, and the inferred intent to make the item part of the realty.
+________________
+
+
+Edwards v. Hammond
+3 Lev. 132, 83 Eng. Rep. 614 (K.B. 1683)
+Topic: contingent remainder, reversion (often discussed as the “rule in Edwards v. Hammond”)
+Facts
+Settlor created an estate: life estate in himself, then to his eldest son and the son’s heirs if the son reached age 21; if the son did not reach 21, then to the settlor’s heirs. At the settlor’s death, the eldest son was alive but under 21. The younger branch (treated as the settlor’s “heirs” under the copyhold rules) took possession; the eldest son sued to recover possession.
+Issue
+Who has the present right to possession between the life tenant’s death and the son reaching 21: the contingent remainderman (eldest son), or the settlor’s heirs holding the reversion?
+Holding
+The settlor’s heirs take the present estate (reversion) and are entitled to possession until the condition is satisfied. The eldest son has only a contingent remainder until he reaches 21, at which point the remainder vests and divests the heirs’ possessory estate. 1: casebriefsco.com
+Rule (Reversion / “reverter” point)
+When a remainder is contingent on a condition precedent (here, reaching 21), the grantor (or the grantor’s heirs) retains a reversion that supports the freehold and carries present possession during the contingency, subject to being defeated when the contingency occurs. 2: casebriefsco.com
+
+
+________________
+
+
+Guilliams v. Koonsman
+279 S.W.2d 579 (Tex. 1955)
+Court & Date
+Supreme Court of Texas, 1955
+Procedural History
+Dispute arose over ownership interests in land following conveyances involving a life estate and remainder. Lower court ruled in favor of the remaindermen. Appeal followed.
+Issue
+Whether holders of a vested remainder have a present, enforceable interest sufficient to challenge conveyances or actions taken by the life tenant that impair the remainder.
+Facts
+Grantor conveyed land creating a life estate in one party with a remainder to others. During the life tenant’s lifetime, actions were taken affecting title and use of the property. Afterward, a dispute arose between parties claiming through the life tenant and those claiming as remaindermen.
+Rule
+A vested remainder is a present property interest, though possessory only upon termination of the life estate. A life tenant cannot convey greater rights than the life estate and cannot defeat or impair the vested remainder.
+Reasoning
+The court emphasized the distinction between possession and ownership. Although the life tenant has the right to present possession, the remaindermen hold a present vested interest in the fee. Any conveyance or act by the life tenant operates only for the duration of the life estate and cannot divest the remaindermen of their future interest.
+Holding
+The remaindermen prevailed. The life tenant’s actions could not defeat the vested remainder.
+Key Takeaway (Exam Tip)
+Remainder interests are present estates. A life tenant can transfer only what they have, a life estate, and cannot destroy or encumber the vested remainder beyond the life tenant’s lifetime. This case is a clean illustration of life estate versus remainder priorities.
+________________
+
+
+Linkous v. Candler
+508 S.E.2d 657 (Ga. 1998)
+Court & Date
+Supreme Court of Georgia, 1998
+Procedural History
+The trustee sought judicial approval to accelerate the distribution of trust assets. The trial court authorized acceleration. The decision was appealed.
+Issue
+Whether a court may accelerate the termination and distribution of a trust when the trust instrument indicates an intent to prohibit acceleration.
+Facts
+The settlor created a trust providing for periodic distributions to beneficiaries over time, with remainder interests vesting at a specified future date. Certain beneficiaries sought early termination and distribution of the trust corpus, arguing that acceleration would better serve their interests and that no material purpose of the trust would be frustrated.
+Rule
+A trust may not be terminated or accelerated prior to the time specified by the settlor if doing so would defeat a material purpose of the trust, as expressed in the trust instrument.
+Analysis
+The language of the trust agreement in this case indicate an intent to prohibit acceleration of the trust. The settlor structured the trust to provide controlled, time based distributions rather than immediate access to the corpus. This structure itself constituted a material purpose of the trust. While the beneficiaries consented to early termination, beneficiary consent alone is insufficient when the trust instrument demonstrates the settlor’s intent to delay possession and enjoyment. Courts must give primary effect to the settlor’s intent, and equitable considerations cannot override express or implied limitations contained in the trust document.
+Holding
+No. The trust could not be accelerated because doing so would contravene a material purpose expressed by the settlor.
+Disposition
+Reversed.
+Key Takeaway
+Courts will not accelerate or terminate a trust, even with beneficiary consent, when the trust instrument reflects a material purpose of delayed distribution. Settlor intent controls.
+________________
+
+
+Browning v. Sacrison
+Citation: 518 P.2d 656
+Court & Date: Supreme Court of Oregon, 1974
+Procedural History
+Browning brought an action seeking equitable relief after mistakenly constructing improvements on land owned by Sacrison. The trial court denied relief and ordered removal. Browning appealed.
+Question Presented (Issue)
+Is a good-faith improver who mistakenly builds on another’s land entitled to equitable relief to prevent unjust enrichment of the landowner?
+Trigger (Legally Relevant) Facts
+Browning, acting in good faith, mistakenly believed he owned a parcel of land.
+He constructed substantial improvements on the property.
+Sacrison was the true landowner and did not induce the mistake.
+Removal of the improvements would cause significant loss to Browning, while leaving them would substantially benefit Sacrison.
+Plaintiff’s Arguments (Browning)
+He acted in good faith under a reasonable mistake.
+Allowing Sacrison to retain the improvements without compensation would unjustly enrich him.
+Equity should provide relief short of forfeiture or destruction.
+Defendant’s Arguments (Sacrison)
+Ownership of land includes ownership of improvements affixed to it.
+Mistake alone should not divest a landowner of property rights.
+Traditional rules require removal of encroachments.
+Rule (Law Applied)
+A good-faith improver who mistakenly enhances another’s land may be entitled to equitable relief when strict enforcement of property rules would result in unjust enrichment.
+Reasoning (Court’s Explanation)
+The court rejected rigid common-law forfeiture rules.
+Equity balances hardships between the parties.
+Browning acted without bad faith, and Sacrison would receive a windfall if allowed to keep the improvements without compensation.
+Modern property law favors restitution over destruction where feasible.
+Holding
+Yes. A good-faith improver is entitled to equitable relief to prevent unjust enrichment of the landowner.
+Disposition
+Reversed and remanded for the trial court to fashion appropriate equitable relief, such as compensation or conveyance.
+Main Takeaway (Why You’re Studying This Case)
+Browning v. Sacrison illustrates the shift from strict property formalism toward equitable remedies. On exams, it supports arguments that courts may protect good-faith improvers and prevent unjust enrichment through restitution or forced sale rather than automatic forfeiture.
+________________
+
+
+Popp v. Bond
+28 So. 2d 259 (Fla. 1946)
+Court & Date
+Supreme Court of Florida, 1946
+Procedural History
+Popp sued Bond in replevin, claiming ownership of a vehicle. Trial court ruled for Bond. Popp appealed.
+Issue
+Does a purchaser who acquires a vehicle from a thief obtain superior title over the true owner?
+Trigger (Legally Relevant) Facts
+Bond was the true owner of an automobile.
+The car was stolen and later sold to Popp.
+Popp purchased the vehicle in good faith and without notice that it was stolen.
+Bond later located the vehicle and asserted ownership.
+Rule
+A thief cannot convey good title. A good-faith purchaser of stolen property acquires no rights against the true owner.
+Reasoning
+The court applied the nemo dat principle, no one can convey better title than they possess.
+Because the seller was a thief, he had no title to transfer.
+Good faith and payment of value do not defeat the true owner’s superior claim.
+Protecting true ownership outweighs protecting innocent purchasers in cases of theft.
+Holding
+Yes. Bond, as the true owner, had superior title. Popp acquired no ownership rights.
+Main Takeaway (Exam Tip)
+Stolen property always stays with the true owner. Good-faith purchaser protection does not apply to theft, only to voidable title situations.
+________________
+
+
+**Finley v. Finley**  
+**318 S.W.2d 478 (Tex. Civ. App. 1958)**
+
+
+**Court & Date**  
+Texas Court of Civil Appeals, 1958
+
+
+**Procedural History**  
+Beneficiaries sought judicial modification or termination of a trust. The trial court denied relief. Beneficiaries appealed.
+
+
+**Question Presented (Issue)**  
+May a court accelerate, terminate, or modify a trust, even with beneficiary consent, when the trust instrument reflects a material purpose of delayed distribution?
+
+
+**Trigger (Legally Relevant) Facts**  
+A settlor created a trust with specified timing and conditions for distribution.  
+All beneficiaries sought to alter or end the trust before the time specified.  
+The trust terms reflected an intent to postpone distribution.
+
+
+**Rule (Law Applied)**  
+A court will not accelerate, terminate, or modify a trust when doing so would defeat a material purpose of the settlor. Settlor intent controls.
+
+
+**Reasoning (Court’s Explanation)**  
+The court emphasized fidelity to settlor intent as the controlling principle of trust law.  
+Delayed distribution was not incidental but a material purpose of the trust.  
+Beneficiary consent cannot override the settlor’s expressed plan.  
+Judicial modification in these circumstances would rewrite the trust.
+
+
+**Holding**  
+No. The trust could not be accelerated or terminated because doing so would defeat a material purpose of the settlor.
+
+
+**Disposition**  
+Affirmed.
+
+
+**Main Takeaway (Why You’re Studying This Case)**  
+Courts will not modify or terminate a trust, even unanimously at the request of beneficiaries, when the trust reflects a material purpose such as delayed distribution. Settlor intent prevails over beneficiary preference. 
+________________
+
+
+Doctor v. Hughes
+122 N.E. 221 (N.Y. 1919)
+Court & Date
+New York Court of Appeals, 1919
+Procedural History
+Plaintiff sought to enforce a trust allegedly created by the decedent in favor of his children. The lower court ruled against enforcement. Plaintiff appealed.
+Question Presented (Issue)
+Can a valid trust be created without delivery of the trust property or a present transfer of ownership, where the settlor retains complete control during life?
+Trigger (Legally Relevant) Facts
+The decedent executed a written instrument declaring that certain property was held “in trust” for his children.
+He retained full possession, control, and beneficial use of the property during his lifetime.
+No delivery of the property or present transfer of ownership occurred.
+After death, the children claimed rights under the alleged trust.
+Rule (Law Applied)
+A valid trust requires a present transfer of ownership or an effective declaration of trust. A trust cannot be used as a substitute for a will, and an instrument that postpones transfer until death without delivery or divestment is invalid.
+Reasoning (Court’s Explanation)
+The court emphasized substance over form. Although labeled a “trust,” the instrument did not divest the settlor of ownership or control during life.
+Because the settlor retained full dominion and the transfer was intended to take effect only at death, the arrangement was testamentary in nature.
+Without compliance with the Statute of Wills, such an arrangement is unenforceable.
+Calling something a trust does not avoid the requirement of a present transfer.
+Holding
+No. The alleged trust was invalid because there was no present transfer of ownership or delivery; it was an impermissible attempt to make a testamentary disposition without a will.
+Main Takeaway (Why You’re Studying This Case)
+Doctor v. Hughes stands for the rule that a trust requires a present transfer of ownership. You cannot create a trust that functions like a will while retaining full control during life. On exams, this case pairs with gift cases to show that labels do not matter, substance does.
+________________
+
+
+Stewart v. Merchants National Bank of Aurora
+278 N.E.2d 10 (Ill. App. Ct. 1972)
+Court & Date
+Illinois Appellate Court, 1972
+Procedural History
+Stewart brought an action against Merchants National Bank of Aurora seeking recovery of funds. The trial court ruled in favor of the bank. Stewart appealed.
+Issue
+Does a bank incur liability when it permits the withdrawal or transfer of funds by a party who lacks proper authority, when the bank has notice of facts that should put it on inquiry?
+Facts
+Stewart had an interest in funds held by the bank. The bank allowed transactions affecting those funds under circumstances suggesting that the party acting lacked proper authority. Stewart alleged the bank failed to exercise due care in honoring the transactions.
+Rule
+A bank may be liable if it honors withdrawals or transfers when it has actual notice, or knowledge of facts sufficient to put it on inquiry, that the transaction is unauthorized.
+Reasoning
+The court focused on the bank’s duty of care and the information available to it at the time of the transaction. If circumstances would cause a reasonable bank to question the authority of the person acting, the bank cannot blindly rely on formalities and avoid liability.
+Holding
+The appellate court held that the bank could be liable under these circumstances and reversed the judgment in favor of the bank.
+Main Takeaway
+Banks have a duty to inquire when surrounding facts suggest a lack of authority. Mere facial compliance is not enough when warning signs are present.
